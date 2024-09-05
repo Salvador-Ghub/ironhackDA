@@ -1,6 +1,6 @@
 import random
 
-input("Hola GitHub")
+input("Hola GitHub, brunch prueba")
 
 
 
