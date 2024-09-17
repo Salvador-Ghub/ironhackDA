@@ -86,7 +86,7 @@ class War():
         
     def vikingAttack(self):
         # your code here
-        if self.vikingArmy!=[] or self.saxonArmy!=[]:
+        if self.vikingArmy!=[] and self.saxonArmy!=[]:
             if len(self.vikingArmy)>1:
                 pos_random_viking=random.randrange(0,len(self.vikingArmy))
             else:
@@ -112,7 +112,7 @@ class War():
         
     def saxonAttack(self):
         # your code here
-        if self.vikingArmy!=[] or self.saxonArmy!=[]:
+        if self.vikingArmy!=[] and self.saxonArmy!=[]:
             if len(self.vikingArmy)>1:
                 pos_random_viking=random.randrange(0,len(self.vikingArmy))
             else:
