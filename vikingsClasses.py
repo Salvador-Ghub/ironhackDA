@@ -4,7 +4,9 @@ import random
 #test command:  python3 4-testsWar.py --v
 
 class Soldier:
-    
+    """
+    https://github.com/ironhack-labs/mini-project-vikings-es
+    """
     def __init__(self, health, strength):
         # your code here
         self.health=health
@@ -23,6 +25,9 @@ class Soldier:
 # Viking
 
 class Viking(Soldier):
+    """
+    https://github.com/ironhack-labs/mini-project-vikings-es
+    """
     def __init__(self, name, health, strength):
         # your code here
         self.name=name
@@ -44,6 +49,9 @@ class Viking(Soldier):
 # Saxon
 
 class Saxon(Soldier):
+    """
+    https://github.com/ironhack-labs/mini-project-vikings-es
+    """
     def __init__(self, health, strength):
         # your code here
         self.health=health
@@ -60,6 +68,9 @@ class Saxon(Soldier):
 # Davicente
 
 class War():
+    """
+    https://github.com/ironhack-labs/mini-project-vikings-es
+    """
     def __init__(self):
         # your code here
         self.vikingArmy=[]
@@ -134,29 +145,4 @@ class War():
         else:
             return "Vikings and Saxons are still in the thick of battle."
             
-    #pass
-
-# #yop
-# class War2:
-
-#     def __init__(self):
-#         # your code here
-
-#     def addViking(self, Viking):
-#         # your code here
-    
-#     def addSaxon(self, Saxon):
-#         # your code here
-    
-#     def vikingAttack(self):
-#         # your code here
-
-#     def saxonAttack(self):
-#         # your code here
-
-#     def showStatus(self):
-#         # your code here
-
-#     pass
-
 
