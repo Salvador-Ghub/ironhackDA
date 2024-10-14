@@ -1,0 +1,80 @@
+CREATE DATABASE concesionario;
+
+USE DATABASE concesionario;
+CREATE SCHEMA concesionario_class;
+
+
+USE SCHEMA concesionario.concesionario_class;
+CREATE TABLE Coches (
+    ID INT,
+    VIN VARCHAR(17),
+    Fabricante VARCHAR(30),
+    Modelo VARCHAR(50),
+    Year INT,
+    Color VARCHAR(10)
+);
+
+CREATE TABLE Clientes (
+    ID INT,
+    Nombre VARCHAR(50),
+    ID_de_Cliente VARCHAR(50),
+    Telefono VARCHAR(20),
+    Correo VARCHAR(50),
+    Direccion VARCHAR(200),
+    Ciudad VARCHAR(50),
+    Estado_Provincia VARCHAR(50),
+    Pais VARCHAR(50),
+    Postal VARCHAR(50)
+);
+
+CREATE TABLE Vendedores (
+    ID INT,
+    ID_de_Personal INT,
+    Nombre VARCHAR(50),
+    Tienda VARCHAR(50)
+);
+
+CREATE TABLE Facturas (
+    ID INT,
+    Numero_de_Factura INT,
+    Fecha DATE,
+    Coche INT,
+    Cliente INT,
+    Vendedor INT
+);
+
+SELECT *
+FROM Coches;
+
+INSERT INTO Clientes
+VALUES (0, '10001', 'Pablo Picasso	', '+34 636 17 63 82', '-', 'Paseo de la Chopera, 14', 'Madrid', 'Madrid', 'España', '28045'),
+(1, '20001', 'Abraham Lincoln', '+1 305 907 7086', '-', '120 SW 8th St', 'Miami', 'Florida', 'Estados Unidos	', '33130');
+
+INSERT INTO Coches
+VALUES (0, '3K096I98581DHSNUP', 'Volkswagen', 'Tiguan', 2019, 'Azul'),
+(1, 'ZM8G7BEUQZ97IH46V', 'Peugeot', 'Rifter', 2019, 'Rojo');
+
+INSERT INTO Vendedores
+VALUES (0, '00001', 'Petey Cruiser', 'Madrid'),
+(1, '00002', 'Anna Sthesia', 'Barcelona');
+
+INSERT INTO Facturas
+VALUES (0, 852399038, '2018-08-2', 0, 1, 3),
+(1, 731166526, '2018-12-31', 3, 0, 5);
+
+
+-- DROP TABLE Clientes;
+-- DROP TABLE FACTURAS;
+-- DROP TABLE Vendedores;
+
+SELECT *
+FROM Coches;
+
+SELECT *
+FROM Clientes;
+
+SELECT *
+FROM Vendedores;
+
+SELECT *
+FROM Facturas;
