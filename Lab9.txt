@@ -78,3 +78,13 @@ FROM Vendedores;
 
 SELECT *
 FROM Facturas;
+
+UPDATE clientes
+SET Nombre = 'Pablo Picasso', Correo = 'ppicasso@gmail.com'
+WHERE id = 0;
+
+UPDATE clientes
+SET Nombre = 'Abraham Lincoln', Correo = 'lincoln@us.gov'
+WHERE id = 1;
+
+DELETE FROM Coches WHERE ID = 1;
