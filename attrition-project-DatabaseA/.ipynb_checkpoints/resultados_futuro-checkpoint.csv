@@ -1,0 +1,1870 @@
+Gender,Age,Education_Level,Relationship_Status,Hometown,Unit,Decision_skill_possess,Time_of_service,Time_since_promotion,growth_rate,Travel_Rate,Post_Level,Pay_Scale,Compensation_and_Benefits,Work_Life_balance,Predicciones
+F,31.0,5,Married,Washington,Quality,Analytical,5.0,2,24,2,4,6.0,type3,3.0,1
+F,22.0,2,Single,Springfield,Logistics,Behavioral,3.0,2,72,1,5,5.0,type3,4.0,1
+M,27.0,3,Married,Washington,Purchasing,Conceptual,5.0,4,68,0,3,8.0,type3,4.0,1
+M,47.0,3,Married,Washington,IT,Conceptual,22.0,3,64,1,3,2.0,type2,4.0,0
+M,38.0,2,Single,Franklin,Human Resource Management,Conceptual,10.0,4,41,2,5,4.0,type2,3.0,1
+M,39.0,1,Married,Lebanon,Marketing,Directive,10.0,3,70,1,2,6.0,type2,3.0,1
+F,60.0,3,Married,Springfield,IT,Directive,27.0,3,45,2,3,6.0,type2,1.0,1
+M,27.0,3,Single,Springfield,Operarions,Directive,5.0,2,73,0,2,6.0,type2,3.0,1
+M,35.0,3,Single,Franklin,Purchasing,Directive,8.0,3,67,1,2,4.0,type0,3.0,1
+F,58.0,3,Single,Franklin,Operarions,Behavioral,31.0,1,62,0,1,3.0,type3,2.0,1
+F,58.0,1,Single,Springfield,IT,Behavioral,29.0,2,28,1,2,5.0,type2,2.0,1
+F,27.0,3,Married,Springfield,Operarions,Analytical,5.0,4,21,1,1,4.0,type2,4.0,0
+M,52.0,3,Single,Springfield,Accounting and Finance,Conceptual,20.0,1,46,1,3,7.0,type3,1.0,0
+F,26.0,3,Married,Washington,Production,Behavioral,4.0,1,30,1,3,2.0,type2,3.0,1
+F,42.0,2,Married,Lebanon,Logistics,Analytical,16.0,1,55,0,1,4.0,type2,1.0,0
+M,37.0,4,Single,Franklin,IT,Conceptual,9.0,2,61,1,5,6.0,type2,2.0,1
+M,32.0,3,Married,Washington,Sales,Conceptual,10.0,1,70,1,4,4.0,type2,4.0,0
+M,54.0,4,Married,Washington,Logistics,Analytical,22.0,4,35,1,3,6.0,type2,4.0,1
+M,28.0,3,Married,Lebanon,Sales,Directive,4.0,1,48,0,3,1.0,type0,1.0,1
+F,65.0,5,Married,Clinton,Operarions,Directive,34.0,1,52,2,3,5.0,type3,2.0,1
+M,26.0,1,Single,Franklin,R&D,Behavioral,3.0,3,71,0,3,5.0,type2,1.0,1
+M,22.0,4,Married,Springfield,Logistics,Directive,3.0,3,74,0,3,8.0,type2,3.0,1
+M,58.0,4,Married,Clinton,Human Resource Management,Analytical,34.0,2,61,0,3,6.0,type2,4.0,0
+M,31.0,3,Married,Springfield,Quality,Directive,2.0,2,56,1,2,1.0,type3,3.0,1
+F,56.0,3,Married,Lebanon,Logistics,Directive,23.0,4,25,0,3,6.0,type2,2.0,0
+M,35.0,1,Married,Springfield,R&D,Analytical,6.0,4,45,2,2,6.0,type2,5.0,0
+M,64.0,5,Married,Washington,Sales,Directive,39.0,1,69,1,3,4.0,type2,1.0,1
+F,34.0,3,Married,Franklin,IT,Conceptual,8.0,3,20,2,3,9.0,type2,3.0,1
+F,51.0,3,Single,Lebanon,IT,Analytical,22.0,4,32,1,2,8.0,type2,1.0,1
+F,34.0,3,Married,Lebanon,Sales,Analytical,11.0,4,39,1,2,8.0,type4,3.0,0
+M,64.0,3,Married,Springfield,Production,Directive,34.0,4,58,1,3,6.0,type2,1.0,0
+F,24.0,3,Single,Springfield,Purchasing,Analytical,5.0,1,33,2,2,4.0,type2,4.0,1
+M,57.0,1,Single,Franklin,Operarions,Analytical,19.0,1,28,1,1,7.0,type1,1.0,0
+F,65.0,3,Married,Clinton,Purchasing,Directive,32.0,3,58,1,2,3.0,type4,3.0,1
+F,52.0,5,Married,Franklin,Operarions,Analytical,18.0,2,31,0,4,8.0,type4,1.0,0
+M,44.0,3,Single,Springfield,Logistics,Conceptual,11.0,3,66,1,2,6.0,type3,3.0,1
+F,65.0,1,Single,Washington,IT,Directive,29.0,4,41,0,3,7.0,type2,1.0,1
+F,28.0,2,Married,Lebanon,Sales,Directive,5.0,3,47,2,3,5.0,type2,3.0,1
+M,60.0,5,Married,Lebanon,Accounting and Finance,Conceptual,33.0,1,62,1,3,1.0,type2,3.0,0
+F,60.0,4,Married,Franklin,Marketing,Analytical,36.0,2,74,1,4,9.0,type2,1.0,0
+F,26.0,5,Single,Franklin,Operarions,Conceptual,4.0,2,56,1,3,6.0,type2,1.0,0
+M,20.0,3,Married,Clinton,IT,Conceptual,1.0,1,53,1,5,3.0,type3,1.0,0
+F,35.0,3,Single,Springfield,R&D,Behavioral,11.0,3,32,0,2,8.0,type3,2.0,0
+F,65.0,2,Married,Washington,Operarions,Conceptual,26.0,1,40,0,3,8.0,type2,3.0,1
+F,59.0,3,Married,Franklin,Marketing,Conceptual,21.0,3,32,1,3,6.0,type2,2.0,1
+F,33.0,4,Married,Lebanon,Sales,Directive,7.0,4,42,1,5,4.0,type4,2.0,1
+M,26.0,5,Married,Franklin,Accounting and Finance,Conceptual,2.0,2,51,1,3,5.0,type2,2.0,0
+F,30.0,3,Married,Franklin,R&D,Directive,8.0,2,32,1,2,6.0,type2,1.0,1
+M,43.0,4,Single,Lebanon,Marketing,Analytical,11.0,1,59,1,2,5.0,type2,4.0,1
+F,59.0,5,Married,Franklin,Purchasing,Conceptual,21.0,3,37,1,3,8.0,type2,2.0,0
+F,31.0,3,Married,Lebanon,Human Resource Management,Behavioral,3.0,3,73,2,5,6.0,type1,3.0,0
+M,22.0,5,Married,Franklin,Operarions,Behavioral,3.0,3,61,1,3,5.0,type2,1.0,0
+F,52.0,1,Single,Franklin,Marketing,Conceptual,27.0,2,38,1,3,4.0,type3,5.0,1
+M,46.0,2,Married,Springfield,Sales,Directive,21.0,1,55,0,5,6.0,type3,2.0,1
+M,31.0,3,Single,Lebanon,Logistics,Analytical,5.0,3,59,2,3,1.0,type2,3.0,0
+F,20.0,3,Married,Lebanon,Sales,Conceptual,1.0,1,72,0,3,8.0,type2,5.0,1
+F,44.0,3,Married,Washington,IT,Directive,11.0,3,21,0,3,6.0,type2,3.0,0
+M,47.0,1,Single,Washington,IT,Directive,20.0,1,39,0,4,2.0,type3,3.0,1
+F,47.0,4,Single,Lebanon,Logistics,Behavioral,15.0,1,65,1,3,6.0,type2,2.0,0
+F,22.0,2,Single,Franklin,R&D,Directive,3.0,2,20,0,5,4.0,type2,4.0,1
+F,56.0,3,Married,Springfield,Production,Conceptual,33.0,4,38,1,3,6.0,type3,3.0,1
+F,42.0,3,Married,Clinton,Sales,Directive,18.0,2,60,1,3,6.0,type2,3.0,0
+M,60.0,4,Married,Springfield,Production,Directive,38.0,1,72,0,3,5.0,type3,1.0,0
+M,32.0,3,Single,Lebanon,Sales,Directive,4.0,1,55,0,1,1.0,type2,3.0,0
+F,26.0,3,Single,Lebanon,Logistics,Directive,4.0,1,74,2,5,6.0,type3,1.0,0
+M,32.0,3,Single,Lebanon,Accounting and Finance,Behavioral,6.0,4,33,1,1,7.0,type2,4.0,1
+M,20.0,4,Married,Franklin,Sales,Conceptual,1.0,1,35,1,1,9.0,type3,3.0,0
+F,30.0,3,Married,Lebanon,Sales,Behavioral,6.0,3,62,1,5,5.0,type3,2.0,1
+F,47.0,2,Married,Clinton,Accounting and Finance,Behavioral,15.0,3,44,0,4,6.0,type2,1.0,0
+F,28.0,5,Married,Washington,Sales,Analytical,6.0,2,67,0,5,4.0,type2,1.0,1
+F,58.0,4,Single,Clinton,Marketing,Directive,21.0,4,24,0,5,5.0,type3,2.0,1
+F,22.0,3,Married,Washington,Logistics,Behavioral,3.0,3,24,1,1,3.0,type3,4.0,1
+F,60.0,1,Single,Washington,Logistics,Behavioral,23.0,3,37,1,3,3.0,type3,4.0,0
+F,65.0,3,Married,Franklin,IT,Directive,29.0,2,73,1,4,7.0,type2,1.0,0
+F,45.0,3,Single,Lebanon,Operarions,Conceptual,8.0,4,30,1,1,3.0,type2,1.0,0
+F,61.0,3,Married,Washington,Operarions,Conceptual,24.0,3,49,1,2,8.0,type0,4.0,1
+F,26.0,3,Married,Springfield,R&D,Conceptual,4.0,1,56,2,1,10.0,type3,4.0,1
+F,50.0,4,Single,Clinton,Accounting and Finance,Conceptual,24.0,3,32,2,1,7.0,type2,1.0,1
+M,25.0,5,Married,Lebanon,Sales,Directive,6.0,3,58,1,2,7.0,type2,1.0,0
+M,28.0,3,Married,Lebanon,Logistics,Conceptual,4.0,4,42,1,2,8.0,type1,3.0,0
+M,52.0,5,Married,Springfield,IT,Conceptual,22.0,1,27,1,1,6.0,type2,2.0,0
+F,60.0,1,Single,Franklin,Sales,Directive,23.0,1,74,0,4,3.0,type2,3.0,0
+M,54.0,2,Married,Springfield,R&D,Directive,27.0,3,59,1,2,5.0,type2,1.0,0
+F,55.0,3,Single,Franklin,Security,Behavioral,21.0,4,60,0,2,5.0,type3,1.0,0
+F,44.0,2,Married,Franklin,IT,Analytical,16.0,2,51,1,3,9.0,type2,1.0,0
+M,32.0,3,Single,Lebanon,Accounting and Finance,Behavioral,6.0,4,33,1,1,7.0,type2,4.0,1
+M,29.0,3,Married,Springfield,R&D,Behavioral,5.0,3,28,1,3,8.0,type3,2.0,0
+F,59.0,5,Married,Lebanon,Purchasing,Conceptual,33.0,3,69,1,3,5.0,type3,3.0,1
+M,58.0,4,Married,Clinton,Sales,Behavioral,19.0,2,63,0,1,4.0,type2,3.0,0
+F,53.0,4,Single,Franklin,Logistics,Analytical,29.0,2,22,0,2,4.0,type2,4.0,1
+M,51.0,4,Single,Lebanon,IT,Analytical,23.0,1,67,2,4,8.0,type2,1.0,0
+F,22.0,4,Married,Washington,Purchasing,Directive,3.0,2,47,1,5,8.0,type3,2.0,1
+F,30.0,4,Married,Springfield,Operarions,Directive,8.0,4,25,1,1,6.0,type3,3.0,1
+F,54.0,3,Single,Washington,Quality,Analytical,21.0,1,70,1,5,5.0,type2,1.0,0
+M,46.0,4,Single,Lebanon,Purchasing,Analytical,14.0,4,32,0,5,6.0,type2,3.0,1
+M,53.0,3,Married,Springfield,Logistics,Directive,23.0,2,36,1,1,8.0,type3,3.0,1
+F,54.0,5,Single,Washington,Security,Conceptual,15.0,1,51,0,5,5.0,type2,4.0,1
+M,41.0,3,Married,Washington,Sales,Conceptual,19.0,1,25,0,1,6.0,type3,4.0,0
+M,52.0,3,Single,Lebanon,Logistics,Behavioral,18.0,4,73,1,3,6.0,type2,2.0,0
+M,22.0,1,Married,Washington,Operarions,Conceptual,3.0,3,59,1,3,6.0,type2,2.0,1
+F,20.0,3,Single,Washington,R&D,Conceptual,1.0,1,69,1,2,3.0,type2,1.0,0
+M,55.0,4,Married,Lebanon,R&D,Behavioral,33.0,2,72,0,1,1.0,type2,2.0,0
+M,60.0,2,Married,Lebanon,R&D,Conceptual,21.0,4,34,1,4,9.0,type2,3.0,1
+F,43.0,3,Married,Lebanon,IT,Behavioral,19.0,2,28,2,2,8.0,type2,2.0,1
+F,30.0,5,Married,Franklin,Accounting and Finance,Analytical,8.0,1,69,1,3,6.0,type2,5.0,0
+F,32.0,4,Married,Franklin,Purchasing,Conceptual,7.0,4,59,2,1,5.0,type3,3.0,1
+M,31.0,1,Married,Springfield,Marketing,Analytical,6.0,2,35,2,4,4.0,type2,3.0,1
+F,25.0,3,Married,Springfield,IT,Conceptual,6.0,4,61,1,1,2.0,type3,1.0,0
+M,65.0,3,Single,Springfield,Logistics,Conceptual,30.0,4,69,0,5,7.0,type3,1.0,1
+M,32.0,4,Married,Washington,Marketing,Analytical,7.0,2,21,0,2,5.0,type2,4.0,0
+M,32.0,1,Married,Lebanon,R&D,Analytical,5.0,4,24,1,3,5.0,type2,3.0,1
+F,60.0,4,Married,Springfield,IT,Analytical,26.0,2,56,1,1,8.0,type0,3.0,1
+F,29.0,4,Married,Lebanon,Sales,Analytical,6.0,3,61,1,5,7.0,type3,4.0,0
+F,19.0,1,Single,Washington,Logistics,Analytical,0.0,0,49,1,1,8.0,type2,4.0,1
+M,34.0,3,Single,Franklin,Sales,Behavioral,6.0,4,47,0,2,4.0,type4,1.0,1
+M,29.0,3,Single,Franklin,Marketing,Directive,6.0,1,64,1,4,1.0,type2,1.0,0
+F,54.0,2,Married,Washington,Production,Conceptual,29.0,2,26,1,3,6.0,type2,3.0,0
+F,38.0,1,Single,Lebanon,Quality,Behavioral,11.0,4,27,1,2,8.0,type4,3.0,1
+M,30.0,4,Married,Franklin,IT,Behavioral,6.0,1,36,1,3,4.0,type3,4.0,0
+M,39.0,5,Single,Franklin,Operarions,Analytical,15.0,2,28,0,4,8.0,type3,1.0,0
+F,39.0,4,Married,Washington,Marketing,Conceptual,17.0,4,33,1,2,5.0,type2,2.0,0
+M,54.0,4,Married,Clinton,Logistics,Behavioral,15.0,1,70,0,3,6.0,type2,4.0,1
+F,65.0,3,Married,Lebanon,Sales,Conceptual,29.0,1,27,2,4,5.0,type3,1.0,0
+M,27.0,5,Single,Clinton,Logistics,Analytical,4.0,3,30,1,5,7.0,type2,4.0,1
+F,37.0,3,Married,Lebanon,Human Resource Management,Directive,11.0,2,40,1,4,10.0,type2,4.0,1
+F,26.0,3,Married,Clinton,Security,Conceptual,2.0,1,68,2,3,8.0,type3,3.0,0
+F,51.0,3,Single,Lebanon,IT,Analytical,22.0,4,32,1,2,8.0,type2,1.0,1
+F,54.0,3,Married,Washington,Operarions,Directive,25.0,2,43,1,2,6.0,type3,3.0,0
+M,19.0,1,Single,Lebanon,Purchasing,Conceptual,0.0,0,38,0,3,6.0,type0,4.0,1
+F,47.0,3,Married,Springfield,Logistics,Behavioral,10.0,1,23,1,3,8.0,type3,2.0,1
+M,25.0,3,Single,Clinton,IT,Analytical,6.0,4,49,0,2,4.0,type2,3.0,1
+F,47.0,2,Married,Franklin,IT,Behavioral,16.0,1,46,0,5,8.0,type3,3.0,0
+M,52.0,4,Married,Clinton,Security,Conceptual,27.0,4,69,0,3,8.0,type3,1.0,0
+M,36.0,3,Married,Lebanon,Sales,Directive,10.0,2,66,1,3,5.0,type2,2.0,1
+M,50.0,1,Single,Springfield,Operarions,Directive,26.0,2,51,0,4,5.0,type2,1.0,1
+M,53.0,3,Single,Springfield,IT,Analytical,24.0,4,56,2,3,6.0,type4,1.0,1
+M,45.0,4,Single,Springfield,R&D,Behavioral,15.0,1,22,0,3,6.0,type2,3.0,1
+M,43.0,4,Married,Washington,Quality,Directive,7.0,1,30,0,4,7.0,type3,1.0,1
+M,42.0,3,Single,Springfield,Logistics,Directive,3.0,3,27,1,3,8.0,type3,2.0,0
+F,46.0,2,Married,Lebanon,Sales,Behavioral,11.0,3,74,0,1,4.0,type2,3.0,1
+F,65.0,5,Married,Springfield,Logistics,Analytical,36.0,1,35,0,3,4.0,type2,1.0,0
+F,65.0,5,Married,Springfield,Sales,Directive,28.0,4,27,1,3,5.0,type2,2.0,0
+F,60.0,3,Single,Franklin,Logistics,Conceptual,27.0,2,32,2,2,5.0,type3,3.0,1
+F,32.0,4,Married,Franklin,Purchasing,Conceptual,7.0,4,59,2,1,5.0,type3,3.0,1
+M,40.0,5,Married,Lebanon,Sales,Analytical,16.0,4,56,1,1,6.0,type2,3.0,0
+F,28.0,5,Married,Franklin,IT,Directive,4.0,2,36,2,2,2.0,type3,1.0,0
+M,21.0,3,Married,Franklin,Operarions,Directive,2.0,2,24,2,5,4.0,type3,3.0,1
+F,30.0,1,Single,Lebanon,Operarions,Directive,8.0,2,62,1,3,8.0,type2,4.0,0
+F,37.0,4,Single,Springfield,Logistics,Conceptual,12.0,4,59,1,2,4.0,type4,3.0,1
+F,45.0,4,Married,Franklin,Purchasing,Analytical,17.0,2,66,1,3,6.0,type3,5.0,1
+M,26.0,2,Married,Franklin,IT,Directive,4.0,1,73,2,3,6.0,type3,3.0,1
+M,44.0,3,Married,Franklin,Sales,Directive,18.0,2,73,1,2,8.0,type0,2.0,1
+F,25.0,2,Married,Lebanon,IT,Conceptual,6.0,2,74,1,3,9.0,type2,1.0,0
+M,30.0,3,Married,Springfield,Logistics,Behavioral,6.0,1,37,2,2,3.0,type2,5.0,1
+F,45.0,4,Married,Washington,IT,Directive,11.0,2,28,0,3,5.0,type3,3.0,1
+F,54.0,2,Single,Washington,Logistics,Directive,17.0,2,73,1,3,5.0,type3,2.0,0
+F,34.0,4,Single,Franklin,Logistics,Analytical,9.0,2,58,0,4,7.0,type2,2.0,1
+F,51.0,1,Single,Lebanon,R&D,Directive,26.0,2,33,1,4,5.0,type2,2.0,1
+F,63.0,4,Single,Franklin,Marketing,Directive,40.0,2,73,1,2,4.0,type3,2.0,0
+F,50.0,4,Single,Lebanon,Logistics,Analytical,12.0,2,70,1,4,6.0,type3,1.0,1
+F,26.0,1,Single,Franklin,Sales,Analytical,3.0,2,57,1,3,9.0,type2,4.0,0
+M,38.0,4,Single,Springfield,Production,Analytical,9.0,3,28,0,5,6.0,type3,5.0,1
+F,58.0,4,Single,Clinton,Marketing,Directive,21.0,4,24,0,5,5.0,type3,2.0,1
+F,52.0,3,Single,Washington,Sales,Directive,20.0,2,69,0,2,5.0,type3,1.0,1
+F,53.0,5,Married,Lebanon,IT,Behavioral,26.0,4,67,1,2,2.0,type3,4.0,0
+M,65.0,4,Single,Washington,IT,Analytical,36.0,2,64,0,3,2.0,type0,1.0,0
+F,33.0,4,Married,Washington,Production,Analytical,11.0,2,29,2,5,6.0,type2,3.0,1
+F,54.0,4,Single,Lebanon,Human Resource Management,Analytical,19.0,2,45,1,1,7.0,type2,4.0,1
+F,38.0,3,Married,Lebanon,IT,Directive,13.0,3,41,1,2,6.0,type0,2.0,1
+F,28.0,4,Single,Lebanon,R&D,Analytical,6.0,3,64,2,2,6.0,type3,1.0,0
+M,56.0,3,Single,Lebanon,R&D,Analytical,33.0,2,34,0,1,7.0,type3,1.0,1
+F,45.0,3,Married,Washington,IT,Behavioral,10.0,4,33,2,2,10.0,type2,2.0,1
+F,46.0,3,Married,Clinton,Operarions,Analytical,18.0,2,36,1,3,6.0,type0,2.0,1
+F,65.0,5,Married,Clinton,Operarions,Directive,34.0,1,52,2,3,5.0,type3,2.0,1
+M,41.0,3,Single,Washington,Production,Directive,16.0,3,31,0,4,5.0,type2,4.0,1
+F,31.0,1,Married,Springfield,IT,Directive,5.0,1,26,0,3,4.0,type3,5.0,0
+F,47.0,4,Married,Lebanon,R&D,Directive,11.0,2,21,0,2,5.0,type3,4.0,0
+F,21.0,4,Married,Springfield,Purchasing,Directive,2.0,1,50,1,1,6.0,type2,2.0,0
+F,25.0,4,Single,Clinton,Purchasing,Analytical,6.0,4,32,1,1,4.0,type3,2.0,1
+M,45.0,4,Married,Franklin,IT,Behavioral,7.0,1,22,2,1,7.0,type4,2.0,1
+M,29.0,3,Single,Lebanon,IT,Behavioral,6.0,4,59,1,3,6.0,type3,3.0,1
+M,50.0,5,Married,Springfield,Purchasing,Directive,13.0,4,31,0,1,8.0,type1,2.0,1
+M,53.0,3,Married,Franklin,Accounting and Finance,Analytical,18.0,4,31,1,1,8.0,type2,3.0,0
+F,46.0,2,Single,Springfield,R&D,Behavioral,23.0,4,51,1,3,4.0,type2,3.0,0
+M,45.0,4,Married,Springfield,Logistics,Conceptual,7.0,3,64,0,3,9.0,type3,1.0,0
+F,54.0,3,Single,Lebanon,IT,Behavioral,20.0,2,59,1,3,7.0,type2,1.0,0
+F,30.0,3,Single,Springfield,Purchasing,Analytical,8.0,2,60,0,5,5.0,type3,3.0,1
+F,55.0,4,Married,Springfield,Marketing,Directive,24.0,2,68,1,2,5.0,type2,2.0,1
+F,52.0,3,Single,Springfield,Sales,Directive,16.0,4,57,0,3,5.0,type2,4.0,0
+F,54.0,3,Married,Washington,Sales,Directive,15.0,4,39,1,2,6.0,type2,1.0,0
+F,59.0,4,Single,Washington,Sales,Conceptual,22.0,1,34,0,1,6.0,type2,1.0,0
+M,31.0,2,Married,Franklin,Sales,Analytical,5.0,3,30,2,2,6.0,type3,1.0,1
+F,54.0,5,Single,Lebanon,Sales,Directive,17.0,2,29,0,1,5.0,type2,1.0,1
+F,32.0,5,Single,Lebanon,Sales,Analytical,7.0,3,47,2,4,4.0,type2,3.0,1
+F,25.0,5,Married,Washington,Operarions,Analytical,6.0,4,71,2,2,5.0,type2,1.0,1
+F,49.0,3,Single,Springfield,IT,Directive,10.0,1,59,1,2,3.0,type2,4.0,1
+F,51.0,2,Single,Springfield,Operarions,Analytical,12.0,1,60,1,4,8.0,type2,3.0,1
+M,27.0,2,Married,Springfield,IT,Directive,5.0,3,55,2,5,4.0,type3,2.0,1
+F,21.0,3,Married,Franklin,Logistics,Conceptual,2.0,2,73,1,5,6.0,type2,4.0,0
+M,54.0,5,Married,Lebanon,Operarions,Analytical,26.0,2,46,1,3,8.0,type3,2.0,0
+F,28.0,2,Married,Lebanon,Sales,Conceptual,5.0,4,55,0,3,1.0,type3,4.0,1
+F,21.0,5,Married,Springfield,Purchasing,Behavioral,2.0,2,20,1,1,8.0,type2,1.0,0
+F,39.0,3,Married,Washington,Sales,Conceptual,16.0,2,59,0,3,4.0,type2,1.0,0
+F,49.0,3,Single,Springfield,IT,Directive,10.0,1,59,1,2,3.0,type2,4.0,1
+F,22.0,3,Single,Lebanon,IT,Behavioral,3.0,3,58,2,1,8.0,type3,1.0,0
+F,55.0,1,Married,Lebanon,Logistics,Conceptual,24.0,2,22,2,2,8.0,type3,3.0,1
+F,22.0,3,Married,Lebanon,Marketing,Behavioral,3.0,3,56,1,4,9.0,type3,3.0,1
+M,43.0,4,Married,Washington,Quality,Directive,7.0,1,30,0,4,7.0,type3,1.0,1
+F,31.0,2,Single,Clinton,Operarions,Conceptual,3.0,2,73,1,4,4.0,type3,3.0,1
+F,49.0,3,Married,Lebanon,R&D,Analytical,13.0,3,73,0,3,8.0,type3,3.0,1
+F,22.0,2,Single,Washington,Sales,Directive,3.0,3,60,0,1,6.0,type3,2.0,1
+F,26.0,3,Single,Franklin,Logistics,Conceptual,2.0,2,33,1,3,6.0,type2,3.0,0
+M,42.0,3,Single,Lebanon,IT,Directive,14.0,2,50,1,1,4.0,type3,2.0,1
+M,39.0,1,Married,Franklin,Logistics,Directive,15.0,3,50,0,3,6.0,type3,5.0,1
+M,61.0,4,Single,Franklin,Purchasing,Analytical,37.0,2,57,0,1,4.0,type2,3.0,1
+M,28.0,3,Married,Washington,IT,Analytical,5.0,3,35,1,3,7.0,type2,4.0,0
+M,50.0,3,Married,Washington,Operarions,Directive,16.0,4,29,1,2,5.0,type2,2.0,1
+F,19.0,4,Married,Lebanon,Logistics,Conceptual,0.0,0,23,0,3,8.0,type2,3.0,1
+F,34.0,3,Married,Franklin,IT,Conceptual,8.0,3,20,2,3,9.0,type2,3.0,1
+F,45.0,2,Married,Springfield,Human Resource Management,Behavioral,16.0,2,68,0,4,4.0,type2,3.0,0
+F,34.0,5,Married,Washington,Operarions,Conceptual,12.0,3,66,1,5,3.0,type2,1.0,1
+F,60.0,3,Married,Springfield,Accounting and Finance,Behavioral,21.0,4,41,0,3,6.0,type3,4.0,1
+F,32.0,1,Single,Springfield,Logistics,Conceptual,6.0,2,69,1,2,6.0,type2,4.0,1
+M,23.0,1,Married,Washington,R&D,Behavioral,4.0,4,33,0,2,9.0,type0,1.0,1
+M,53.0,4,Single,Springfield,Accounting and Finance,Behavioral,26.0,4,31,1,1,5.0,type1,2.0,1
+F,31.0,4,Married,Lebanon,Accounting and Finance,Behavioral,2.0,2,55,1,1,6.0,type2,3.0,0
+M,23.0,2,Single,Springfield,Human Resource Management,Conceptual,4.0,1,30,1,4,9.0,type2,3.0,0
+F,60.0,3,Single,Springfield,IT,Directive,34.0,2,55,1,3,7.0,type2,4.0,1
+F,40.0,3,Married,Clinton,Purchasing,Behavioral,17.0,2,51,0,2,8.0,type3,1.0,0
+F,43.0,3,Single,Franklin,Security,Behavioral,8.0,2,66,2,2,7.0,type2,3.0,0
+F,24.0,3,Single,Springfield,Sales,Conceptual,5.0,3,51,0,4,5.0,type2,5.0,1
+M,32.0,3,Married,Springfield,Marketing,Conceptual,3.0,3,72,2,3,8.0,type2,3.0,1
+F,49.0,4,Married,Franklin,Purchasing,Analytical,16.0,2,54,1,3,8.0,type2,3.0,1
+F,31.0,3,Single,Franklin,IT,Analytical,2.0,2,61,1,3,5.0,type3,1.0,0
+F,32.0,1,Single,Springfield,Logistics,Conceptual,6.0,2,69,1,2,6.0,type2,4.0,1
+F,29.0,4,Married,Springfield,Logistics,Analytical,5.0,4,36,0,2,7.0,type4,3.0,0
+M,19.0,1,Single,Lebanon,IT,Analytical,0.0,0,40,1,2,4.0,type2,3.0,1
+M,59.0,5,Married,Springfield,Operarions,Analytical,33.0,1,20,1,3,4.0,type2,4.0,0
+F,32.0,4,Single,Clinton,Security,Analytical,4.0,4,57,2,2,4.0,type2,4.0,1
+F,47.0,3,Single,Clinton,Logistics,Conceptual,24.0,3,40,1,4,8.0,type2,2.0,1
+F,58.0,5,Married,Lebanon,Logistics,Directive,31.0,3,66,0,2,4.0,type3,4.0,0
+F,62.0,3,Married,Lebanon,Accounting and Finance,Conceptual,26.0,2,42,1,2,8.0,type2,1.0,1
+F,65.0,3,Married,Washington,Logistics,Conceptual,37.0,1,47,1,3,8.0,type2,4.0,0
+M,58.0,4,Married,Washington,Sales,Directive,24.0,3,29,1,2,2.0,type4,4.0,0
+M,32.0,4,Single,Springfield,Operarions,Conceptual,6.0,2,57,1,2,6.0,type2,1.0,1
+M,41.0,3,Married,Springfield,Purchasing,Directive,10.0,1,39,1,3,5.0,type2,2.0,0
+F,59.0,2,Single,Springfield,Logistics,Directive,21.0,2,64,1,1,8.0,type2,3.0,0
+M,24.0,3,Single,Clinton,Accounting and Finance,Directive,5.0,3,68,0,2,8.0,type2,2.0,1
+F,25.0,1,Married,Lebanon,Logistics,Directive,6.0,4,61,2,3,6.0,type3,2.0,1
+F,47.0,3,Single,Lebanon,IT,Conceptual,8.0,3,74,1,1,9.0,type2,2.0,0
+F,42.0,3,Single,Lebanon,IT,Analytical,17.0,2,59,1,3,4.0,type2,5.0,0
+F,44.0,3,Married,Franklin,R&D,Conceptual,15.0,1,33,1,1,8.0,type2,3.0,1
+F,37.0,3,Married,Springfield,Operarions,Directive,12.0,2,38,1,3,5.0,type2,1.0,1
+F,25.0,4,Single,Franklin,Security,Conceptual,6.0,3,20,0,3,5.0,type2,1.0,1
+F,33.0,3,Married,Franklin,Operarions,Directive,10.0,4,59,0,5,8.0,type2,4.0,0
+F,27.0,3,Single,Clinton,R&D,Conceptual,4.0,1,35,0,3,6.0,type0,1.0,1
+F,40.0,5,Single,Franklin,Logistics,Analytical,16.0,2,32,1,2,10.0,type2,4.0,0
+F,24.0,4,Single,Lebanon,Sales,Behavioral,5.0,4,36,0,3,4.0,type2,1.0,1
+M,30.0,4,Single,Washington,IT,Conceptual,8.0,4,29,0,5,4.0,type2,1.0,1
+F,65.0,1,Single,Clinton,IT,Behavioral,28.0,1,54,2,3,5.0,type2,3.0,0
+F,60.0,4,Single,Springfield,Logistics,Analytical,27.0,2,24,1,2,6.0,type3,3.0,1
+F,59.0,3,Single,Franklin,Accounting and Finance,Directive,30.0,2,69,1,3,8.0,type2,3.0,1
+F,59.0,3,Married,Franklin,Operarions,Behavioral,31.0,1,40,0,3,7.0,type2,3.0,0
+F,58.0,4,Single,Lebanon,IT,Directive,31.0,3,58,1,1,8.0,type3,3.0,1
+F,30.0,5,Married,Lebanon,Logistics,Directive,7.0,4,67,2,2,7.0,type4,1.0,0
+M,20.0,3,Single,Springfield,Logistics,Conceptual,1.0,1,60,1,4,8.0,type2,4.0,1
+M,47.0,3,Single,Lebanon,IT,Conceptual,21.0,1,24,2,3,6.0,type2,4.0,0
+F,40.0,1,Single,Springfield,Human Resource Management,Behavioral,13.0,4,53,0,2,5.0,type3,3.0,1
+M,37.0,5,Married,Springfield,IT,Directive,14.0,2,44,1,3,6.0,type2,2.0,0
+F,42.0,4,Single,Franklin,Purchasing,Analytical,7.0,4,71,1,1,8.0,type3,1.0,1
+M,52.0,4,Married,Franklin,Accounting and Finance,Analytical,28.0,4,30,0,4,6.0,type2,4.0,1
+F,55.0,4,Single,Lebanon,Production,Conceptual,23.0,1,34,1,5,8.0,type2,3.0,1
+F,53.0,4,Single,Franklin,Accounting and Finance,Conceptual,19.0,3,53,1,4,10.0,type2,1.0,0
+F,63.0,4,Single,Washington,Operarions,Directive,31.0,4,72,0,3,4.0,type3,2.0,1
+F,37.0,3,Single,Clinton,Operarions,Directive,11.0,3,67,2,5,8.0,type4,3.0,0
+F,63.0,5,Single,Lebanon,Accounting and Finance,Directive,25.0,1,44,0,1,10.0,type2,3.0,1
+F,32.0,3,Single,Springfield,Sales,Analytical,9.0,1,67,0,3,9.0,type2,3.0,1
+F,22.0,3,Married,Springfield,IT,Analytical,3.0,1,57,0,1,5.0,type3,4.0,1
+M,32.0,4,Married,Washington,Logistics,Analytical,9.0,1,38,1,4,5.0,type2,2.0,1
+M,60.0,5,Married,Washington,Sales,Analytical,30.0,4,69,1,3,5.0,type2,3.0,1
+M,55.0,4,Single,Washington,Purchasing,Behavioral,27.0,2,46,1,3,8.0,type2,1.0,0
+F,25.0,1,Married,Lebanon,IT,Behavioral,6.0,2,58,1,1,2.0,type2,3.0,0
+F,59.0,3,Married,Springfield,Logistics,Analytical,26.0,4,62,1,4,5.0,type2,1.0,0
+F,27.0,2,Single,Lebanon,Logistics,Directive,5.0,4,28,0,2,6.0,type4,1.0,1
+F,50.0,2,Married,Franklin,Sales,Behavioral,24.0,3,60,1,3,4.0,type2,1.0,0
+M,36.0,4,Married,Lebanon,Operarions,Analytical,8.0,4,49,1,2,8.0,type2,1.0,0
+F,42.0,3,Married,Springfield,Logistics,Conceptual,14.0,3,72,1,3,5.0,type2,1.0,0
+F,55.0,4,Single,Washington,Security,Analytical,18.0,2,47,0,2,8.0,type2,3.0,0
+M,30.0,1,Single,Springfield,R&D,Conceptual,8.0,3,24,0,1,1.0,type2,2.0,1
+F,22.0,3,Married,Springfield,Purchasing,Analytical,3.0,3,46,0,2,6.0,type3,1.0,1
+F,64.0,3,Married,Franklin,Sales,Analytical,35.0,2,58,1,3,10.0,type4,4.0,0
+M,23.0,3,Married,Washington,Accounting and Finance,Conceptual,4.0,1,23,2,3,2.0,type3,4.0,1
+M,62.0,3,Married,Springfield,Logistics,Behavioral,31.0,3,41,1,1,8.0,type2,1.0,0
+M,60.0,5,Single,Springfield,Logistics,Directive,22.0,1,42,2,3,8.0,type2,2.0,0
+F,23.0,3,Single,Washington,Production,Behavioral,4.0,1,29,0,4,8.0,type3,1.0,1
+F,26.0,1,Single,Lebanon,Purchasing,Analytical,2.0,2,63,0,3,5.0,type2,1.0,0
+M,28.0,4,Married,Franklin,Sales,Behavioral,5.0,4,54,2,4,8.0,type2,1.0,0
+M,21.0,2,Single,Springfield,IT,Analytical,2.0,2,65,2,2,8.0,type2,1.0,1
+F,65.0,1,Single,Lebanon,Operarions,Behavioral,39.0,4,55,0,1,4.0,type3,4.0,1
+F,34.0,1,Married,Lebanon,Sales,Behavioral,10.0,3,44,1,4,8.0,type2,2.0,0
+F,23.0,4,Married,Springfield,IT,Directive,4.0,4,30,0,2,9.0,type2,2.0,1
+F,60.0,3,Married,Lebanon,R&D,Analytical,30.0,4,68,0,1,6.0,type3,1.0,0
+F,59.0,3,Married,Lebanon,R&D,Directive,35.0,4,62,1,1,5.0,type0,2.0,0
+F,37.0,4,Single,Springfield,Logistics,Conceptual,12.0,4,59,1,2,4.0,type4,3.0,1
+M,58.0,2,Single,Springfield,Accounting and Finance,Behavioral,25.0,3,64,0,3,8.0,type3,3.0,1
+M,31.0,1,Married,Springfield,R&D,Directive,8.0,1,54,2,4,3.0,type4,3.0,1
+F,27.0,2,Single,Clinton,Sales,Analytical,4.0,4,36,1,2,5.0,type3,3.0,1
+M,29.0,3,Single,Lebanon,IT,Behavioral,6.0,4,59,1,3,6.0,type3,3.0,1
+F,59.0,3,Married,Springfield,Logistics,Directive,33.0,1,60,1,4,5.0,type2,4.0,1
+F,51.0,2,Married,Franklin,Logistics,Analytical,14.0,1,64,1,5,6.0,type2,2.0,1
+F,37.0,4,Married,Clinton,R&D,Analytical,14.0,3,71,2,3,5.0,type3,2.0,0
+M,30.0,4,Married,Springfield,IT,Conceptual,8.0,1,44,0,5,6.0,type2,1.0,1
+F,57.0,5,Married,Washington,Operarions,Directive,20.0,2,35,1,2,5.0,type2,2.0,1
+F,64.0,4,Single,Washington,Logistics,Analytical,32.0,1,58,2,3,5.0,type3,3.0,0
+F,25.0,1,Married,Lebanon,Logistics,Conceptual,6.0,1,28,1,1,7.0,type2,1.0,0
+M,58.0,4,Single,Springfield,Operarions,Analytical,29.0,4,66,2,1,8.0,type3,1.0,0
+F,22.0,3,Married,Springfield,Purchasing,Analytical,3.0,3,46,0,2,6.0,type3,1.0,1
+M,48.0,4,Single,Washington,IT,Directive,21.0,2,49,0,2,8.0,type3,2.0,0
+M,31.0,3,Single,Franklin,Sales,Behavioral,4.0,2,31,1,3,5.0,type2,3.0,0
+M,19.0,1,Single,Lebanon,IT,Analytical,0.0,0,40,1,2,4.0,type2,3.0,1
+F,36.0,3,Married,Springfield,Operarions,Conceptual,13.0,1,34,1,2,5.0,type3,3.0,1
+F,57.0,3,Married,Lebanon,IT,Conceptual,29.0,3,47,2,4,5.0,type2,3.0,0
+F,37.0,1,Married,Franklin,Quality,Behavioral,14.0,4,41,1,3,2.0,type2,1.0,0
+M,65.0,4,Married,Franklin,Sales,Directive,43.0,2,65,1,2,7.0,type0,3.0,1
+F,35.0,1,Single,Franklin,Logistics,Analytical,6.0,1,47,1,3,6.0,type2,3.0,1
+F,44.0,1,Single,Franklin,Logistics,Behavioral,9.0,3,69,0,3,5.0,type0,3.0,1
+F,32.0,1,Single,Franklin,Purchasing,Conceptual,6.0,3,30,1,1,5.0,type2,4.0,1
+M,46.0,3,Married,Lebanon,IT,Analytical,22.0,3,55,1,4,4.0,type2,2.0,0
+M,61.0,3,Married,Washington,Human Resource Management,Conceptual,37.0,3,68,1,2,2.0,type4,4.0,0
+M,64.0,3,Single,Washington,Accounting and Finance,Conceptual,29.0,4,44,2,1,5.0,type2,1.0,1
+M,50.0,4,Single,Springfield,IT,Analytical,28.0,2,39,1,3,8.0,type2,4.0,0
+M,22.0,2,Married,Washington,Security,Analytical,3.0,3,20,1,4,3.0,type2,1.0,1
+M,22.0,2,Single,Springfield,IT,Conceptual,3.0,3,70,1,3,8.0,type2,1.0,1
+F,37.0,3,Married,Franklin,Accounting and Finance,Analytical,15.0,4,44,0,3,8.0,type2,1.0,0
+F,25.0,3,Married,Springfield,Logistics,Analytical,6.0,2,39,1,3,7.0,type3,2.0,0
+M,27.0,5,Married,Lebanon,Production,Directive,3.0,1,29,0,2,8.0,type3,1.0,0
+F,51.0,5,Single,Franklin,Operarions,Analytical,17.0,3,74,1,1,7.0,type2,1.0,1
+F,35.0,3,Married,Springfield,Sales,Behavioral,10.0,1,65,0,1,2.0,type2,4.0,1
+F,36.0,3,Single,Springfield,Accounting and Finance,Directive,12.0,1,57,1,1,5.0,type2,2.0,1
+F,44.0,2,Married,Lebanon,Sales,Behavioral,17.0,4,34,1,1,9.0,type3,4.0,1
+F,65.0,5,Single,Springfield,Logistics,Behavioral,37.0,2,32,0,3,6.0,type4,4.0,1
+F,44.0,4,Single,Washington,Logistics,Analytical,16.0,4,32,0,3,6.0,type2,1.0,1
+F,50.0,2,Married,Franklin,Human Resource Management,Directive,11.0,2,38,0,1,7.0,type3,3.0,0
+M,55.0,3,Married,Springfield,Operarions,Conceptual,17.0,3,23,0,1,4.0,type2,2.0,1
+M,27.0,3,Single,Clinton,Operarions,Directive,5.0,1,67,2,2,2.0,type3,4.0,1
+F,60.0,3,Married,Clinton,Logistics,Directive,35.0,1,65,1,1,6.0,type3,2.0,0
+F,40.0,4,Married,Springfield,Marketing,Directive,13.0,4,29,1,5,10.0,type2,1.0,0
+M,38.0,1,Single,Lebanon,Production,Conceptual,9.0,1,37,1,3,8.0,type2,3.0,1
+M,42.0,4,Married,Lebanon,IT,Directive,14.0,1,65,1,2,6.0,type3,4.0,1
+M,51.0,1,Married,Lebanon,Logistics,Conceptual,14.0,2,23,0,3,5.0,type2,1.0,0
+M,31.0,5,Married,Springfield,R&D,Directive,5.0,4,28,1,4,8.0,type2,3.0,1
+M,27.0,2,Married,Springfield,IT,Directive,5.0,3,55,2,5,4.0,type3,2.0,1
+F,21.0,4,Married,Clinton,Operarions,Directive,2.0,2,22,1,4,4.0,type3,2.0,0
+F,46.0,1,Married,Washington,Logistics,Behavioral,7.0,2,53,1,2,6.0,type2,3.0,0
+M,65.0,3,Single,Lebanon,IT,Directive,41.0,3,34,0,1,7.0,type3,2.0,1
+F,47.0,2,Married,Franklin,Accounting and Finance,Conceptual,11.0,1,71,0,3,8.0,type3,4.0,1
+F,65.0,1,Single,Lebanon,Operarions,Behavioral,39.0,4,55,0,1,4.0,type3,4.0,1
+F,65.0,1,Single,Franklin,Operarions,Directive,33.0,2,70,1,2,4.0,type2,1.0,1
+F,26.0,4,Married,Washington,Operarions,Analytical,2.0,2,44,2,4,6.0,type4,4.0,1
+M,26.0,3,Married,Franklin,R&D,Conceptual,4.0,3,54,1,3,9.0,type2,1.0,1
+F,45.0,1,Single,Franklin,IT,Conceptual,20.0,4,72,2,2,7.0,type3,2.0,1
+F,54.0,5,Married,Lebanon,Purchasing,Directive,19.0,1,39,1,4,4.0,type3,5.0,0
+M,30.0,3,Married,Clinton,Accounting and Finance,Directive,8.0,1,64,2,3,6.0,type3,2.0,0
+F,65.0,1,Single,Washington,IT,Directive,29.0,4,41,0,3,7.0,type2,1.0,1
+F,54.0,5,Married,Springfield,Sales,Analytical,19.0,1,36,1,3,4.0,type3,3.0,0
+F,22.0,4,Married,Springfield,Operarions,Analytical,3.0,3,66,2,3,7.0,type3,2.0,1
+M,21.0,3,Married,Washington,R&D,Conceptual,2.0,2,53,1,1,6.0,type2,1.0,0
+M,59.0,3,Married,Lebanon,Operarions,Analytical,22.0,3,30,0,2,8.0,type3,1.0,0
+F,35.0,3,Married,Washington,Production,Analytical,13.0,4,61,0,1,8.0,type3,2.0,1
+F,30.0,3,Married,Franklin,R&D,Directive,8.0,2,32,1,2,6.0,type2,1.0,1
+M,37.0,2,Single,Springfield,Operarions,Behavioral,12.0,1,69,1,1,1.0,type2,1.0,0
+M,31.0,4,Married,Washington,Purchasing,Conceptual,7.0,4,40,1,1,4.0,type3,1.0,1
+F,54.0,1,Married,Washington,Purchasing,Analytical,15.0,3,27,1,3,8.0,type0,1.0,0
+F,39.0,2,Single,Lebanon,Sales,Conceptual,10.0,4,63,1,3,9.0,type2,3.0,0
+M,20.0,3,Married,Springfield,Operarions,Behavioral,1.0,1,68,0,3,8.0,type2,2.0,0
+M,65.0,3,Married,Lebanon,Purchasing,Analytical,28.0,2,59,1,5,8.0,type3,2.0,0
+F,37.0,3,Single,Washington,R&D,Conceptual,13.0,3,36,0,5,2.0,type2,4.0,0
+M,41.0,3,Married,Washington,Marketing,Behavioral,8.0,4,39,1,1,5.0,type2,1.0,0
+F,25.0,1,Married,Clinton,Logistics,Behavioral,6.0,2,39,0,3,7.0,type0,4.0,0
+F,36.0,2,Single,Washington,R&D,Conceptual,9.0,1,20,0,3,6.0,type2,3.0,0
+F,25.0,3,Single,Lebanon,IT,Analytical,6.0,2,38,1,4,5.0,type2,2.0,0
+M,37.0,3,Single,Lebanon,R&D,Conceptual,11.0,1,59,0,3,5.0,type2,3.0,1
+M,37.0,4,Single,Springfield,Logistics,Analytical,13.0,4,52,1,2,3.0,type2,2.0,0
+M,27.0,3,Married,Franklin,Security,Analytical,5.0,1,63,1,5,7.0,type2,3.0,1
+F,29.0,3,Married,Franklin,IT,Behavioral,7.0,2,70,1,5,7.0,type2,3.0,0
+F,44.0,1,Married,Springfield,Purchasing,Analytical,21.0,4,61,1,1,10.0,type2,1.0,0
+F,52.0,4,Married,Franklin,IT,Conceptual,16.0,4,53,0,5,6.0,type2,1.0,1
+F,30.0,3,Married,Franklin,Logistics,Conceptual,7.0,2,40,0,3,5.0,type2,3.0,0
+F,65.0,3,Married,Springfield,Logistics,Analytical,26.0,3,32,2,3,5.0,type3,2.0,0
+M,31.0,4,Married,Washington,Accounting and Finance,Directive,9.0,1,55,0,2,6.0,type2,1.0,1
+F,51.0,3,Single,Lebanon,IT,Analytical,22.0,4,32,1,2,8.0,type2,1.0,1
+M,28.0,3,Single,Springfield,Logistics,Directive,6.0,4,63,0,2,8.0,type3,4.0,0
+M,64.0,4,Single,Franklin,R&D,Analytical,35.0,2,41,1,3,8.0,type2,1.0,1
+M,64.0,3,Married,Franklin,Human Resource Management,Analytical,38.0,4,43,1,4,5.0,type3,3.0,0
+M,60.0,2,Single,Lebanon,Logistics,Directive,25.0,3,41,1,3,10.0,type2,2.0,0
+M,34.0,3,Single,Franklin,R&D,Directive,5.0,1,57,0,2,6.0,type3,1.0,0
+M,45.0,4,Married,Springfield,Logistics,Directive,12.0,3,27,0,1,6.0,type3,5.0,0
+F,58.0,1,Single,Springfield,Logistics,Behavioral,33.0,1,36,1,1,7.0,type2,3.0,1
+M,26.0,2,Married,Franklin,Logistics,Conceptual,3.0,3,38,1,2,7.0,type3,4.0,1
+F,60.0,3,Single,Springfield,R&D,Directive,38.0,3,59,0,4,5.0,type3,4.0,0
+F,56.0,5,Single,Lebanon,Sales,Conceptual,26.0,2,59,1,2,7.0,type2,3.0,1
+M,38.0,4,Married,Lebanon,Production,Directive,12.0,4,64,0,2,6.0,type2,1.0,0
+M,30.0,4,Married,Franklin,Sales,Directive,6.0,1,58,1,2,7.0,type4,3.0,0
+M,64.0,4,Single,Franklin,R&D,Analytical,35.0,2,41,1,3,8.0,type2,1.0,1
+M,26.0,4,Married,Lebanon,Sales,Behavioral,3.0,3,41,0,5,5.0,type3,2.0,1
+F,44.0,2,Married,Lebanon,Sales,Behavioral,17.0,4,34,1,1,9.0,type3,4.0,1
+F,58.0,3,Single,Franklin,Logistics,Analytical,30.0,2,69,1,4,5.0,type2,3.0,1
+M,53.0,5,Single,Clinton,R&D,Analytical,24.0,4,25,2,1,8.0,type2,2.0,0
+F,35.0,4,Married,Clinton,Purchasing,Behavioral,7.0,4,67,0,2,7.0,type2,3.0,1
+M,27.0,4,Single,Lebanon,Logistics,Analytical,3.0,3,20,2,2,7.0,type2,4.0,1
+F,46.0,5,Single,Lebanon,IT,Directive,19.0,2,23,1,3,7.0,type1,4.0,1
+M,48.0,4,Married,Lebanon,Sales,Directive,15.0,4,72,0,4,7.0,type2,1.0,0
+M,27.0,1,Single,Lebanon,Logistics,Behavioral,3.0,3,32,1,2,6.0,type2,4.0,1
+F,19.0,4,Married,Franklin,Sales,Conceptual,0.0,0,65,1,3,5.0,type3,2.0,1
+F,36.0,4,Married,Franklin,IT,Conceptual,12.0,3,46,1,5,5.0,type3,4.0,1
+M,24.0,1,Single,Franklin,Operarions,Conceptual,5.0,2,39,2,1,5.0,type3,3.0,1
+M,62.0,4,Single,Franklin,Marketing,Conceptual,28.0,2,32,1,1,6.0,type3,3.0,1
+F,64.0,4,Married,Washington,Logistics,Behavioral,33.0,4,44,1,2,7.0,type2,1.0,0
+F,47.0,4,Single,Washington,Logistics,Analytical,8.0,4,41,0,3,5.0,type2,1.0,1
+F,32.0,4,Married,Lebanon,IT,Behavioral,9.0,3,27,1,5,5.0,type2,2.0,1
+F,54.0,4,Married,Franklin,IT,Behavioral,24.0,1,58,1,2,6.0,type3,3.0,1
+M,36.0,4,Single,Lebanon,IT,Directive,14.0,1,42,1,3,7.0,type3,3.0,0
+F,24.0,3,Married,Clinton,Purchasing,Analytical,5.0,4,64,1,3,7.0,type2,3.0,1
+F,33.0,2,Married,Clinton,Logistics,Directive,5.0,3,49,2,3,4.0,type2,3.0,1
+F,41.0,2,Married,Washington,Accounting and Finance,Directive,12.0,3,61,1,2,6.0,type2,1.0,1
+F,19.0,5,Married,Springfield,R&D,Directive,0.0,0,52,1,1,8.0,type2,2.0,1
+M,55.0,2,Married,Springfield,IT,Conceptual,31.0,1,38,1,2,8.0,type3,1.0,0
+M,60.0,3,Married,Washington,Logistics,Directive,24.0,2,34,1,2,6.0,type2,3.0,1
+M,65.0,4,Married,Lebanon,Sales,Directive,42.0,3,43,1,3,6.0,type3,1.0,1
+F,33.0,3,Married,Washington,Operarions,Directive,11.0,2,60,1,2,5.0,type3,1.0,0
+F,38.0,3,Single,Lebanon,IT,Analytical,10.0,4,60,1,3,6.0,type3,5.0,1
+F,27.0,2,Married,Franklin,IT,Directive,5.0,2,55,2,4,5.0,type2,2.0,0
+F,60.0,3,Married,Springfield,Accounting and Finance,Analytical,27.0,2,46,1,3,8.0,type2,1.0,1
+F,35.0,3,Married,Washington,Production,Analytical,13.0,4,61,0,1,8.0,type3,2.0,1
+M,45.0,1,Single,Lebanon,Quality,Conceptual,10.0,2,38,1,2,9.0,type2,1.0,1
+M,47.0,2,Married,Springfield,Purchasing,Conceptual,23.0,1,65,1,1,6.0,type2,3.0,0
+F,42.0,3,Married,Lebanon,Sales,Behavioral,11.0,4,57,1,1,4.0,type2,4.0,0
+F,54.0,2,Single,Springfield,Operarions,Conceptual,32.0,1,74,1,4,6.0,type2,3.0,1
+F,59.0,4,Single,Washington,IT,Behavioral,27.0,1,44,1,3,4.0,type2,3.0,0
+F,28.0,1,Single,Lebanon,Sales,Analytical,6.0,3,42,0,2,5.0,type3,3.0,1
+F,25.0,4,Married,Washington,IT,Analytical,6.0,4,37,1,2,5.0,type3,1.0,0
+F,25.0,1,Single,Springfield,IT,Analytical,6.0,3,64,1,3,2.0,type1,2.0,0
+F,56.0,3,Married,Lebanon,R&D,Analytical,20.0,1,26,1,1,7.0,type2,1.0,1
+M,29.0,3,Single,Franklin,Sales,Conceptual,6.0,4,45,0,3,7.0,type3,4.0,1
+F,37.0,4,Single,Springfield,Accounting and Finance,Behavioral,11.0,2,29,1,2,7.0,type2,4.0,0
+M,42.0,3,Married,Clinton,IT,Directive,5.0,4,56,2,1,7.0,type2,1.0,1
+F,59.0,3,Single,Clinton,IT,Directive,28.0,2,20,1,1,4.0,type2,1.0,1
+M,52.0,5,Single,Franklin,IT,Analytical,19.0,1,58,2,3,8.0,type2,1.0,0
+M,33.0,4,Married,Springfield,Logistics,Analytical,10.0,3,49,0,3,3.0,type3,2.0,0
+M,21.0,3,Married,Franklin,Operarions,Directive,2.0,2,24,2,5,4.0,type3,3.0,1
+F,60.0,3,Married,Lebanon,Sales,Conceptual,31.0,3,36,0,3,2.0,type2,4.0,1
+M,25.0,4,Single,Lebanon,Purchasing,Conceptual,6.0,4,35,1,3,4.0,type4,1.0,0
+M,60.0,5,Married,Lebanon,IT,Behavioral,30.0,1,71,0,2,5.0,type2,1.0,0
+M,20.0,1,Married,Franklin,R&D,Behavioral,1.0,1,54,1,3,7.0,type3,1.0,1
+F,21.0,4,Single,Springfield,Operarions,Conceptual,2.0,2,44,1,5,6.0,type2,2.0,0
+F,57.0,5,Single,Lebanon,Operarions,Directive,20.0,1,41,1,3,4.0,type2,2.0,0
+M,29.0,2,Married,Lebanon,Logistics,Analytical,5.0,1,27,1,3,7.0,type2,3.0,0
+M,34.0,3,Married,Clinton,Sales,Behavioral,8.0,4,63,0,2,1.0,type2,2.0,0
+F,29.0,5,Married,Franklin,Logistics,Conceptual,6.0,4,55,0,5,6.0,type0,4.0,0
+M,23.0,3,Single,Springfield,Operarions,Conceptual,4.0,3,45,1,2,10.0,type2,3.0,1
+F,39.0,3,Single,Springfield,Operarions,Directive,17.0,3,74,2,3,5.0,type2,3.0,1
+F,42.0,1,Married,Washington,Logistics,Analytical,10.0,1,42,1,2,4.0,type2,3.0,1
+F,21.0,2,Married,Lebanon,Quality,Directive,2.0,2,43,1,5,2.0,type2,1.0,0
+M,28.0,5,Married,Franklin,IT,Behavioral,5.0,3,64,1,3,6.0,type3,1.0,0
+M,64.0,3,Married,Lebanon,Operarions,Directive,29.0,3,72,1,1,2.0,type0,1.0,0
+F,37.0,5,Married,Lebanon,Purchasing,Directive,10.0,2,72,0,4,6.0,type2,3.0,0
+F,35.0,3,Married,Springfield,Production,Analytical,7.0,2,70,1,4,5.0,type2,1.0,0
+F,22.0,5,Single,Lebanon,Sales,Analytical,3.0,1,41,0,1,6.0,type0,1.0,1
+F,59.0,5,Married,Clinton,Sales,Behavioral,35.0,2,51,0,5,8.0,type2,2.0,0
+M,23.0,3,Married,Springfield,Logistics,Directive,4.0,1,62,0,3,6.0,type2,1.0,0
+M,35.0,3,Married,Franklin,R&D,Behavioral,10.0,3,21,1,3,6.0,type2,2.0,0
+F,60.0,3,Married,Springfield,IT,Behavioral,23.0,2,55,1,5,4.0,type2,2.0,1
+F,23.0,4,Married,Washington,IT,Directive,4.0,3,22,0,2,10.0,type2,2.0,1
+M,58.0,3,Married,Franklin,Sales,Analytical,31.0,1,33,1,1,5.0,type2,4.0,0
+F,19.0,5,Married,Springfield,R&D,Directive,0.0,0,52,1,1,8.0,type2,2.0,1
+F,48.0,1,Married,Washington,Logistics,Directive,23.0,2,45,1,2,7.0,type2,4.0,0
+F,41.0,2,Married,Franklin,Logistics,Behavioral,3.0,1,44,0,3,8.0,type2,1.0,0
+F,34.0,3,Single,Lebanon,IT,Behavioral,7.0,2,67,1,4,6.0,type3,4.0,0
+F,52.0,2,Married,Lebanon,IT,Analytical,23.0,2,53,1,1,7.0,type2,1.0,1
+F,56.0,1,Single,Lebanon,Quality,Conceptual,28.0,4,38,1,3,8.0,type3,1.0,1
+M,24.0,4,Married,Washington,Logistics,Conceptual,5.0,3,49,1,1,4.0,type2,2.0,0
+F,59.0,3,Married,Franklin,Marketing,Conceptual,21.0,3,32,1,3,6.0,type2,2.0,1
+F,28.0,2,Married,Lebanon,Human Resource Management,Conceptual,5.0,3,64,0,1,5.0,type2,2.0,1
+M,54.0,1,Married,Clinton,Operarions,Directive,24.0,2,69,1,3,9.0,type2,4.0,0
+F,21.0,3,Married,Springfield,Logistics,Conceptual,2.0,1,71,1,2,5.0,type2,1.0,0
+M,25.0,3,Married,Washington,Operarions,Behavioral,6.0,2,59,1,5,5.0,type1,1.0,1
+F,49.0,3,Single,Washington,Operarions,Behavioral,26.0,4,46,1,3,7.0,type2,2.0,1
+F,26.0,3,Married,Lebanon,Sales,Conceptual,2.0,2,57,1,2,8.0,type2,2.0,0
+M,41.0,4,Single,Springfield,Operarions,Directive,13.0,3,43,0,3,5.0,type2,3.0,1
+M,46.0,5,Married,Lebanon,IT,Directive,21.0,2,38,2,5,9.0,type3,2.0,0
+M,53.0,4,Single,Springfield,Accounting and Finance,Behavioral,26.0,4,31,1,1,5.0,type1,2.0,1
+F,51.0,3,Single,Washington,Logistics,Analytical,25.0,1,73,1,5,9.0,type2,2.0,1
+F,59.0,1,Single,Lebanon,Logistics,Behavioral,27.0,2,22,0,4,9.0,type3,3.0,0
+F,38.0,4,Married,Springfield,Logistics,Analytical,11.0,2,59,1,3,4.0,type0,3.0,1
+M,19.0,3,Single,Lebanon,Operarions,Analytical,0.0,0,42,2,2,2.0,type2,2.0,0
+M,41.0,4,Single,Springfield,Operarions,Directive,13.0,3,43,0,3,5.0,type2,3.0,1
+M,60.0,2,Single,Franklin,IT,Analytical,30.0,1,37,0,4,8.0,type3,1.0,0
+F,45.0,4,Married,Springfield,Operarions,Behavioral,13.0,1,32,1,1,8.0,type3,3.0,1
+F,22.0,5,Single,Lebanon,Sales,Analytical,3.0,1,41,0,1,6.0,type0,1.0,1
+M,28.0,1,Married,Franklin,Logistics,Analytical,4.0,1,51,1,5,4.0,type2,2.0,0
+F,37.0,3,Married,Springfield,Operarions,Directive,12.0,2,38,1,3,5.0,type2,1.0,1
+F,28.0,4,Single,Springfield,Purchasing,Behavioral,6.0,2,36,2,2,2.0,type2,4.0,1
+F,21.0,5,Married,Springfield,Human Resource Management,Conceptual,2.0,1,64,0,5,10.0,type2,4.0,1
+M,21.0,4,Married,Lebanon,R&D,Behavioral,2.0,2,59,0,4,2.0,type2,1.0,0
+F,26.0,3,Married,Washington,Production,Behavioral,4.0,1,30,1,3,2.0,type2,3.0,1
+M,52.0,4,Married,Franklin,Accounting and Finance,Analytical,28.0,4,30,0,4,6.0,type2,4.0,1
+F,55.0,4,Married,Franklin,Logistics,Analytical,27.0,4,21,1,4,2.0,type3,4.0,1
+F,53.0,5,Married,Washington,IT,Analytical,15.0,1,73,1,3,2.0,type3,2.0,0
+F,23.0,5,Married,Franklin,IT,Behavioral,4.0,2,54,1,1,5.0,type2,1.0,0
+F,45.0,3,Married,Franklin,Sales,Analytical,7.0,1,40,1,3,2.0,type3,4.0,0
+F,37.0,4,Married,Franklin,R&D,Directive,11.0,3,49,0,1,8.0,type2,1.0,1
+M,20.0,4,Single,Springfield,Logistics,Behavioral,1.0,1,68,2,3,3.0,type2,2.0,1
+F,36.0,2,Single,Lebanon,Operarions,Directive,11.0,1,33,1,3,4.0,type3,2.0,1
+F,42.0,4,Married,Washington,IT,Conceptual,7.0,2,60,1,1,4.0,type2,2.0,1
+F,37.0,1,Married,Springfield,R&D,Analytical,13.0,1,49,0,4,8.0,type2,1.0,0
+M,28.0,3,Married,Lebanon,Sales,Directive,4.0,1,48,0,3,1.0,type0,1.0,1
+F,31.0,5,Married,Springfield,Logistics,Behavioral,2.0,2,57,1,2,8.0,type2,3.0,0
+F,41.0,5,Married,Springfield,Sales,Behavioral,5.0,1,36,1,4,9.0,type2,1.0,0
+F,29.0,2,Married,Springfield,IT,Behavioral,5.0,3,40,1,3,5.0,type0,1.0,1
+F,54.0,4,Married,Springfield,IT,Analytical,24.0,1,60,0,5,7.0,type3,1.0,0
+F,53.0,3,Married,Franklin,IT,Analytical,18.0,3,30,1,2,10.0,type4,4.0,0
+M,28.0,4,Married,Lebanon,Sales,Analytical,5.0,2,61,1,3,8.0,type3,1.0,0
+F,42.0,3,Married,Lebanon,Sales,Directive,20.0,3,22,2,3,9.0,type3,1.0,1
+F,60.0,1,Married,Springfield,R&D,Analytical,35.0,4,40,0,3,6.0,type1,1.0,0
+F,23.0,3,Single,Washington,Production,Behavioral,4.0,1,29,0,4,8.0,type3,1.0,1
+F,52.0,4,Married,Franklin,IT,Conceptual,16.0,4,53,0,5,6.0,type2,1.0,1
+F,54.0,2,Married,Springfield,R&D,Conceptual,26.0,4,54,1,4,6.0,type2,4.0,0
+M,33.0,5,Single,Lebanon,Purchasing,Directive,5.0,4,33,1,4,4.0,type3,2.0,1
+F,30.0,3,Married,Franklin,Sales,Behavioral,8.0,3,34,1,4,5.0,type4,3.0,1
+M,54.0,2,Married,Springfield,R&D,Directive,27.0,3,59,1,2,5.0,type2,1.0,0
+F,45.0,1,Single,Franklin,Logistics,Behavioral,16.0,1,73,1,4,8.0,type2,2.0,0
+F,65.0,3,Married,Washington,Human Resource Management,Directive,36.0,4,63,1,3,6.0,type2,1.0,0
+F,25.0,3,Single,Franklin,IT,Conceptual,6.0,4,21,0,3,7.0,type3,2.0,0
+M,23.0,4,Married,Lebanon,Marketing,Directive,4.0,2,23,1,3,5.0,type2,2.0,1
+F,65.0,5,Married,Clinton,Operarions,Directive,34.0,1,52,2,3,5.0,type3,2.0,1
+M,22.0,3,Married,Clinton,Operarions,Conceptual,3.0,3,67,1,2,9.0,type2,3.0,1
+F,42.0,4,Married,Franklin,Sales,Conceptual,19.0,4,36,0,4,8.0,type2,1.0,0
+F,51.0,3,Married,Springfield,Sales,Conceptual,24.0,1,49,2,3,1.0,type2,5.0,1
+M,32.0,1,Married,Lebanon,R&D,Analytical,5.0,4,24,1,3,5.0,type2,3.0,1
+M,23.0,3,Single,Springfield,Operarions,Conceptual,4.0,3,45,1,2,10.0,type2,3.0,1
+F,55.0,5,Single,Franklin,Operarions,Directive,23.0,3,67,1,1,7.0,type3,3.0,1
+F,58.0,4,Married,Springfield,IT,Behavioral,32.0,4,63,0,2,6.0,type2,1.0,0
+M,22.0,3,Married,Lebanon,Production,Analytical,3.0,1,23,0,4,4.0,type2,2.0,0
+M,31.0,4,Single,Franklin,Operarions,Behavioral,6.0,2,68,2,4,1.0,type3,4.0,1
+F,65.0,4,Married,Springfield,IT,Conceptual,28.0,4,22,1,2,5.0,type2,2.0,1
+F,36.0,2,Single,Lebanon,Operarions,Conceptual,7.0,4,44,0,3,9.0,type2,1.0,0
+M,55.0,3,Single,Franklin,Accounting and Finance,Directive,32.0,3,63,1,4,6.0,type2,1.0,1
+F,59.0,3,Married,Lebanon,Operarions,Directive,31.0,3,41,0,1,4.0,type1,1.0,1
+M,30.0,3,Single,Lebanon,Operarions,Directive,8.0,1,26,1,2,6.0,type2,2.0,0
+M,30.0,4,Married,Springfield,IT,Conceptual,8.0,1,44,0,5,6.0,type2,1.0,1
+M,32.0,4,Married,Springfield,Logistics,Analytical,3.0,3,28,1,4,8.0,type3,3.0,0
+F,52.0,4,Married,Springfield,R&D,Analytical,23.0,2,31,1,2,7.0,type2,2.0,1
+F,58.0,4,Single,Clinton,Marketing,Directive,21.0,4,24,0,5,5.0,type3,2.0,1
+F,26.0,4,Married,Lebanon,IT,Directive,2.0,2,68,2,2,6.0,type3,4.0,0
+F,62.0,4,Married,Franklin,Logistics,Conceptual,32.0,4,69,1,3,7.0,type2,2.0,1
+M,21.0,4,Single,Springfield,Sales,Conceptual,2.0,1,49,1,2,6.0,type2,3.0,1
+F,40.0,4,Single,Washington,Sales,Analytical,16.0,3,24,0,4,8.0,type2,4.0,0
+F,33.0,3,Married,Lebanon,Operarions,Conceptual,5.0,1,74,1,1,5.0,type3,4.0,1
+F,19.0,3,Single,Franklin,R&D,Conceptual,0.0,0,23,2,3,7.0,type3,3.0,1
+M,54.0,3,Married,Clinton,Sales,Directive,29.0,1,31,2,3,3.0,type2,2.0,1
+F,20.0,4,Married,Washington,R&D,Directive,1.0,1,74,0,2,6.0,type2,5.0,0
+F,51.0,1,Married,Springfield,Sales,Conceptual,15.0,2,29,2,2,7.0,type2,3.0,0
+F,30.0,1,Single,Clinton,Logistics,Conceptual,8.0,2,55,1,5,8.0,type2,4.0,0
+F,54.0,3,Married,Lebanon,IT,Analytical,22.0,3,33,1,2,6.0,type2,3.0,0
+F,45.0,5,Married,Franklin,Sales,Directive,19.0,3,22,1,2,6.0,type3,3.0,0
+M,60.0,4,Single,Lebanon,Sales,Conceptual,23.0,2,68,1,1,5.0,type1,1.0,1
+F,31.0,3,Married,Franklin,Security,Analytical,6.0,3,61,1,4,4.0,type2,3.0,1
+F,60.0,4,Single,Lebanon,Logistics,Directive,38.0,2,34,1,4,5.0,type2,1.0,0
+F,58.0,3,Married,Lebanon,Logistics,Behavioral,25.0,1,44,2,2,7.0,type0,3.0,0
+M,21.0,4,Single,Springfield,Purchasing,Analytical,2.0,2,60,1,2,8.0,type2,3.0,1
+M,30.0,4,Married,Lebanon,Sales,Behavioral,7.0,1,26,2,5,7.0,type0,1.0,0
+F,54.0,5,Single,Franklin,Logistics,Behavioral,17.0,2,45,2,3,8.0,type2,2.0,0
+M,27.0,2,Married,Springfield,IT,Directive,5.0,3,55,2,5,4.0,type3,2.0,1
+F,54.0,4,Married,Franklin,IT,Directive,23.0,3,39,0,3,6.0,type3,2.0,0
+M,37.0,5,Married,Lebanon,Operarions,Behavioral,15.0,2,22,0,2,2.0,type2,4.0,1
+F,55.0,4,Married,Lebanon,R&D,Analytical,26.0,1,27,1,3,8.0,type3,1.0,1
+F,39.0,4,Married,Springfield,Marketing,Directive,13.0,3,25,0,4,5.0,type2,4.0,1
+M,35.0,3,Single,Franklin,IT,Analytical,7.0,4,53,0,5,5.0,type2,2.0,1
+F,43.0,2,Married,Washington,Human Resource Management,Analytical,14.0,1,55,1,3,6.0,type2,3.0,1
+F,35.0,3,Married,Washington,Production,Analytical,13.0,4,61,0,1,8.0,type3,2.0,1
+F,35.0,4,Married,Lebanon,Production,Analytical,9.0,2,26,1,2,10.0,type2,3.0,0
+F,33.0,4,Single,Washington,Logistics,Directive,7.0,1,56,0,1,8.0,type4,1.0,0
+F,42.0,2,Married,Springfield,IT,Analytical,4.0,2,32,0,2,6.0,type4,4.0,1
+F,56.0,3,Single,Springfield,Sales,Behavioral,33.0,4,74,1,1,8.0,type2,1.0,1
+M,59.0,1,Single,Springfield,R&D,Conceptual,24.0,4,26,1,3,4.0,type2,3.0,1
+F,20.0,1,Single,Franklin,Sales,Directive,1.0,1,73,1,1,6.0,type3,3.0,1
+F,34.0,4,Single,Franklin,Logistics,Analytical,9.0,2,58,0,4,7.0,type2,2.0,1
+F,45.0,1,Married,Washington,Quality,Conceptual,17.0,3,70,1,3,6.0,type2,1.0,1
+F,47.0,2,Married,Franklin,Accounting and Finance,Conceptual,11.0,1,71,0,3,8.0,type3,4.0,1
+F,27.0,4,Single,Franklin,IT,Directive,3.0,2,38,0,5,9.0,type4,3.0,0
+M,35.0,3,Single,Franklin,Operarions,Analytical,6.0,2,24,1,4,7.0,type3,3.0,0
+F,19.0,3,Single,Franklin,R&D,Behavioral,0.0,0,70,1,3,5.0,type3,4.0,1
+F,29.0,4,Married,Washington,Logistics,Conceptual,6.0,1,50,1,3,9.0,type3,2.0,1
+F,21.0,4,Married,Franklin,IT,Behavioral,2.0,2,22,0,3,8.0,type3,1.0,1
+M,35.0,4,Married,Springfield,Accounting and Finance,Behavioral,9.0,3,56,1,3,9.0,type3,2.0,0
+M,35.0,2,Married,Franklin,Production,Behavioral,10.0,3,56,1,3,7.0,type3,3.0,0
+M,20.0,3,Married,Franklin,Sales,Behavioral,1.0,1,73,1,3,8.0,type4,1.0,1
+F,20.0,4,Married,Franklin,IT,Behavioral,1.0,1,33,2,5,5.0,type2,2.0,0
+M,45.0,4,Married,Franklin,IT,Behavioral,7.0,1,22,2,1,7.0,type4,2.0,1
+M,56.0,2,Married,Lebanon,Human Resource Management,Conceptual,33.0,2,24,1,3,8.0,type2,3.0,1
+F,57.0,4,Married,Franklin,R&D,Analytical,31.0,4,41,0,3,8.0,type2,1.0,1
+F,42.0,3,Single,Franklin,IT,Analytical,7.0,3,22,2,1,5.0,type2,4.0,0
+F,51.0,3,Single,Washington,Logistics,Analytical,25.0,1,73,1,5,9.0,type2,2.0,1
+F,46.0,5,Single,Washington,Marketing,Directive,18.0,3,58,2,4,7.0,type2,2.0,0
+F,21.0,4,Single,Springfield,Quality,Analytical,2.0,2,72,0,1,8.0,type3,3.0,1
+F,42.0,3,Single,Franklin,R&D,Conceptual,8.0,1,47,1,3,4.0,type2,4.0,1
+F,56.0,4,Married,Springfield,Purchasing,Behavioral,24.0,2,33,2,3,8.0,type2,2.0,0
+F,54.0,3,Single,Clinton,R&D,Conceptual,21.0,4,68,0,2,2.0,type2,2.0,1
+M,30.0,1,Single,Springfield,R&D,Conceptual,8.0,3,24,0,1,1.0,type2,2.0,1
+F,42.0,4,Married,Lebanon,Marketing,Conceptual,4.0,4,58,2,1,10.0,type3,2.0,1
+M,31.0,3,Single,Springfield,Operarions,Directive,8.0,3,33,0,4,10.0,type2,3.0,1
+M,56.0,3,Single,Lebanon,R&D,Analytical,33.0,2,34,0,1,7.0,type3,1.0,1
+F,22.0,3,Single,Lebanon,Marketing,Analytical,3.0,3,62,1,4,5.0,type2,4.0,1
+M,52.0,2,Single,Washington,Logistics,Analytical,24.0,4,67,1,2,1.0,type4,3.0,0
+F,38.0,4,Married,Springfield,Logistics,Analytical,11.0,2,59,1,3,4.0,type0,3.0,1
+F,24.0,3,Married,Washington,Sales,Analytical,5.0,2,42,0,2,6.0,type4,3.0,1
+F,49.0,5,Married,Clinton,Logistics,Conceptual,26.0,3,70,2,1,8.0,type3,1.0,0
+F,35.0,4,Single,Lebanon,R&D,Analytical,10.0,4,66,1,2,6.0,type3,1.0,0
+F,37.0,2,Single,Lebanon,Logistics,Analytical,10.0,2,52,1,1,8.0,type3,3.0,1
+F,60.0,3,Single,Washington,IT,Conceptual,34.0,1,41,2,4,5.0,type2,2.0,1
+F,30.0,3,Single,Lebanon,Sales,Conceptual,6.0,4,65,2,2,7.0,type3,1.0,0
+F,52.0,4,Married,Franklin,IT,Conceptual,16.0,4,53,0,5,6.0,type2,1.0,1
+F,19.0,4,Single,Lebanon,Sales,Analytical,0.0,0,27,1,1,6.0,type3,1.0,0
+F,62.0,3,Married,Springfield,Purchasing,Behavioral,39.0,3,50,1,5,6.0,type3,2.0,1
+M,54.0,1,Single,Lebanon,Sales,Behavioral,20.0,3,49,1,1,10.0,type3,1.0,1
+F,60.0,3,Single,Springfield,IT,Directive,34.0,2,55,1,3,7.0,type2,4.0,1
+F,22.0,4,Single,Washington,Operarions,Behavioral,3.0,2,62,1,3,8.0,type2,2.0,1
+M,47.0,4,Single,Springfield,R&D,Analytical,11.0,2,32,0,3,5.0,type3,3.0,1
+F,55.0,4,Married,Lebanon,IT,Conceptual,29.0,4,38,0,3,8.0,type2,3.0,0
+M,26.0,3,Single,Springfield,R&D,Behavioral,3.0,3,43,0,3,6.0,type2,2.0,0
+M,52.0,3,Married,Springfield,Operarions,Behavioral,18.0,4,65,1,2,2.0,type3,3.0,1
+M,27.0,4,Single,Lebanon,Logistics,Analytical,3.0,3,20,2,2,7.0,type2,4.0,1
+F,22.0,3,Married,Springfield,IT,Analytical,3.0,1,57,0,1,5.0,type3,4.0,1
+F,31.0,1,Married,Springfield,Logistics,Conceptual,5.0,4,62,1,3,2.0,type3,3.0,0
+F,51.0,3,Single,Lebanon,IT,Analytical,22.0,4,32,1,2,8.0,type2,1.0,1
+F,37.0,3,Married,Lebanon,Logistics,Analytical,9.0,4,21,1,3,4.0,type3,3.0,0
+F,29.0,4,Single,Franklin,R&D,Behavioral,6.0,1,64,1,4,2.0,type1,1.0,1
+M,60.0,3,Single,Washington,Sales,Conceptual,37.0,4,73,1,1,1.0,type2,4.0,0
+M,48.0,1,Single,Lebanon,Production,Directive,18.0,3,26,0,3,2.0,type3,1.0,1
+F,47.0,4,Married,Franklin,Human Resource Management,Conceptual,16.0,2,44,0,1,6.0,type2,3.0,0
+F,29.0,3,Single,Lebanon,IT,Behavioral,7.0,4,68,0,3,8.0,type2,4.0,1
+M,37.0,3,Married,Springfield,Production,Analytical,9.0,3,36,1,2,4.0,type2,1.0,0
+M,53.0,3,Married,Clinton,R&D,Behavioral,20.0,2,27,2,2,7.0,type3,1.0,1
+M,27.0,3,Married,Lebanon,Logistics,Conceptual,5.0,4,41,0,3,7.0,type2,2.0,0
+F,25.0,5,Married,Washington,Operarions,Analytical,6.0,4,71,2,2,5.0,type2,1.0,1
+M,42.0,4,Married,Lebanon,IT,Directive,14.0,1,65,1,2,6.0,type3,4.0,1
+M,49.0,4,Married,Lebanon,Accounting and Finance,Conceptual,21.0,2,69,1,4,7.0,type2,2.0,1
+F,58.0,3,Single,Franklin,Operarions,Behavioral,31.0,1,62,0,1,3.0,type3,2.0,1
+F,26.0,3,Married,Lebanon,Purchasing,Analytical,2.0,2,41,2,2,4.0,type2,2.0,0
+F,46.0,5,Married,Washington,Accounting and Finance,Analytical,15.0,1,29,1,2,6.0,type2,3.0,1
+M,26.0,1,Single,Franklin,R&D,Behavioral,3.0,3,71,0,3,5.0,type2,1.0,1
+F,32.0,4,Married,Franklin,Purchasing,Conceptual,7.0,4,59,2,1,5.0,type3,3.0,1
+M,44.0,4,Single,Lebanon,Quality,Behavioral,14.0,2,48,1,3,6.0,type0,3.0,1
+M,32.0,5,Married,Lebanon,R&D,Conceptual,9.0,1,61,1,2,5.0,type2,4.0,1
+M,20.0,3,Single,Franklin,Sales,Conceptual,1.0,1,40,0,5,5.0,type2,3.0,1
+F,65.0,3,Single,Franklin,Human Resource Management,Analytical,29.0,2,47,1,4,8.0,type2,5.0,0
+F,51.0,4,Married,Springfield,IT,Directive,23.0,4,57,2,1,9.0,type2,1.0,0
+M,38.0,4,Married,Lebanon,IT,Behavioral,15.0,4,62,1,5,7.0,type2,3.0,1
+M,31.0,3,Single,Springfield,IT,Conceptual,8.0,3,35,0,5,4.0,type2,3.0,1
+M,59.0,2,Married,Clinton,Purchasing,Directive,20.0,2,57,0,3,9.0,type2,1.0,1
+F,38.0,4,Married,Springfield,Logistics,Directive,11.0,3,31,0,3,3.0,type3,3.0,1
+M,19.0,4,Married,Washington,Operarions,Analytical,0.0,0,74,0,2,10.0,type3,3.0,1
+M,44.0,4,Married,Springfield,Logistics,Analytical,6.0,3,41,1,3,7.0,type3,3.0,1
+F,20.0,3,Married,Clinton,IT,Conceptual,1.0,1,24,0,3,6.0,type2,1.0,0
+F,25.0,3,Married,Washington,Human Resource Management,Analytical,6.0,1,48,0,2,4.0,type2,2.0,1
+F,23.0,3,Married,Lebanon,R&D,Analytical,4.0,4,54,0,4,7.0,type3,3.0,1
+F,61.0,3,Married,Springfield,Sales,Analytical,22.0,2,61,0,2,8.0,type3,1.0,0
+M,36.0,4,Married,Washington,IT,Analytical,9.0,2,35,0,3,6.0,type0,1.0,0
+F,22.0,2,Single,Springfield,Operarions,Behavioral,3.0,3,36,0,3,2.0,type2,3.0,0
+F,37.0,4,Married,Franklin,Sales,Conceptual,11.0,4,57,2,4,1.0,type3,1.0,0
+F,62.0,3,Married,Springfield,Marketing,Behavioral,29.0,1,30,0,3,8.0,type0,4.0,1
+M,30.0,1,Married,Washington,Purchasing,Conceptual,7.0,2,35,1,3,3.0,type2,2.0,1
+F,65.0,3,Married,Springfield,IT,Directive,26.0,2,45,0,4,8.0,type2,3.0,1
+M,23.0,3,Single,Lebanon,IT,Analytical,4.0,2,58,1,2,8.0,type2,1.0,1
+M,64.0,5,Married,Lebanon,IT,Analytical,33.0,2,66,2,2,6.0,type2,3.0,1
+M,19.0,3,Married,Springfield,Sales,Behavioral,0.0,0,72,2,4,7.0,type2,3.0,1
+F,22.0,5,Single,Lebanon,Sales,Analytical,3.0,1,41,0,1,6.0,type0,1.0,1
+F,57.0,4,Married,Lebanon,R&D,Analytical,24.0,1,37,0,4,8.0,type3,1.0,1
+M,65.0,3,Married,Springfield,Logistics,Analytical,33.0,4,31,0,3,6.0,type2,2.0,0
+F,20.0,1,Single,Franklin,Sales,Directive,1.0,1,73,1,1,6.0,type3,3.0,1
+F,31.0,3,Single,Springfield,Human Resource Management,Conceptual,5.0,3,64,0,4,7.0,type3,3.0,1
+F,48.0,3,Single,Springfield,Sales,Conceptual,22.0,1,73,1,4,4.0,type2,2.0,1
+F,54.0,5,Single,Lebanon,Sales,Directive,17.0,2,29,0,1,5.0,type2,1.0,1
+F,27.0,3,Married,Franklin,Human Resource Management,Directive,3.0,3,48,0,5,6.0,type3,1.0,0
+M,26.0,3,Married,Franklin,Accounting and Finance,Directive,4.0,2,46,1,5,8.0,type2,1.0,1
+F,39.0,3,Single,Springfield,IT,Behavioral,11.0,2,43,1,3,1.0,type2,3.0,0
+F,26.0,4,Single,Washington,Human Resource Management,Conceptual,2.0,2,34,0,5,6.0,type3,1.0,1
+F,19.0,4,Married,Franklin,Sales,Conceptual,0.0,0,65,1,3,5.0,type3,2.0,1
+M,48.0,3,Married,Lebanon,Sales,Behavioral,26.0,3,20,0,2,8.0,type3,1.0,1
+F,42.0,3,Single,Franklin,R&D,Conceptual,8.0,1,47,1,3,4.0,type2,4.0,1
+M,44.0,5,Married,Washington,IT,Analytical,13.0,4,57,0,2,4.0,type2,3.0,1
+M,46.0,4,Single,Lebanon,Purchasing,Analytical,14.0,4,32,0,5,6.0,type2,3.0,1
+M,51.0,5,Single,Springfield,Logistics,Directive,13.0,4,63,1,2,5.0,type2,4.0,0
+F,26.0,3,Married,Springfield,Purchasing,Behavioral,2.0,1,24,1,5,9.0,type3,1.0,1
+F,48.0,4,Single,Clinton,Human Resource Management,Analytical,13.0,3,74,1,3,8.0,type2,1.0,0
+F,60.0,3,Single,Franklin,IT,Behavioral,21.0,2,29,0,4,5.0,type2,2.0,0
+F,50.0,4,Single,Clinton,Accounting and Finance,Conceptual,24.0,3,32,2,1,7.0,type2,1.0,1
+M,21.0,3,Married,Springfield,Sales,Behavioral,2.0,2,68,0,3,3.0,type2,3.0,1
+M,52.0,3,Married,Franklin,Purchasing,Directive,24.0,2,73,0,3,5.0,type3,2.0,1
+F,31.0,4,Married,Franklin,Accounting and Finance,Analytical,9.0,1,20,0,2,4.0,type2,4.0,1
+F,59.0,3,Single,Clinton,IT,Directive,28.0,2,20,1,1,4.0,type2,1.0,1
+F,54.0,3,Married,Washington,Logistics,Conceptual,27.0,1,69,1,2,5.0,type2,2.0,0
+M,58.0,4,Married,Franklin,R&D,Directive,19.0,4,47,0,2,9.0,type2,2.0,1
+F,42.0,4,Married,Lebanon,Security,Conceptual,15.0,1,62,1,4,9.0,type3,1.0,0
+F,58.0,2,Married,Lebanon,Accounting and Finance,Analytical,27.0,3,50,0,4,2.0,type0,4.0,0
+F,22.0,1,Single,Lebanon,Marketing,Directive,3.0,3,39,2,5,5.0,type3,1.0,1
+M,44.0,4,Single,Springfield,Operarions,Analytical,11.0,1,32,0,3,4.0,type3,1.0,0
+F,64.0,4,Single,Washington,Logistics,Analytical,40.0,1,60,1,4,4.0,type2,3.0,0
+M,27.0,1,Single,Lebanon,Purchasing,Conceptual,3.0,3,57,2,5,5.0,type2,4.0,1
+M,38.0,2,Single,Washington,Logistics,Conceptual,15.0,4,25,0,3,4.0,type3,2.0,1
+F,24.0,4,Married,Springfield,Operarions,Analytical,5.0,3,45,1,2,5.0,type2,1.0,1
+F,19.0,4,Single,Springfield,IT,Conceptual,0.0,0,42,0,2,6.0,type3,2.0,1
+F,27.0,4,Married,Franklin,Sales,Behavioral,5.0,4,64,1,3,6.0,type3,3.0,1
+F,19.0,3,Single,Franklin,R&D,Conceptual,0.0,0,23,2,3,7.0,type3,3.0,1
+F,45.0,1,Married,Washington,Quality,Conceptual,17.0,3,70,1,3,6.0,type2,1.0,1
+M,61.0,3,Single,Lebanon,R&D,Behavioral,26.0,3,54,0,3,6.0,type2,3.0,0
+F,43.0,4,Married,Washington,Logistics,Behavioral,21.0,1,54,1,3,7.0,type2,1.0,1
+F,47.0,3,Married,Springfield,Logistics,Behavioral,10.0,1,23,1,3,8.0,type3,2.0,1
+F,32.0,5,Married,Franklin,R&D,Conceptual,6.0,2,67,0,2,3.0,type3,1.0,0
+F,63.0,3,Married,Washington,Logistics,Analytical,35.0,1,46,1,1,5.0,type2,5.0,0
+M,52.0,3,Single,Lebanon,Operarions,Directive,25.0,1,38,1,3,9.0,type3,3.0,0
+F,54.0,3,Single,Lebanon,Logistics,Analytical,28.0,2,49,0,2,6.0,type3,2.0,0
+F,54.0,3,Single,Lebanon,IT,Analytical,18.0,1,74,1,3,6.0,type1,3.0,0
+F,25.0,3,Married,Lebanon,Sales,Analytical,6.0,4,52,1,4,5.0,type3,1.0,0
+F,24.0,4,Married,Franklin,R&D,Analytical,5.0,4,29,0,2,2.0,type3,1.0,0
+F,32.0,4,Married,Franklin,Purchasing,Conceptual,7.0,4,59,2,1,5.0,type3,3.0,1
+F,23.0,3,Married,Franklin,R&D,Analytical,4.0,4,51,0,1,6.0,type2,2.0,1
+M,23.0,3,Married,Lebanon,Human Resource Management,Conceptual,4.0,4,20,1,1,4.0,type2,3.0,0
+M,30.0,4,Married,Springfield,IT,Conceptual,8.0,1,44,0,5,6.0,type2,1.0,1
+M,62.0,3,Married,Springfield,Sales,Conceptual,30.0,3,42,1,4,2.0,type2,3.0,1
+M,64.0,4,Single,Lebanon,Operarions,Conceptual,38.0,2,63,0,2,4.0,type0,2.0,1
+F,36.0,2,Single,Lebanon,Operarions,Directive,11.0,1,33,1,3,4.0,type3,2.0,1
+F,51.0,1,Married,Springfield,Logistics,Directive,27.0,2,50,2,1,7.0,type3,2.0,1
+F,49.0,4,Married,Lebanon,Operarions,Analytical,16.0,2,72,1,2,9.0,type3,2.0,0
+F,59.0,5,Married,Springfield,Accounting and Finance,Behavioral,27.0,2,54,0,5,4.0,type2,3.0,1
+F,44.0,2,Married,Lebanon,Sales,Behavioral,17.0,4,34,1,1,9.0,type3,4.0,1
+M,38.0,3,Married,Franklin,IT,Directive,16.0,2,24,1,2,9.0,type2,1.0,1
+F,35.0,3,Single,Springfield,Sales,Analytical,12.0,1,36,1,4,8.0,type2,3.0,1
+M,49.0,1,Married,Lebanon,Operarions,Conceptual,10.0,2,30,1,4,4.0,type0,3.0,1
+F,46.0,4,Married,Clinton,Logistics,Behavioral,15.0,1,43,1,2,4.0,type3,1.0,0
+F,22.0,1,Single,Washington,Security,Analytical,3.0,3,29,1,4,9.0,type4,2.0,0
+M,28.0,2,Single,Lebanon,Quality,Behavioral,5.0,2,50,0,5,8.0,type2,3.0,0
+F,25.0,4,Married,Springfield,Sales,Behavioral,6.0,4,36,2,1,8.0,type3,4.0,0
+M,37.0,5,Married,Lebanon,Operarions,Behavioral,15.0,2,22,0,2,2.0,type2,4.0,1
+F,50.0,5,Married,Franklin,Sales,Directive,12.0,4,61,1,3,5.0,type2,1.0,0
+F,64.0,3,Single,Washington,IT,Directive,42.0,1,49,0,3,5.0,type3,2.0,1
+M,41.0,3,Married,Clinton,IT,Conceptual,3.0,2,21,2,3,4.0,type2,4.0,1
+F,22.0,4,Married,Washington,Logistics,Analytical,3.0,1,58,2,3,8.0,type2,2.0,1
+M,22.0,5,Single,Lebanon,Logistics,Conceptual,3.0,1,48,0,2,5.0,type2,4.0,1
+F,47.0,1,Single,Franklin,Logistics,Directive,12.0,3,20,0,4,7.0,type3,2.0,1
+F,51.0,5,Married,Springfield,Human Resource Management,Directive,27.0,3,22,1,4,7.0,type2,3.0,1
+F,53.0,5,Married,Lebanon,R&D,Analytical,28.0,1,55,0,4,7.0,type2,1.0,0
+M,57.0,3,Married,Washington,R&D,Conceptual,25.0,3,58,1,1,8.0,type3,1.0,0
+F,50.0,1,Married,Franklin,Operarions,Directive,22.0,1,28,0,1,6.0,type2,1.0,0
+F,42.0,3,Single,Franklin,R&D,Conceptual,8.0,1,47,1,3,4.0,type2,4.0,1
+M,28.0,3,Married,Washington,Sales,Directive,4.0,1,40,1,2,2.0,type3,3.0,1
+F,65.0,5,Married,Lebanon,IT,Analytical,34.0,3,61,1,2,9.0,type2,4.0,1
+M,65.0,1,Single,Clinton,IT,Analytical,28.0,4,23,0,3,4.0,type3,2.0,1
+F,58.0,3,Married,Springfield,Logistics,Conceptual,29.0,1,48,1,1,7.0,type2,3.0,1
+M,43.0,3,Single,Springfield,Purchasing,Behavioral,10.0,3,50,1,1,5.0,type2,3.0,1
+M,47.0,3,Single,Lebanon,Operarions,Behavioral,21.0,2,25,0,3,8.0,type2,3.0,0
+F,65.0,2,Married,Washington,Operarions,Conceptual,26.0,1,40,0,3,8.0,type2,3.0,1
+F,36.0,4,Married,Franklin,IT,Conceptual,12.0,3,46,1,5,5.0,type3,4.0,1
+M,27.0,4,Married,Lebanon,Logistics,Conceptual,4.0,2,41,1,4,6.0,type0,3.0,1
+F,39.0,3,Married,Springfield,Marketing,Analytical,11.0,1,60,0,3,8.0,type2,4.0,1
+F,27.0,4,Married,Springfield,Sales,Directive,3.0,3,34,1,3,7.0,type2,3.0,0
+F,28.0,4,Married,Lebanon,R&D,Directive,5.0,2,47,0,1,8.0,type2,3.0,1
+M,56.0,3,Married,Franklin,R&D,Behavioral,22.0,3,74,2,1,6.0,type2,4.0,0
+F,42.0,3,Married,Lebanon,Sales,Directive,20.0,3,22,2,3,9.0,type3,1.0,1
+M,47.0,3,Single,Springfield,Production,Analytical,22.0,1,29,2,3,4.0,type2,3.0,1
+F,32.0,4,Married,Springfield,IT,Directive,7.0,1,21,0,2,5.0,type2,1.0,1
+F,31.0,3,Married,Springfield,IT,Conceptual,8.0,3,62,0,3,8.0,type2,1.0,1
+M,20.0,3,Single,Franklin,Sales,Conceptual,1.0,1,40,0,5,5.0,type2,3.0,1
+F,65.0,2,Married,Washington,Operarions,Conceptual,26.0,1,40,0,3,8.0,type2,3.0,1
+F,63.0,2,Married,Franklin,Operarions,Directive,40.0,1,72,2,1,6.0,type2,1.0,0
+M,21.0,1,Married,Franklin,IT,Behavioral,2.0,2,33,1,2,4.0,type3,4.0,0
+F,45.0,4,Single,Springfield,Human Resource Management,Conceptual,23.0,1,58,1,2,6.0,type3,2.0,0
+M,59.0,3,Married,Lebanon,Operarions,Analytical,22.0,3,30,0,2,8.0,type3,1.0,0
+M,57.0,3,Married,Springfield,Sales,Behavioral,22.0,2,41,1,3,8.0,type0,4.0,1
+F,19.0,3,Married,Franklin,R&D,Behavioral,0.0,0,72,1,1,4.0,type3,2.0,1
+F,63.0,1,Married,Lebanon,Accounting and Finance,Directive,34.0,1,49,0,2,10.0,type2,3.0,1
+M,59.0,3,Single,Springfield,Sales,Directive,27.0,2,57,1,2,6.0,type4,1.0,1
+M,37.0,3,Single,Franklin,Purchasing,Conceptual,12.0,4,37,0,1,5.0,type2,1.0,0
+M,32.0,3,Single,Springfield,Purchasing,Conceptual,7.0,2,47,1,2,3.0,type2,3.0,1
+F,31.0,3,Single,Springfield,Purchasing,Analytical,7.0,4,31,1,3,2.0,type3,3.0,1
+F,41.0,5,Married,Lebanon,Operarions,Behavioral,14.0,3,72,0,5,8.0,type2,4.0,0
+M,52.0,4,Single,Franklin,Sales,Analytical,25.0,2,62,1,2,5.0,type3,1.0,0
+F,59.0,5,Married,Springfield,R&D,Behavioral,33.0,4,52,1,1,6.0,type2,2.0,0
+F,37.0,3,Single,Franklin,Logistics,Behavioral,9.0,4,24,0,3,9.0,type3,3.0,0
+M,47.0,3,Single,Lebanon,R&D,Conceptual,22.0,2,70,1,2,5.0,type2,1.0,1
+F,31.0,1,Single,Clinton,IT,Analytical,5.0,4,58,1,3,8.0,type1,2.0,1
+M,22.0,4,Married,Lebanon,Logistics,Analytical,3.0,3,46,1,2,7.0,type2,3.0,0
+M,22.0,3,Married,Clinton,Accounting and Finance,Behavioral,3.0,3,35,1,1,7.0,type4,3.0,0
+M,37.0,4,Married,Franklin,IT,Directive,15.0,4,46,1,4,2.0,type2,3.0,0
+F,27.0,3,Single,Franklin,IT,Conceptual,3.0,1,63,0,3,8.0,type3,3.0,0
+F,21.0,3,Married,Clinton,Sales,Behavioral,2.0,2,59,1,5,9.0,type3,3.0,0
+M,43.0,5,Single,Lebanon,Quality,Behavioral,19.0,1,74,1,2,8.0,type2,4.0,1
+F,25.0,3,Single,Springfield,Marketing,Analytical,6.0,4,26,0,3,4.0,type4,1.0,0
+F,29.0,4,Single,Franklin,R&D,Behavioral,6.0,1,64,1,4,2.0,type1,1.0,1
+M,48.0,4,Single,Franklin,R&D,Behavioral,18.0,4,40,1,3,4.0,type3,1.0,0
+F,35.0,2,Married,Springfield,Logistics,Conceptual,13.0,3,56,2,3,7.0,type2,4.0,0
+F,54.0,5,Married,Springfield,Sales,Analytical,19.0,1,36,1,3,4.0,type3,3.0,0
+F,60.0,3,Married,Springfield,Accounting and Finance,Behavioral,21.0,4,41,0,3,6.0,type3,4.0,1
+F,29.0,3,Married,Washington,Purchasing,Behavioral,5.0,1,32,1,3,5.0,type2,3.0,1
+F,53.0,4,Married,Lebanon,IT,Behavioral,20.0,3,28,2,1,4.0,type2,3.0,1
+F,22.0,3,Single,Lebanon,Operarions,Behavioral,3.0,3,60,1,3,4.0,type3,1.0,0
+F,19.0,4,Married,Franklin,Accounting and Finance,Behavioral,0.0,0,65,1,2,5.0,type3,2.0,0
+M,28.0,3,Married,Lebanon,Quality,Behavioral,4.0,3,52,2,2,7.0,type3,2.0,0
+F,48.0,5,Married,Springfield,R&D,Conceptual,16.0,2,74,1,1,4.0,type4,4.0,0
+M,21.0,4,Married,Springfield,Logistics,Analytical,2.0,2,49,1,3,6.0,type2,4.0,0
+M,59.0,2,Married,Franklin,IT,Directive,27.0,4,65,1,3,5.0,type3,3.0,1
+M,24.0,3,Single,Lebanon,IT,Directive,5.0,1,66,1,4,8.0,type3,4.0,0
+F,54.0,1,Married,Franklin,IT,Analytical,29.0,1,73,1,4,6.0,type2,3.0,0
+M,21.0,2,Married,Lebanon,Operarions,Directive,2.0,2,28,0,4,5.0,type2,3.0,1
+F,60.0,3,Single,Springfield,IT,Directive,34.0,2,55,1,3,7.0,type2,4.0,1
+F,22.0,4,Single,Franklin,Sales,Behavioral,3.0,2,36,0,1,6.0,type2,4.0,1
+F,63.0,4,Single,Washington,Operarions,Directive,31.0,4,72,0,3,4.0,type3,2.0,1
+M,26.0,3,Single,Franklin,Marketing,Conceptual,2.0,2,73,1,3,8.0,type2,2.0,0
+M,24.0,5,Married,Franklin,IT,Analytical,5.0,2,45,1,1,6.0,type2,2.0,0
+F,60.0,4,Single,Lebanon,R&D,Behavioral,37.0,4,31,2,3,6.0,type3,3.0,0
+F,32.0,3,Single,Springfield,Logistics,Analytical,5.0,2,58,1,3,8.0,type4,2.0,0
+F,52.0,5,Single,Clinton,IT,Behavioral,18.0,4,56,1,2,8.0,type2,2.0,0
+F,47.0,4,Single,Lebanon,Purchasing,Behavioral,14.0,4,67,0,2,8.0,type4,1.0,0
+F,29.0,4,Married,Washington,Logistics,Conceptual,6.0,1,50,1,3,9.0,type3,2.0,1
+F,35.0,3,Married,Lebanon,IT,Conceptual,7.0,3,28,1,1,5.0,type2,3.0,0
+F,58.0,4,Married,Springfield,Marketing,Directive,23.0,2,25,2,1,6.0,type2,2.0,0
+M,42.0,3,Married,Lebanon,IT,Analytical,17.0,1,45,1,4,10.0,type2,4.0,0
+M,59.0,1,Single,Washington,Logistics,Conceptual,20.0,2,48,1,4,4.0,type3,4.0,0
+M,30.0,3,Married,Franklin,Accounting and Finance,Conceptual,6.0,4,32,1,5,6.0,type2,3.0,1
+F,49.0,4,Married,Lebanon,Quality,Directive,17.0,3,23,1,3,8.0,type2,1.0,1
+F,29.0,5,Single,Lebanon,Logistics,Behavioral,6.0,4,36,1,2,8.0,type3,1.0,0
+M,23.0,4,Married,Franklin,Sales,Conceptual,4.0,2,41,1,4,5.0,type4,1.0,0
+M,39.0,1,Married,Lebanon,Logistics,Directive,14.0,2,36,1,5,4.0,type3,3.0,1
+F,38.0,3,Single,Lebanon,IT,Conceptual,13.0,2,59,1,5,7.0,type2,1.0,0
+F,20.0,3,Married,Franklin,IT,Directive,1.0,1,64,1,3,5.0,type2,3.0,0
+M,26.0,5,Married,Lebanon,IT,Analytical,4.0,1,20,0,1,5.0,type2,2.0,0
+F,54.0,3,Married,Clinton,Security,Analytical,25.0,3,35,0,3,2.0,type3,3.0,1
+F,20.0,3,Married,Washington,Accounting and Finance,Behavioral,1.0,1,69,1,1,1.0,type3,4.0,1
+M,48.0,4,Married,Springfield,Logistics,Directive,14.0,3,23,1,2,4.0,type2,4.0,1
+M,65.0,4,Married,Franklin,IT,Analytical,42.0,3,31,1,3,5.0,type2,3.0,0
+M,25.0,4,Married,Lebanon,Quality,Conceptual,6.0,4,71,1,4,5.0,type2,2.0,0
+M,21.0,2,Single,Springfield,IT,Analytical,2.0,2,65,2,2,8.0,type2,1.0,1
+M,20.0,1,Married,Springfield,Logistics,Analytical,1.0,1,72,0,4,4.0,type3,2.0,0
+M,34.0,4,Single,Lebanon,Quality,Analytical,12.0,2,26,2,3,10.0,type2,2.0,0
+M,24.0,2,Single,Washington,Sales,Directive,5.0,1,74,1,2,10.0,type2,2.0,1
+M,37.0,3,Married,Washington,Logistics,Conceptual,11.0,1,32,2,5,8.0,type3,1.0,1
+M,26.0,1,Married,Clinton,Logistics,Analytical,3.0,2,28,1,3,4.0,type2,3.0,0
+M,28.0,1,Married,Washington,Accounting and Finance,Analytical,6.0,2,20,0,3,5.0,type3,2.0,1
+M,43.0,1,Single,Clinton,R&D,Conceptual,12.0,1,28,2,3,6.0,type3,2.0,0
+F,20.0,4,Married,Franklin,Operarions,Analytical,1.0,1,67,1,2,7.0,type2,4.0,1
+F,20.0,3,Married,Washington,R&D,Analytical,1.0,1,47,0,5,7.0,type3,4.0,1
+F,26.0,3,Single,Franklin,Logistics,Conceptual,2.0,2,33,1,3,6.0,type2,3.0,0
+F,22.0,2,Married,Springfield,Human Resource Management,Analytical,3.0,3,42,1,3,4.0,type2,3.0,0
+M,39.0,1,Single,Lebanon,Operarions,Directive,16.0,2,73,1,1,6.0,type3,3.0,0
+M,42.0,2,Single,Springfield,R&D,Analytical,18.0,2,48,0,4,3.0,type2,1.0,0
+F,25.0,3,Married,Lebanon,IT,Conceptual,6.0,1,44,0,5,2.0,type2,1.0,0
+F,22.0,4,Single,Franklin,IT,Behavioral,3.0,1,51,1,2,6.0,type3,1.0,0
+F,49.0,4,Married,Lebanon,Operarions,Directive,16.0,2,66,1,3,6.0,type2,4.0,0
+F,19.0,3,Single,Washington,Logistics,Behavioral,0.0,0,57,1,3,4.0,type2,3.0,0
+F,24.0,4,Married,Lebanon,Accounting and Finance,Analytical,5.0,1,21,0,1,5.0,type2,3.0,1
+M,23.0,4,Married,Springfield,IT,Directive,4.0,3,24,1,2,8.0,type2,1.0,1
+F,47.0,3,Married,Springfield,Logistics,Behavioral,10.0,1,23,1,3,8.0,type3,2.0,1
+M,39.0,1,Married,Lebanon,Logistics,Directive,14.0,2,36,1,5,4.0,type3,3.0,1
+M,30.0,5,Single,Springfield,Operarions,Conceptual,6.0,3,49,0,4,5.0,type2,4.0,1
+F,30.0,3,Married,Lebanon,Sales,Analytical,6.0,4,45,0,2,4.0,type3,4.0,0
+F,21.0,3,Single,Lebanon,Sales,Analytical,2.0,1,71,1,2,6.0,type2,2.0,1
+M,43.0,3,Married,Clinton,Purchasing,Analytical,5.0,3,66,1,3,8.0,type2,2.0,1
+F,39.0,3,Single,Springfield,Operarions,Directive,17.0,3,74,2,3,5.0,type2,3.0,1
+M,22.0,2,Married,Washington,Security,Analytical,3.0,3,20,1,4,3.0,type2,1.0,1
+F,57.0,3,Married,Franklin,Logistics,Behavioral,25.0,3,20,0,1,2.0,type2,2.0,0
+F,57.0,4,Married,Lebanon,Security,Analytical,27.0,1,61,1,4,5.0,type4,3.0,1
+M,62.0,5,Married,Franklin,Logistics,Conceptual,35.0,3,24,2,4,6.0,type1,4.0,0
+M,60.0,3,Married,Franklin,Security,Directive,32.0,3,43,2,4,6.0,type2,3.0,1
+F,22.0,4,Single,Franklin,Sales,Behavioral,3.0,2,36,0,1,6.0,type2,4.0,1
+F,23.0,4,Married,Springfield,IT,Directive,4.0,4,30,0,2,9.0,type2,2.0,1
+M,45.0,4,Married,Clinton,Accounting and Finance,Behavioral,15.0,1,36,1,3,7.0,type4,2.0,0
+F,56.0,3,Married,Springfield,Production,Conceptual,33.0,4,38,1,3,6.0,type3,3.0,1
+M,30.0,3,Married,Springfield,Logistics,Behavioral,6.0,1,37,2,2,3.0,type2,5.0,1
+F,42.0,4,Married,Washington,Human Resource Management,Directive,17.0,3,37,0,3,5.0,type2,4.0,0
+F,20.0,1,Single,Franklin,Sales,Directive,1.0,1,73,1,1,6.0,type3,3.0,1
+M,28.0,4,Single,Lebanon,Logistics,Conceptual,6.0,2,33,1,1,7.0,type2,2.0,0
+F,20.0,3,Married,Washington,Sales,Directive,1.0,1,23,2,3,1.0,type2,3.0,1
+F,31.0,4,Single,Springfield,Quality,Analytical,9.0,4,43,0,4,6.0,type3,3.0,1
+F,29.0,4,Married,Washington,Logistics,Conceptual,6.0,1,50,1,3,9.0,type3,2.0,1
+M,47.0,3,Single,Lebanon,Logistics,Conceptual,25.0,3,37,2,3,8.0,type2,1.0,0
+F,32.0,4,Single,Springfield,Marketing,Analytical,9.0,3,31,0,5,8.0,type3,1.0,1
+F,23.0,2,Single,Lebanon,Logistics,Directive,4.0,3,27,2,4,3.0,type3,1.0,0
+M,24.0,3,Single,Lebanon,Operarions,Directive,5.0,2,23,1,4,6.0,type2,2.0,0
+F,60.0,5,Single,Lebanon,IT,Analytical,28.0,2,30,0,3,4.0,type4,4.0,0
+M,31.0,4,Single,Franklin,Operarions,Behavioral,6.0,2,68,2,4,1.0,type3,4.0,1
+M,51.0,3,Married,Washington,IT,Behavioral,26.0,2,43,1,3,8.0,type2,2.0,0
+M,35.0,3,Single,Springfield,Operarions,Directive,10.0,1,58,0,3,4.0,type2,3.0,1
+F,47.0,4,Married,Springfield,IT,Behavioral,23.0,3,56,0,1,8.0,type3,3.0,0
+F,30.0,2,Married,Springfield,Security,Behavioral,7.0,4,53,0,5,2.0,type2,3.0,0
+F,52.0,4,Married,Lebanon,Sales,Behavioral,17.0,2,49,0,3,4.0,type2,4.0,0
+M,19.0,1,Single,Springfield,IT,Analytical,0.0,0,61,1,4,10.0,type3,1.0,0
+F,27.0,4,Married,Springfield,Sales,Analytical,4.0,4,59,1,3,2.0,type2,3.0,0
+M,52.0,4,Married,Springfield,Human Resource Management,Directive,27.0,2,62,0,3,9.0,type2,1.0,1
+F,51.0,2,Single,Lebanon,IT,Directive,24.0,4,52,1,1,3.0,type2,3.0,0
+M,33.0,2,Married,Franklin,Accounting and Finance,Directive,10.0,4,61,0,2,5.0,type2,3.0,1
+F,22.0,5,Single,Washington,Accounting and Finance,Conceptual,3.0,2,52,2,1,2.0,type2,2.0,1
+F,26.0,4,Single,Washington,Sales,Conceptual,2.0,2,40,0,5,4.0,type2,4.0,1
+F,28.0,3,Single,Lebanon,Production,Behavioral,5.0,1,53,1,3,6.0,type3,3.0,1
+M,29.0,3,Married,Lebanon,Sales,Analytical,6.0,1,42,2,2,1.0,type2,1.0,0
+F,65.0,1,Single,Washington,IT,Directive,29.0,4,41,0,3,7.0,type2,1.0,1
+M,39.0,4,Married,Lebanon,R&D,Directive,12.0,1,33,1,2,6.0,type2,3.0,1
+F,48.0,3,Single,Springfield,Sales,Conceptual,22.0,1,73,1,4,4.0,type2,2.0,1
+F,37.0,5,Married,Franklin,Logistics,Conceptual,13.0,3,61,1,4,8.0,type2,2.0,0
+F,31.0,2,Married,Lebanon,Operarions,Behavioral,2.0,2,56,2,2,8.0,type2,4.0,0
+M,60.0,3,Single,Clinton,Logistics,Conceptual,30.0,4,70,1,2,8.0,type2,3.0,1
+F,23.0,4,Married,Springfield,IT,Directive,4.0,4,30,0,2,9.0,type2,2.0,1
+F,22.0,3,Single,Franklin,Marketing,Conceptual,3.0,3,58,1,4,5.0,type3,2.0,1
+F,59.0,4,Single,Springfield,Sales,Analytical,32.0,1,35,1,3,6.0,type3,1.0,0
+M,47.0,4,Single,Franklin,R&D,Conceptual,15.0,3,54,0,2,8.0,type3,1.0,1
+M,45.0,4,Married,Springfield,Logistics,Behavioral,6.0,1,36,1,3,5.0,type3,1.0,0
+F,45.0,5,Single,Lebanon,Logistics,Analytical,10.0,4,24,1,2,7.0,type2,3.0,0
+F,44.0,3,Married,Springfield,Logistics,Behavioral,22.0,3,30,0,3,4.0,type2,1.0,0
+M,20.0,3,Single,Lebanon,R&D,Analytical,1.0,1,40,1,1,3.0,type2,3.0,1
+F,22.0,3,Married,Clinton,Purchasing,Behavioral,3.0,3,73,0,3,8.0,type2,1.0,1
+F,48.0,3,Married,Springfield,Sales,Analytical,17.0,2,50,1,4,6.0,type3,1.0,0
+F,46.0,5,Single,Lebanon,IT,Directive,19.0,2,23,1,3,7.0,type1,4.0,1
+F,43.0,3,Married,Springfield,Human Resource Management,Directive,18.0,2,27,2,4,3.0,type2,1.0,0
+M,65.0,3,Married,Clinton,IT,Behavioral,37.0,3,39,1,3,2.0,type2,2.0,0
+F,37.0,2,Single,Springfield,Logistics,Analytical,12.0,3,20,1,5,6.0,type2,1.0,1
+F,31.0,3,Single,Springfield,Marketing,Analytical,5.0,2,62,0,3,4.0,type2,2.0,0
+M,57.0,2,Single,Lebanon,Sales,Analytical,24.0,4,40,1,2,4.0,type2,3.0,1
+M,24.0,2,Married,Clinton,Sales,Conceptual,5.0,2,38,1,2,8.0,type2,3.0,1
+F,56.0,1,Single,Lebanon,Human Resource Management,Directive,32.0,2,26,0,3,9.0,type3,3.0,1
+F,56.0,3,Married,Lebanon,R&D,Analytical,20.0,1,26,1,1,7.0,type2,1.0,1
+F,42.0,3,Married,Lebanon,Sales,Directive,20.0,3,22,2,3,9.0,type3,1.0,1
+F,60.0,3,Married,Franklin,IT,Directive,37.0,4,29,0,1,8.0,type2,2.0,1
+F,21.0,5,Married,Springfield,Human Resource Management,Conceptual,2.0,1,64,0,5,10.0,type2,4.0,1
+F,28.0,4,Married,Washington,Sales,Analytical,6.0,1,34,0,1,7.0,type3,1.0,0
+F,50.0,3,Married,Lebanon,Operarions,Directive,19.0,2,64,1,3,6.0,type2,2.0,0
+F,59.0,3,Single,Washington,IT,Analytical,34.0,3,57,1,4,9.0,type2,3.0,0
+F,60.0,3,Married,Springfield,Accounting and Finance,Behavioral,21.0,4,41,0,3,6.0,type3,4.0,1
+M,57.0,3,Married,Springfield,Accounting and Finance,Analytical,28.0,1,74,1,5,9.0,type2,4.0,0
+M,47.0,3,Married,Springfield,Quality,Analytical,12.0,2,44,1,3,4.0,type2,1.0,0
+F,42.0,5,Married,Springfield,Human Resource Management,Conceptual,4.0,4,34,0,4,2.0,type2,1.0,0
+M,47.0,4,Single,Springfield,R&D,Analytical,11.0,2,32,0,3,5.0,type3,3.0,1
+F,27.0,2,Married,Springfield,IT,Behavioral,5.0,2,26,0,1,5.0,type2,4.0,0
+M,37.0,3,Married,Franklin,Operarions,Behavioral,15.0,2,27,0,2,10.0,type3,3.0,0
+M,48.0,3,Married,Springfield,Sales,Conceptual,19.0,4,54,1,2,5.0,type1,2.0,0
+F,21.0,4,Married,Lebanon,Marketing,Behavioral,2.0,1,39,2,1,4.0,type2,2.0,0
+M,32.0,3,Single,Springfield,Accounting and Finance,Conceptual,7.0,1,37,1,3,6.0,type3,4.0,0
+M,51.0,1,Married,Lebanon,IT,Analytical,29.0,3,54,1,3,4.0,type2,2.0,0
+M,47.0,4,Single,Springfield,R&D,Analytical,11.0,2,32,0,3,5.0,type3,3.0,1
+F,27.0,2,Married,Lebanon,R&D,Behavioral,4.0,4,31,1,5,4.0,type2,4.0,1
+F,47.0,4,Single,Lebanon,Logistics,Behavioral,15.0,1,65,1,3,6.0,type2,2.0,0
+F,27.0,4,Married,Springfield,Purchasing,Behavioral,3.0,1,21,1,4,4.0,type3,2.0,0
+F,57.0,3,Married,Franklin,Logistics,Behavioral,25.0,3,20,0,1,2.0,type2,2.0,0
+M,36.0,3,Married,Franklin,Logistics,Conceptual,14.0,1,34,0,3,6.0,type3,4.0,0
+M,20.0,1,Single,Lebanon,IT,Analytical,1.0,1,45,0,3,6.0,type2,3.0,1
+M,63.0,3,Married,Clinton,IT,Analytical,38.0,2,28,2,5,7.0,type3,1.0,1
+F,42.0,4,Single,Lebanon,Purchasing,Directive,9.0,1,40,1,4,7.0,type2,4.0,0
+M,20.0,3,Married,Springfield,Marketing,Conceptual,1.0,1,27,0,2,4.0,type3,3.0,0
+M,37.0,3,Married,Franklin,Sales,Behavioral,13.0,4,38,1,5,8.0,type3,1.0,0
+F,32.0,3,Single,Springfield,Security,Directive,7.0,1,64,0,3,6.0,type3,1.0,0
+F,58.0,3,Single,Franklin,Operarions,Behavioral,31.0,1,62,0,1,3.0,type3,2.0,1
+F,25.0,3,Married,Clinton,Operarions,Conceptual,6.0,4,51,1,1,6.0,type2,4.0,1
+F,62.0,3,Married,Springfield,Marketing,Behavioral,29.0,1,30,0,3,8.0,type0,4.0,1
+M,60.0,1,Married,Springfield,Sales,Analytical,31.0,1,42,1,3,6.0,type2,3.0,1
+M,57.0,1,Single,Lebanon,Operarions,Directive,35.0,1,38,1,1,4.0,type3,1.0,1
+M,35.0,4,Married,Franklin,Accounting and Finance,Analytical,8.0,2,33,0,5,7.0,type2,1.0,0
+F,32.0,4,Single,Lebanon,Sales,Behavioral,3.0,3,34,1,5,4.0,type2,1.0,0
+F,62.0,3,Married,Springfield,Marketing,Behavioral,29.0,1,30,0,3,8.0,type0,4.0,1
+F,38.0,1,Single,Springfield,Human Resource Management,Directive,14.0,1,57,1,4,8.0,type2,1.0,1
+F,48.0,3,Single,Lebanon,R&D,Directive,24.0,3,42,1,3,6.0,type2,1.0,1
+M,24.0,4,Married,Lebanon,Operarions,Directive,5.0,1,24,1,4,4.0,type3,4.0,0
+M,47.0,4,Single,Franklin,R&D,Analytical,25.0,2,33,1,5,9.0,type4,4.0,1
+M,22.0,3,Married,Springfield,Logistics,Directive,3.0,3,73,2,2,6.0,type2,4.0,1
+M,32.0,4,Married,Springfield,IT,Conceptual,3.0,2,37,1,5,7.0,type2,3.0,0
+F,49.0,1,Single,Springfield,Human Resource Management,Behavioral,18.0,1,55,2,2,8.0,type2,4.0,0
+M,35.0,4,Married,Franklin,IT,Behavioral,7.0,3,64,1,4,5.0,type2,2.0,0
+M,31.0,3,Married,Springfield,R&D,Analytical,7.0,1,57,0,2,8.0,type2,3.0,0
+M,31.0,5,Married,Springfield,R&D,Directive,5.0,4,28,1,4,8.0,type2,3.0,1
+M,55.0,3,Married,Springfield,Quality,Behavioral,17.0,1,43,0,3,3.0,type2,2.0,0
+F,25.0,2,Single,Washington,Production,Directive,6.0,1,44,2,2,5.0,type2,1.0,0
+M,38.0,2,Single,Franklin,Human Resource Management,Conceptual,10.0,4,41,2,5,4.0,type2,3.0,1
+M,53.0,3,Married,Springfield,IT,Conceptual,14.0,4,28,1,4,9.0,type3,2.0,0
+M,38.0,2,Single,Washington,Logistics,Conceptual,15.0,4,25,0,3,4.0,type3,2.0,1
+M,43.0,3,Married,Clinton,Purchasing,Analytical,5.0,3,66,1,3,8.0,type2,2.0,1
+M,43.0,3,Married,Lebanon,R&D,Behavioral,14.0,1,29,1,2,6.0,type3,3.0,1
+F,28.0,4,Single,Springfield,Purchasing,Behavioral,6.0,2,36,2,2,2.0,type2,4.0,1
+F,21.0,1,Married,Springfield,IT,Behavioral,2.0,2,23,0,3,4.0,type3,1.0,0
+F,19.0,3,Single,Franklin,R&D,Conceptual,0.0,0,23,2,3,7.0,type3,3.0,1
+M,30.0,5,Single,Lebanon,R&D,Analytical,7.0,2,37,0,3,8.0,type3,4.0,1
+F,26.0,1,Married,Lebanon,R&D,Directive,3.0,2,51,0,3,2.0,type3,4.0,0
+F,49.0,3,Single,Washington,Operarions,Behavioral,26.0,4,46,1,3,7.0,type2,2.0,1
+M,44.0,4,Married,Springfield,Logistics,Analytical,6.0,3,41,1,3,7.0,type3,3.0,1
+F,55.0,1,Married,Springfield,Operarions,Behavioral,25.0,2,39,1,4,7.0,type3,4.0,0
+F,25.0,3,Married,Clinton,IT,Directive,6.0,1,23,1,1,5.0,type0,1.0,0
+M,58.0,3,Single,Lebanon,Logistics,Directive,32.0,3,68,0,4,7.0,type2,1.0,0
+M,19.0,1,Single,Lebanon,Purchasing,Conceptual,0.0,0,38,0,3,6.0,type0,4.0,1
+F,43.0,5,Married,Lebanon,Purchasing,Conceptual,7.0,2,25,1,1,5.0,type3,2.0,0
+M,42.0,1,Married,Springfield,Purchasing,Directive,15.0,4,58,1,2,6.0,type3,3.0,1
+M,25.0,3,Married,Lebanon,Sales,Directive,6.0,2,31,1,1,6.0,type3,1.0,0
+M,50.0,2,Married,Clinton,Accounting and Finance,Behavioral,14.0,1,47,0,2,8.0,type2,2.0,0
+M,52.0,4,Single,Lebanon,IT,Analytical,26.0,4,62,0,4,9.0,type3,4.0,0
+F,57.0,3,Married,Lebanon,IT,Conceptual,29.0,3,47,2,4,5.0,type2,3.0,0
+M,60.0,3,Married,Springfield,Production,Conceptual,23.0,1,42,2,1,9.0,type2,3.0,0
+M,28.0,4,Married,Franklin,IT,Directive,6.0,2,48,1,4,6.0,type2,2.0,0
+F,45.0,3,Single,Lebanon,IT,Directive,6.0,4,62,1,3,6.0,type3,4.0,1
+M,33.0,2,Married,Lebanon,Logistics,Conceptual,7.0,4,39,1,2,4.0,type3,2.0,1
+F,30.0,4,Married,Lebanon,IT,Behavioral,8.0,4,39,0,3,3.0,type2,1.0,0
+M,48.0,4,Married,Washington,Purchasing,Analytical,13.0,1,40,1,1,6.0,type3,4.0,0
+M,30.0,4,Married,Springfield,IT,Conceptual,8.0,1,44,0,5,6.0,type2,1.0,1
+M,44.0,3,Married,Franklin,Sales,Directive,18.0,2,73,1,2,8.0,type0,2.0,1
+F,46.0,5,Married,Washington,Accounting and Finance,Analytical,15.0,1,29,1,2,6.0,type2,3.0,1
+M,47.0,4,Single,Franklin,R&D,Analytical,25.0,2,33,1,5,9.0,type4,4.0,1
+M,41.0,5,Single,Franklin,Logistics,Conceptual,2.0,2,30,0,5,6.0,type4,1.0,1
+F,54.0,5,Married,Lebanon,R&D,Conceptual,32.0,1,66,1,3,4.0,type2,4.0,1
+M,22.0,3,Married,Lebanon,Operarions,Analytical,3.0,3,27,1,3,8.0,type2,4.0,0
+F,30.0,3,Married,Lebanon,Sales,Behavioral,6.0,3,62,1,5,5.0,type3,2.0,1
+F,64.0,3,Married,Franklin,IT,Directive,32.0,3,44,0,2,6.0,type0,2.0,0
+F,62.0,3,Married,Springfield,Marketing,Behavioral,29.0,1,30,0,3,8.0,type0,4.0,1
+F,35.0,4,Single,Lebanon,Purchasing,Behavioral,13.0,3,68,1,3,6.0,type2,1.0,0
+F,36.0,4,Married,Franklin,IT,Conceptual,12.0,3,46,1,5,5.0,type3,4.0,1
+F,29.0,2,Married,Springfield,IT,Behavioral,5.0,3,40,1,3,5.0,type0,1.0,1
+F,36.0,1,Married,Lebanon,R&D,Conceptual,8.0,1,30,0,2,4.0,type2,3.0,0
+M,38.0,2,Single,Lebanon,Sales,Behavioral,9.0,4,24,1,4,5.0,type3,1.0,1
+F,60.0,3,Single,Lebanon,Sales,Behavioral,29.0,1,40,0,5,3.0,type3,2.0,0
+F,38.0,1,Single,Springfield,Human Resource Management,Directive,14.0,1,57,1,4,8.0,type2,1.0,1
+F,49.0,3,Married,Lebanon,R&D,Directive,10.0,3,36,2,2,6.0,type2,3.0,1
+F,21.0,5,Married,Springfield,Human Resource Management,Conceptual,2.0,1,64,0,5,10.0,type2,4.0,1
+F,38.0,4,Married,Springfield,R&D,Analytical,13.0,1,47,1,3,1.0,type2,4.0,0
+M,54.0,1,Single,Lebanon,Sales,Behavioral,20.0,3,49,1,1,10.0,type3,1.0,1
+F,41.0,2,Single,Clinton,Sales,Conceptual,17.0,1,30,1,3,8.0,type2,1.0,0
+M,21.0,5,Married,Clinton,Human Resource Management,Conceptual,2.0,2,28,1,3,8.0,type2,2.0,0
+F,28.0,4,Single,Springfield,Purchasing,Behavioral,6.0,2,36,2,2,2.0,type2,4.0,1
+M,52.0,3,Married,Lebanon,Production,Directive,22.0,3,43,0,3,8.0,type2,3.0,0
+F,24.0,3,Married,Lebanon,Sales,Analytical,5.0,2,67,0,3,2.0,type1,1.0,1
+F,19.0,4,Single,Washington,Logistics,Analytical,0.0,0,53,0,3,9.0,type2,1.0,1
+M,46.0,2,Married,Washington,Accounting and Finance,Behavioral,20.0,3,54,0,2,8.0,type2,3.0,0
+M,26.0,1,Single,Franklin,R&D,Behavioral,3.0,3,71,0,3,5.0,type2,1.0,1
+F,20.0,1,Married,Springfield,Purchasing,Behavioral,1.0,1,73,2,3,8.0,type3,1.0,1
+M,47.0,3,Married,Lebanon,Logistics,Conceptual,20.0,1,62,0,2,8.0,type4,3.0,0
+M,22.0,5,Married,Lebanon,Sales,Analytical,3.0,3,49,1,4,4.0,type2,3.0,1
+F,32.0,5,Married,Lebanon,R&D,Directive,9.0,1,60,0,2,8.0,type2,4.0,0
+F,24.0,4,Married,Franklin,Sales,Behavioral,5.0,4,61,1,1,2.0,type3,4.0,1
+F,27.0,1,Married,Lebanon,Purchasing,Directive,3.0,3,57,1,3,8.0,type2,3.0,0
+M,28.0,4,Married,Lebanon,Accounting and Finance,Behavioral,6.0,1,24,2,3,5.0,type1,4.0,0
+M,30.0,1,Married,Springfield,IT,Behavioral,6.0,2,30,2,3,6.0,type1,2.0,1
+M,47.0,2,Married,Washington,Sales,Behavioral,23.0,3,40,2,1,4.0,type3,2.0,0
+M,41.0,4,Single,Springfield,Operarions,Directive,13.0,3,43,0,3,5.0,type2,3.0,1
+M,30.0,2,Married,Washington,IT,Analytical,6.0,3,63,2,1,8.0,type2,3.0,0
+F,51.0,1,Married,Lebanon,IT,Directive,22.0,4,46,1,3,5.0,type2,1.0,0
+F,36.0,1,Married,Clinton,Logistics,Behavioral,12.0,4,35,1,4,2.0,type2,2.0,1
+F,19.0,3,Single,Clinton,Logistics,Conceptual,0.0,0,64,1,3,4.0,type2,4.0,0
+F,43.0,3,Single,Springfield,Operarions,Behavioral,12.0,3,66,0,3,8.0,type3,1.0,0
+F,42.0,1,Single,Springfield,R&D,Analytical,15.0,2,20,1,4,8.0,type2,3.0,1
+F,31.0,3,Married,Clinton,Human Resource Management,Directive,3.0,1,32,0,3,9.0,type2,1.0,1
+M,21.0,2,Married,Springfield,Purchasing,Behavioral,2.0,2,67,1,2,6.0,type2,3.0,1
+M,30.0,4,Married,Franklin,Operarions,Behavioral,6.0,2,74,0,4,7.0,type2,4.0,1
+F,32.0,3,Married,Springfield,IT,Conceptual,5.0,2,54,2,3,6.0,type3,4.0,0
+M,20.0,4,Single,Springfield,Logistics,Behavioral,1.0,1,68,2,3,3.0,type2,2.0,1
+F,43.0,5,Married,Springfield,IT,Analytical,18.0,4,59,1,3,5.0,type1,3.0,0
+M,21.0,4,Married,Lebanon,Human Resource Management,Conceptual,2.0,2,39,1,2,8.0,type2,4.0,0
+M,24.0,3,Single,Lebanon,R&D,Behavioral,5.0,3,51,0,5,5.0,type4,1.0,0
+F,34.0,3,Married,Springfield,R&D,Analytical,12.0,3,71,1,5,7.0,type4,3.0,0
+M,63.0,3,Married,Clinton,IT,Analytical,38.0,2,28,2,5,7.0,type3,1.0,1
+M,28.0,2,Married,Washington,Logistics,Conceptual,5.0,4,37,1,3,5.0,type3,2.0,1
+F,37.0,4,Single,Lebanon,Sales,Analytical,14.0,1,66,1,5,5.0,type3,4.0,0
+M,33.0,5,Single,Lebanon,Purchasing,Directive,5.0,4,33,1,4,4.0,type3,2.0,1
+F,36.0,4,Single,Springfield,R&D,Conceptual,9.0,3,66,0,3,8.0,type2,3.0,1
+M,26.0,4,Single,Lebanon,Logistics,Conceptual,3.0,3,66,2,4,4.0,type2,2.0,0
+F,22.0,4,Married,Washington,Purchasing,Directive,3.0,2,47,1,5,8.0,type3,2.0,1
+F,26.0,3,Married,Clinton,Logistics,Directive,3.0,3,66,1,2,6.0,type2,4.0,1
+M,44.0,4,Single,Lebanon,Quality,Behavioral,14.0,2,48,1,3,6.0,type0,3.0,1
+M,20.0,5,Married,Washington,Logistics,Analytical,1.0,1,24,1,1,10.0,type2,3.0,1
+F,60.0,4,Married,Springfield,IT,Conceptual,33.0,1,42,0,3,1.0,type2,4.0,1
+F,58.0,4,Married,Springfield,IT,Directive,35.0,4,53,2,3,8.0,type3,2.0,0
+M,65.0,3,Single,Springfield,Marketing,Behavioral,42.0,4,21,1,3,7.0,type2,1.0,1
+M,32.0,3,Single,Springfield,Purchasing,Conceptual,7.0,2,47,1,2,3.0,type2,3.0,1
+F,65.0,1,Married,Lebanon,IT,Conceptual,39.0,3,57,0,2,8.0,type2,2.0,1
+F,31.0,3,Single,Springfield,Purchasing,Analytical,7.0,4,31,1,3,2.0,type3,3.0,1
+M,37.0,2,Married,Clinton,IT,Analytical,12.0,1,57,2,1,8.0,type3,2.0,1
+M,60.0,2,Married,Lebanon,Logistics,Analytical,23.0,4,38,0,4,4.0,type4,4.0,0
+M,31.0,4,Married,Clinton,IT,Behavioral,2.0,1,71,0,3,6.0,type3,2.0,0
+F,24.0,4,Single,Lebanon,Sales,Behavioral,5.0,4,36,0,3,4.0,type2,1.0,1
+F,32.0,4,Married,Springfield,IT,Analytical,5.0,2,61,1,2,7.0,type2,1.0,1
+M,54.0,4,Single,Lebanon,Operarions,Behavioral,21.0,1,25,0,2,7.0,type2,1.0,0
+F,40.0,4,Single,Franklin,Production,Conceptual,17.0,2,51,2,4,10.0,type2,2.0,0
+M,23.0,4,Single,Springfield,Purchasing,Analytical,4.0,1,36,0,4,7.0,type2,4.0,1
+F,28.0,1,Married,Lebanon,R&D,Conceptual,4.0,4,26,0,1,8.0,type2,3.0,0
+M,64.0,4,Single,Franklin,R&D,Analytical,35.0,2,41,1,3,8.0,type2,1.0,1
+F,60.0,3,Married,Springfield,R&D,Behavioral,31.0,1,53,1,4,5.0,type2,2.0,1
+M,36.0,2,Single,Franklin,Accounting and Finance,Behavioral,10.0,2,42,1,5,4.0,type2,4.0,1
+M,27.0,4,Married,Lebanon,Logistics,Conceptual,4.0,2,41,1,4,6.0,type0,3.0,1
+F,50.0,3,Married,Lebanon,Marketing,Directive,15.0,4,47,0,3,4.0,type2,3.0,1
+F,47.0,4,Married,Lebanon,Purchasing,Analytical,17.0,1,71,1,4,6.0,type3,2.0,0
+M,19.0,3,Married,Springfield,Sales,Behavioral,0.0,0,72,2,4,7.0,type2,3.0,1
+M,24.0,1,Single,Franklin,Operarions,Conceptual,5.0,2,39,2,1,5.0,type3,3.0,1
+F,62.0,3,Single,Springfield,Marketing,Behavioral,24.0,1,24,1,1,6.0,type4,2.0,0
+F,24.0,4,Single,Washington,Logistics,Directive,5.0,2,71,2,4,8.0,type3,1.0,0
+F,49.0,3,Single,Washington,Operarions,Behavioral,26.0,4,46,1,3,7.0,type2,2.0,1
+F,24.0,3,Married,Clinton,Marketing,Conceptual,5.0,1,20,1,4,7.0,type4,2.0,0
+F,34.0,3,Married,Springfield,IT,Conceptual,7.0,1,58,0,3,6.0,type3,2.0,0
+F,44.0,3,Single,Springfield,IT,Conceptual,17.0,2,45,2,3,5.0,type2,1.0,1
+M,43.0,3,Married,Springfield,Production,Analytical,6.0,1,22,0,2,7.0,type0,3.0,1
+F,32.0,2,Married,Franklin,R&D,Directive,3.0,3,62,2,1,8.0,type3,3.0,1
+M,28.0,3,Married,Washington,Sales,Behavioral,4.0,1,65,0,1,3.0,type2,2.0,0
+M,42.0,4,Married,Lebanon,Operarions,Behavioral,15.0,3,59,1,2,10.0,type2,1.0,0
+M,65.0,4,Married,Washington,Operarions,Conceptual,29.0,2,57,0,3,4.0,type3,4.0,0
+F,51.0,2,Married,Franklin,Logistics,Analytical,14.0,1,64,1,5,6.0,type2,2.0,1
+F,35.0,1,Single,Franklin,IT,Directive,8.0,2,64,0,1,3.0,type3,2.0,0
+F,31.0,3,Married,Clinton,Human Resource Management,Directive,3.0,1,32,0,3,9.0,type2,1.0,1
+F,23.0,3,Single,Lebanon,Sales,Conceptual,4.0,4,73,1,3,7.0,type2,2.0,0
+F,25.0,3,Married,Springfield,IT,Conceptual,6.0,2,21,1,3,5.0,type2,3.0,1
+F,65.0,1,Single,Lebanon,R&D,Directive,41.0,4,24,1,1,6.0,type2,3.0,0
+M,31.0,3,Single,Springfield,Operarions,Directive,8.0,3,33,0,4,10.0,type2,3.0,1
+F,42.0,4,Single,Franklin,Purchasing,Analytical,7.0,4,71,1,1,8.0,type3,1.0,1
+M,28.0,3,Single,Springfield,Logistics,Behavioral,4.0,3,28,2,3,8.0,type3,1.0,0
+M,39.0,5,Single,Lebanon,IT,Analytical,11.0,2,50,1,3,4.0,type3,3.0,1
+M,52.0,1,Married,Lebanon,R&D,Behavioral,15.0,1,62,2,2,5.0,type2,3.0,0
+M,27.0,3,Married,Clinton,IT,Conceptual,3.0,1,57,0,2,4.0,type2,2.0,1
+F,27.0,4,Single,Lebanon,IT,Directive,3.0,2,49,1,3,3.0,type1,2.0,0
+F,28.0,4,Married,Clinton,R&D,Directive,6.0,1,38,1,3,3.0,type3,3.0,0
+F,58.0,4,Married,Lebanon,Accounting and Finance,Behavioral,27.0,3,48,0,2,6.0,type2,1.0,0
+F,43.0,3,Single,Lebanon,Sales,Directive,7.0,3,32,2,2,8.0,type3,3.0,0
+F,40.0,3,Married,Washington,Accounting and Finance,Directive,13.0,1,52,0,1,4.0,type2,1.0,0
+M,57.0,3,Married,Franklin,R&D,Analytical,26.0,1,61,1,2,10.0,type2,2.0,0
+F,42.0,4,Single,Franklin,Purchasing,Analytical,7.0,4,71,1,1,8.0,type3,1.0,1
+F,53.0,4,Single,Franklin,Logistics,Analytical,29.0,2,22,0,2,4.0,type2,4.0,1
+M,60.0,1,Married,Lebanon,IT,Conceptual,28.0,1,45,2,4,8.0,type2,3.0,0
+F,29.0,3,Single,Franklin,IT,Directive,5.0,1,35,0,1,10.0,type2,3.0,0
+F,51.0,3,Single,Lebanon,IT,Analytical,22.0,4,32,1,2,8.0,type2,1.0,1
+M,27.0,3,Married,Springfield,R&D,Conceptual,4.0,1,36,0,2,7.0,type2,4.0,1
+F,28.0,3,Married,Springfield,IT,Directive,5.0,1,38,0,1,8.0,type2,1.0,1
+M,49.0,3,Married,Washington,Operarions,Directive,13.0,3,23,1,4,6.0,type2,4.0,1
+F,28.0,3,Married,Springfield,IT,Directive,5.0,1,38,0,1,8.0,type2,1.0,1
+F,34.0,4,Married,Washington,IT,Directive,10.0,2,40,1,3,8.0,type2,3.0,0
+M,21.0,4,Married,Springfield,Sales,Conceptual,2.0,1,37,1,4,8.0,type3,2.0,0
+M,50.0,4,Single,Franklin,Human Resource Management,Conceptual,21.0,4,34,0,5,4.0,type2,4.0,1
+F,31.0,4,Single,Lebanon,Production,Directive,3.0,3,46,1,5,7.0,type0,3.0,0
+M,35.0,4,Married,Springfield,Human Resource Management,Directive,8.0,3,39,1,4,4.0,type4,3.0,0
+F,46.0,3,Married,Clinton,Operarions,Analytical,18.0,2,36,1,3,6.0,type0,2.0,1
+F,23.0,4,Married,Franklin,Logistics,Behavioral,4.0,2,71,1,2,6.0,type2,3.0,0
+F,37.0,3,Married,Franklin,Sales,Conceptual,14.0,3,54,1,3,8.0,type3,2.0,0
+M,47.0,3,Single,Lebanon,Operarions,Analytical,15.0,1,34,1,3,8.0,type4,3.0,0
+F,63.0,4,Married,Lebanon,Operarions,Conceptual,38.0,2,37,1,3,7.0,type4,2.0,0
+M,64.0,1,Single,Lebanon,Accounting and Finance,Behavioral,30.0,4,42,2,3,2.0,type2,3.0,1
+F,31.0,4,Married,Lebanon,Operarions,Directive,5.0,4,37,1,2,6.0,type3,3.0,0
+F,47.0,3,Single,Springfield,Sales,Behavioral,17.0,2,34,1,3,4.0,type3,1.0,0
+F,21.0,4,Married,Springfield,Accounting and Finance,Analytical,2.0,2,37,0,1,1.0,type3,1.0,0
+F,57.0,2,Single,Washington,Operarions,Conceptual,22.0,1,59,1,2,8.0,type3,2.0,0
+F,43.0,2,Married,Washington,Human Resource Management,Analytical,14.0,1,55,1,3,6.0,type2,3.0,1
+F,22.0,4,Single,Lebanon,R&D,Analytical,3.0,2,39,2,2,6.0,type2,3.0,1
+F,43.0,3,Married,Franklin,Sales,Directive,18.0,1,43,0,3,9.0,type2,3.0,0
+F,47.0,1,Single,Franklin,Logistics,Directive,12.0,3,20,0,4,7.0,type3,2.0,1
+M,48.0,4,Married,Springfield,Logistics,Directive,14.0,3,23,1,2,4.0,type2,4.0,1
+F,60.0,1,Married,Clinton,IT,Conceptual,27.0,3,25,0,1,6.0,type2,2.0,1
+F,25.0,5,Single,Lebanon,Human Resource Management,Directive,6.0,4,38,0,5,5.0,type3,4.0,1
+M,55.0,3,Married,Washington,Sales,Directive,20.0,1,40,1,3,2.0,type2,1.0,1
+M,47.0,1,Single,Lebanon,Accounting and Finance,Behavioral,14.0,3,38,1,4,6.0,type3,1.0,0
+F,51.0,2,Married,Franklin,Logistics,Analytical,14.0,1,64,1,5,6.0,type2,2.0,1
+M,22.0,4,Single,Springfield,IT,Conceptual,3.0,3,59,1,4,8.0,type2,1.0,1
+M,24.0,1,Single,Franklin,Operarions,Conceptual,5.0,2,39,2,1,5.0,type3,3.0,1
+M,47.0,3,Married,Franklin,IT,Analytical,13.0,4,28,1,3,8.0,type3,2.0,0
+F,30.0,4,Single,Lebanon,R&D,Directive,7.0,3,65,0,3,2.0,type3,2.0,0
+M,53.0,3,Married,Washington,IT,Behavioral,15.0,3,48,1,4,9.0,type3,1.0,0
+F,37.0,2,Married,Springfield,Logistics,Analytical,10.0,1,46,1,1,6.0,type2,4.0,1
+F,24.0,4,Married,Springfield,Operarions,Analytical,5.0,3,45,1,2,5.0,type2,1.0,1
+M,45.0,1,Married,Franklin,IT,Behavioral,20.0,1,40,1,3,6.0,type2,4.0,0
+F,25.0,5,Married,Lebanon,Accounting and Finance,Directive,6.0,2,26,1,3,5.0,type2,1.0,1
+F,37.0,3,Married,Lebanon,Human Resource Management,Behavioral,11.0,4,39,0,3,8.0,type2,1.0,0
+F,31.0,3,Married,Franklin,Security,Analytical,6.0,3,61,1,4,4.0,type2,3.0,1
+F,19.0,3,Married,Springfield,IT,Analytical,0.0,0,25,1,4,4.0,type0,2.0,1
+F,49.0,3,Married,Lebanon,R&D,Directive,10.0,3,36,2,2,6.0,type2,3.0,1
+F,22.0,3,Married,Franklin,R&D,Conceptual,3.0,2,37,1,1,4.0,type0,2.0,0
+M,32.0,3,Married,Springfield,Human Resource Management,Analytical,3.0,1,53,2,1,6.0,type4,2.0,0
+M,56.0,3,Single,Franklin,Logistics,Conceptual,30.0,2,62,1,3,4.0,type2,2.0,0
+F,20.0,1,Single,Franklin,Sales,Directive,1.0,1,73,1,1,6.0,type3,3.0,1
+F,42.0,4,Married,Lebanon,Purchasing,Conceptual,8.0,1,49,1,2,7.0,type3,3.0,1
+M,22.0,5,Married,Lebanon,Sales,Analytical,3.0,3,49,1,4,4.0,type2,3.0,1
+F,33.0,4,Single,Washington,Operarions,Conceptual,5.0,1,33,1,2,7.0,type2,2.0,0
+M,62.0,3,Married,Lebanon,Sales,Directive,33.0,3,53,2,1,6.0,type2,3.0,1
+F,28.0,4,Married,Lebanon,R&D,Directive,5.0,2,47,0,1,8.0,type2,3.0,1
+F,57.0,4,Single,Washington,Human Resource Management,Behavioral,28.0,3,66,2,3,2.0,type3,1.0,0
+M,53.0,3,Single,Springfield,IT,Analytical,24.0,4,56,2,3,6.0,type4,1.0,1
+M,46.0,1,Married,Washington,Accounting and Finance,Conceptual,19.0,2,67,1,1,7.0,type3,1.0,1
+F,31.0,4,Married,Washington,Sales,Analytical,7.0,4,56,1,2,4.0,type3,2.0,1
+M,21.0,4,Married,Springfield,Human Resource Management,Directive,2.0,2,38,0,3,8.0,type3,3.0,0
+M,25.0,4,Single,Lebanon,Purchasing,Conceptual,6.0,1,28,1,2,7.0,type3,3.0,1
+F,39.0,3,Married,Springfield,Purchasing,Directive,13.0,1,39,2,3,3.0,type2,3.0,0
+M,26.0,4,Single,Washington,Accounting and Finance,Directive,3.0,2,38,0,4,4.0,type2,3.0,1
+F,32.0,4,Married,Lebanon,IT,Behavioral,9.0,3,27,1,5,5.0,type2,2.0,1
+F,45.0,2,Married,Lebanon,Purchasing,Analytical,18.0,3,22,0,2,4.0,type4,4.0,0
+F,22.0,3,Single,Washington,IT,Directive,3.0,1,38,1,3,5.0,type3,1.0,0
+F,45.0,4,Married,Washington,IT,Directive,11.0,2,28,0,3,5.0,type3,3.0,1
+F,19.0,4,Single,Springfield,IT,Conceptual,0.0,0,42,0,2,6.0,type3,2.0,1
+M,64.0,4,Single,Franklin,R&D,Analytical,35.0,2,41,1,3,8.0,type2,1.0,1
+F,37.0,2,Married,Franklin,R&D,Conceptual,14.0,3,58,2,3,5.0,type3,3.0,1
+M,45.0,1,Single,Lebanon,Quality,Conceptual,10.0,2,38,1,2,9.0,type2,1.0,1
+M,32.0,1,Married,Franklin,Operarions,Directive,6.0,3,72,1,2,8.0,type3,1.0,0
+F,19.0,1,Single,Washington,Logistics,Analytical,0.0,0,49,1,1,8.0,type2,4.0,1
+F,55.0,5,Single,Washington,IT,Conceptual,21.0,3,38,0,4,6.0,type3,2.0,0
+M,21.0,1,Single,Washington,Operarions,Behavioral,2.0,1,70,1,5,7.0,type3,4.0,1
+M,23.0,1,Single,Clinton,R&D,Directive,4.0,3,72,1,3,3.0,type2,1.0,1
+M,43.0,3,Married,Clinton,Purchasing,Analytical,5.0,3,66,1,3,8.0,type2,2.0,1
+F,44.0,3,Married,Lebanon,Accounting and Finance,Analytical,11.0,2,49,1,3,4.0,type2,4.0,0
+F,51.0,4,Single,Clinton,IT,Analytical,20.0,1,32,1,2,8.0,type3,1.0,0
+F,58.0,3,Single,Lebanon,R&D,Analytical,32.0,2,66,1,1,6.0,type2,4.0,1
+M,46.0,3,Married,Lebanon,IT,Behavioral,15.0,4,60,1,1,5.0,type2,1.0,0
+F,30.0,4,Married,Lebanon,Sales,Conceptual,8.0,1,53,0,5,4.0,type3,3.0,1
+F,53.0,4,Single,Lebanon,Operarions,Analytical,31.0,4,29,0,2,6.0,type3,5.0,0
+F,60.0,3,Married,Lebanon,Human Resource Management,Conceptual,24.0,2,54,1,5,7.0,type3,1.0,0
+F,28.0,1,Married,Lebanon,Purchasing,Behavioral,5.0,3,30,1,3,10.0,type2,2.0,0
+M,25.0,4,Married,Springfield,R&D,Analytical,6.0,4,55,2,2,6.0,type2,1.0,0
+M,60.0,2,Married,Franklin,Accounting and Finance,Conceptual,34.0,1,66,1,3,5.0,type2,1.0,1
+F,21.0,3,Single,Springfield,R&D,Directive,2.0,2,53,1,2,4.0,type2,3.0,1
+F,57.0,3,Married,Franklin,Logistics,Behavioral,25.0,3,20,0,1,2.0,type2,2.0,0
+F,54.0,3,Married,Washington,Accounting and Finance,Directive,20.0,1,32,0,3,6.0,type2,3.0,1
+M,30.0,3,Single,Franklin,Quality,Directive,7.0,3,57,0,3,5.0,type2,4.0,1
+F,25.0,4,Married,Lebanon,Logistics,Behavioral,6.0,1,30,2,3,9.0,type2,3.0,0
+M,28.0,3,Single,Springfield,Logistics,Analytical,5.0,4,49,0,5,6.0,type3,3.0,1
+M,25.0,4,Married,Springfield,Sales,Conceptual,6.0,4,52,0,2,6.0,type3,1.0,0
+M,46.0,3,Single,Washington,IT,Behavioral,13.0,3,54,1,3,7.0,type3,2.0,0
+M,20.0,4,Single,Springfield,Logistics,Behavioral,1.0,1,68,2,3,3.0,type2,2.0,1
+M,32.0,2,Married,Springfield,R&D,Behavioral,5.0,4,39,1,1,4.0,type2,1.0,1
+M,27.0,3,Married,Washington,Purchasing,Conceptual,5.0,4,68,0,3,8.0,type3,4.0,1
+M,34.0,3,Single,Franklin,Sales,Behavioral,6.0,4,47,0,2,4.0,type4,1.0,1
+F,20.0,2,Married,Washington,Logistics,Directive,1.0,1,73,0,3,1.0,type3,1.0,0
+F,26.0,4,Married,Clinton,Logistics,Conceptual,4.0,4,73,1,3,8.0,type2,1.0,1
+F,64.0,4,Married,Franklin,Logistics,Directive,41.0,4,37,2,3,7.0,type3,1.0,0
+F,42.0,5,Married,Lebanon,Operarions,Behavioral,7.0,3,60,1,5,6.0,type3,1.0,0
+M,59.0,3,Single,Springfield,Sales,Directive,27.0,2,57,1,2,6.0,type4,1.0,1
+M,43.0,4,Married,Springfield,Operarions,Behavioral,7.0,1,30,1,1,6.0,type3,3.0,1
+F,35.0,2,Married,Lebanon,Security,Analytical,6.0,3,56,1,3,2.0,type2,3.0,0
+F,34.0,2,Single,Springfield,Operarions,Conceptual,5.0,1,26,0,1,8.0,type3,3.0,0
+F,25.0,5,Single,Franklin,IT,Analytical,6.0,3,35,0,3,5.0,type2,1.0,0
+M,48.0,3,Married,Lebanon,Sales,Behavioral,26.0,3,20,0,2,8.0,type3,1.0,1
+M,22.0,3,Married,Franklin,Accounting and Finance,Conceptual,3.0,3,52,1,3,4.0,type2,4.0,0
+F,28.0,3,Single,Springfield,R&D,Conceptual,6.0,3,31,1,3,2.0,type2,3.0,1
+F,49.0,5,Married,Franklin,Marketing,Behavioral,24.0,2,36,1,2,6.0,type3,2.0,0
+M,48.0,3,Single,Lebanon,Security,Directive,19.0,4,26,1,4,2.0,type4,1.0,1
+F,32.0,3,Single,Franklin,IT,Conceptual,5.0,1,24,1,2,7.0,type3,3.0,0
+F,60.0,4,Married,Springfield,IT,Analytical,26.0,2,56,1,1,8.0,type0,3.0,1
+F,36.0,4,Single,Springfield,R&D,Conceptual,9.0,3,66,0,3,8.0,type2,3.0,1
+M,56.0,4,Married,Franklin,Operarions,Analytical,23.0,4,30,1,3,8.0,type2,1.0,1
+F,49.0,4,Married,Lebanon,Quality,Directive,17.0,3,23,1,3,8.0,type2,1.0,1
+M,21.0,5,Married,Springfield,Quality,Analytical,2.0,2,54,0,3,8.0,type3,3.0,1
+M,45.0,4,Married,Springfield,Logistics,Behavioral,6.0,1,36,1,3,5.0,type3,1.0,0
+M,22.0,3,Married,Clinton,Logistics,Analytical,3.0,3,54,2,1,9.0,type2,1.0,0
+F,43.0,2,Married,Washington,Human Resource Management,Analytical,14.0,1,55,1,3,6.0,type2,3.0,1
+M,62.0,3,Single,Lebanon,R&D,Directive,34.0,3,21,2,4,9.0,type3,2.0,0
+M,23.0,4,Married,Lebanon,Operarions,Conceptual,4.0,1,69,2,3,7.0,type3,1.0,0
+M,64.0,3,Married,Springfield,Logistics,Analytical,28.0,4,53,0,4,5.0,type2,4.0,0
+F,41.0,2,Married,Washington,Accounting and Finance,Directive,12.0,3,61,1,2,6.0,type2,1.0,1
+M,30.0,1,Married,Washington,Purchasing,Conceptual,7.0,2,35,1,3,3.0,type2,2.0,1
+M,43.0,4,Single,Lebanon,Marketing,Analytical,11.0,1,59,1,2,5.0,type2,4.0,1
+M,26.0,3,Single,Washington,Human Resource Management,Directive,2.0,2,73,1,3,4.0,type3,3.0,0
+M,33.0,3,Married,Lebanon,Logistics,Behavioral,11.0,2,55,0,3,6.0,type2,4.0,0
+F,60.0,3,Single,Springfield,Operarions,Analytical,32.0,3,44,0,3,10.0,type2,3.0,1
+M,41.0,1,Single,Franklin,Sales,Conceptual,8.0,4,65,1,3,4.0,type2,2.0,1
+F,57.0,3,Married,Lebanon,IT,Conceptual,29.0,3,47,2,4,5.0,type2,3.0,0
+F,27.0,3,Married,Lebanon,Purchasing,Behavioral,5.0,4,42,0,3,9.0,type2,1.0,1
+F,54.0,5,Married,Lebanon,R&D,Conceptual,32.0,1,66,1,3,4.0,type2,4.0,1
+M,32.0,2,Married,Washington,IT,Directive,5.0,3,72,0,3,8.0,type3,3.0,1
+F,27.0,4,Married,Lebanon,Logistics,Behavioral,5.0,4,50,0,3,2.0,type2,4.0,1
+M,37.0,3,Single,Washington,Human Resource Management,Behavioral,10.0,2,22,1,2,8.0,type2,2.0,1
+F,58.0,4,Single,Lebanon,IT,Directive,31.0,3,58,1,1,8.0,type3,3.0,1
+M,54.0,3,Married,Clinton,Accounting and Finance,Conceptual,30.0,3,56,0,4,5.0,type1,3.0,1
+M,35.0,2,Married,Franklin,Logistics,Analytical,8.0,3,51,2,1,1.0,type2,3.0,1
+F,52.0,4,Married,Washington,Purchasing,Conceptual,27.0,4,65,1,2,5.0,type3,3.0,1
+M,65.0,3,Married,Lebanon,IT,Conceptual,34.0,1,45,1,3,6.0,type2,1.0,1
+F,53.0,3,Single,Lebanon,Purchasing,Analytical,25.0,4,71,1,3,8.0,type2,3.0,1
+F,56.0,4,Single,Lebanon,R&D,Analytical,34.0,2,61,1,3,8.0,type3,2.0,0
+M,57.0,2,Married,Franklin,Sales,Conceptual,35.0,4,28,1,4,6.0,type2,3.0,0
+F,47.0,3,Single,Clinton,Logistics,Conceptual,24.0,3,40,1,4,8.0,type2,2.0,1
+F,61.0,3,Married,Springfield,IT,Behavioral,24.0,4,34,0,3,9.0,type0,2.0,1
+F,28.0,3,Married,Franklin,R&D,Behavioral,4.0,4,40,1,3,7.0,type2,4.0,1
+F,65.0,5,Married,Franklin,Operarions,Analytical,38.0,4,48,0,1,7.0,type2,1.0,1
+M,65.0,4,Married,Franklin,Logistics,Conceptual,42.0,3,25,0,1,8.0,type2,2.0,0
+F,44.0,5,Married,Lebanon,Accounting and Finance,Analytical,13.0,3,44,0,2,8.0,type3,3.0,0
+M,35.0,1,Married,Washington,Sales,Conceptual,10.0,4,47,0,3,5.0,type3,4.0,0
+M,37.0,3,Married,Franklin,IT,Behavioral,15.0,1,44,0,3,4.0,type3,3.0,0
+F,62.0,5,Married,Lebanon,IT,Behavioral,39.0,1,37,2,4,4.0,type3,3.0,0
+M,38.0,4,Married,Franklin,Logistics,Analytical,10.0,3,20,1,2,6.0,type4,4.0,1
+F,37.0,3,Married,Springfield,R&D,Analytical,10.0,2,29,1,3,5.0,type2,1.0,1
+F,30.0,3,Married,Franklin,Sales,Behavioral,8.0,3,34,1,4,5.0,type4,3.0,1
+M,38.0,2,Single,Washington,Logistics,Conceptual,15.0,4,25,0,3,4.0,type3,2.0,1
+F,56.0,1,Single,Clinton,Accounting and Finance,Directive,31.0,2,34,0,2,5.0,type3,2.0,0
+M,22.0,3,Single,Lebanon,Operarions,Analytical,3.0,1,68,0,2,4.0,type1,1.0,0
+M,63.0,4,Single,Lebanon,Marketing,Conceptual,25.0,2,64,1,3,4.0,type2,3.0,0
+M,47.0,3,Married,Springfield,Operarions,Directive,20.0,1,32,0,4,6.0,type2,3.0,1
+F,23.0,3,Married,Lebanon,R&D,Analytical,4.0,4,54,0,4,7.0,type3,3.0,1
+F,24.0,3,Married,Franklin,Logistics,Analytical,5.0,2,29,0,3,6.0,type3,2.0,0
+F,56.0,3,Married,Lebanon,R&D,Analytical,20.0,1,26,1,1,7.0,type2,1.0,1
+F,43.0,5,Married,Clinton,R&D,Behavioral,5.0,1,64,1,5,5.0,type2,2.0,1
+F,27.0,4,Single,Springfield,Accounting and Finance,Conceptual,3.0,2,71,1,5,5.0,type2,3.0,1
+M,26.0,3,Single,Lebanon,IT,Directive,2.0,1,29,2,3,8.0,type3,1.0,1
+M,61.0,4,Single,Franklin,Purchasing,Analytical,37.0,2,57,0,1,4.0,type2,3.0,1
+M,52.0,3,Married,Washington,Purchasing,Analytical,15.0,1,27,1,3,6.0,type3,2.0,0
+F,25.0,4,Married,Springfield,Purchasing,Behavioral,6.0,3,60,0,2,6.0,type2,1.0,0
+F,60.0,3,Married,Franklin,IT,Directive,37.0,4,29,0,1,8.0,type2,2.0,1
+F,31.0,4,Married,Lebanon,Accounting and Finance,Analytical,7.0,3,51,1,5,5.0,type2,4.0,0
+F,58.0,3,Married,Washington,Purchasing,Analytical,35.0,4,71,0,5,8.0,type2,4.0,0
+M,31.0,4,Married,Washington,Accounting and Finance,Conceptual,2.0,2,62,0,5,6.0,type2,2.0,1
+F,40.0,1,Married,Lebanon,Sales,Conceptual,14.0,4,45,2,3,4.0,type3,1.0,0
+F,22.0,3,Married,Franklin,Accounting and Finance,Directive,3.0,3,46,1,4,4.0,type3,3.0,1
+M,28.0,3,Married,Washington,Sales,Behavioral,4.0,1,65,0,1,3.0,type2,2.0,0
+F,36.0,3,Married,Clinton,Operarions,Behavioral,9.0,2,35,0,3,6.0,type2,1.0,1
+F,37.0,3,Single,Lebanon,Operarions,Behavioral,12.0,3,55,1,2,6.0,type2,1.0,0
+F,32.0,3,Single,Washington,Quality,Conceptual,7.0,1,58,0,5,3.0,type2,1.0,0
+M,43.0,2,Married,Franklin,Logistics,Directive,18.0,1,45,0,1,7.0,type3,3.0,1
+F,28.0,3,Married,Lebanon,Logistics,Conceptual,6.0,3,66,0,4,8.0,type2,3.0,1
+F,27.0,3,Single,Lebanon,IT,Analytical,5.0,2,51,0,2,6.0,type2,2.0,0
+F,37.0,3,Married,Lebanon,Human Resource Management,Directive,11.0,2,40,1,4,10.0,type2,4.0,1
+M,41.0,4,Married,Franklin,Operarions,Analytical,18.0,2,45,2,3,7.0,type2,2.0,0
+M,52.0,3,Single,Franklin,Operarions,Directive,13.0,1,28,1,2,4.0,type3,4.0,0
+M,26.0,3,Single,Lebanon,IT,Directive,2.0,1,29,2,3,8.0,type3,1.0,1
+F,20.0,3,Single,Clinton,Logistics,Directive,1.0,1,74,1,5,6.0,type2,2.0,1
+F,51.0,3,Single,Springfield,Accounting and Finance,Analytical,12.0,3,70,1,2,8.0,type2,1.0,1
+F,34.0,3,Married,Franklin,IT,Conceptual,8.0,3,20,2,3,9.0,type2,3.0,1
+M,22.0,4,Married,Springfield,Operarions,Conceptual,3.0,2,59,2,3,9.0,type3,2.0,1
+F,34.0,4,Single,Franklin,Purchasing,Conceptual,10.0,2,61,0,3,1.0,type4,1.0,0
+F,55.0,4,Married,Springfield,Marketing,Directive,24.0,2,68,1,2,5.0,type2,2.0,1
+F,61.0,3,Married,Springfield,IT,Directive,31.0,1,32,1,4,10.0,type3,3.0,0
+F,42.0,4,Married,Lebanon,Marketing,Conceptual,4.0,4,58,2,1,10.0,type3,2.0,1
+M,32.0,1,Married,Springfield,R&D,Behavioral,5.0,4,61,0,1,5.0,type2,1.0,0
+F,22.0,4,Married,Springfield,Sales,Behavioral,3.0,3,39,0,3,4.0,type2,3.0,1
+F,54.0,4,Married,Lebanon,Logistics,Conceptual,16.0,2,31,1,3,6.0,type3,1.0,0
+M,49.0,3,Married,Springfield,Logistics,Analytical,21.0,2,39,0,1,7.0,type2,3.0,0
+F,40.0,3,Married,Washington,Sales,Analytical,12.0,3,39,0,2,7.0,type2,3.0,1
+M,19.0,4,Married,Washington,Operarions,Analytical,0.0,0,74,0,2,10.0,type3,3.0,1
+M,49.0,1,Married,Lebanon,Operarions,Conceptual,10.0,2,30,1,4,4.0,type0,3.0,1
+M,51.0,3,Married,Springfield,Logistics,Analytical,18.0,2,61,1,3,7.0,type2,3.0,0
+F,31.0,3,Married,Franklin,Operarions,Conceptual,3.0,3,33,2,4,6.0,type1,2.0,0
+F,56.0,5,Single,Lebanon,Sales,Conceptual,26.0,2,59,1,2,7.0,type2,3.0,1
+F,45.0,5,Single,Washington,Logistics,Directive,19.0,4,38,1,3,7.0,type2,3.0,0
+F,51.0,3,Married,Washington,IT,Analytical,27.0,4,31,1,5,6.0,type3,2.0,1
+F,54.0,3,Single,Franklin,IT,Conceptual,18.0,2,37,1,5,10.0,type2,4.0,0
+M,21.0,1,Single,Washington,Operarions,Behavioral,2.0,1,70,1,5,7.0,type3,4.0,1
+F,21.0,4,Married,Washington,Logistics,Analytical,2.0,2,35,1,2,8.0,type3,1.0,0
+M,52.0,2,Single,Lebanon,Logistics,Conceptual,28.0,4,31,1,2,3.0,type2,3.0,1
+M,54.0,2,Single,Franklin,Logistics,Behavioral,30.0,3,27,1,4,4.0,type3,3.0,0
+M,33.0,3,Married,Lebanon,Logistics,Conceptual,8.0,2,45,1,3,6.0,type2,4.0,0
+F,65.0,3,Married,Franklin,Security,Analytical,27.0,4,41,1,3,4.0,type2,3.0,1
+F,39.0,1,Married,Springfield,Operarions,Directive,10.0,2,31,1,3,6.0,type3,2.0,0
+F,47.0,4,Married,Lebanon,R&D,Behavioral,25.0,3,30,1,2,8.0,type2,1.0,0
+F,59.0,2,Married,Lebanon,Operarions,Directive,20.0,2,51,2,4,5.0,type3,1.0,0
+F,37.0,5,Single,Lebanon,Human Resource Management,Directive,8.0,3,36,0,3,4.0,type2,3.0,0
+M,22.0,5,Married,Franklin,Sales,Behavioral,3.0,1,51,1,1,7.0,type3,4.0,1
+F,54.0,3,Married,Clinton,Security,Analytical,25.0,3,35,0,3,2.0,type3,3.0,1
+F,28.0,5,Married,Washington,Sales,Analytical,6.0,2,67,0,5,4.0,type2,1.0,1
+M,21.0,3,Married,Washington,R&D,Conceptual,2.0,2,53,1,1,6.0,type2,1.0,0
+F,23.0,1,Married,Lebanon,Logistics,Directive,4.0,2,36,2,4,5.0,type0,2.0,1
+F,24.0,5,Married,Lebanon,R&D,Behavioral,5.0,3,49,1,3,7.0,type2,3.0,1
+F,45.0,3,Married,Washington,IT,Behavioral,10.0,4,33,2,2,10.0,type2,2.0,1
+M,24.0,3,Married,Springfield,Logistics,Behavioral,5.0,3,61,1,1,9.0,type3,2.0,0
+M,64.0,5,Married,Lebanon,IT,Analytical,33.0,2,66,2,2,6.0,type2,3.0,1
+F,57.0,4,Married,Lebanon,Security,Analytical,27.0,1,61,1,4,5.0,type4,3.0,1
+F,19.0,1,Single,Washington,Logistics,Analytical,0.0,0,49,1,1,8.0,type2,4.0,1
+M,41.0,3,Married,Lebanon,Marketing,Directive,9.0,4,63,0,4,7.0,type3,4.0,1
+M,31.0,2,Married,Franklin,Sales,Analytical,5.0,3,30,2,2,6.0,type3,1.0,1
+F,41.0,4,Married,Clinton,Quality,Behavioral,19.0,4,56,1,4,4.0,type2,4.0,0
+M,19.0,4,Married,Washington,Operarions,Analytical,0.0,0,74,0,2,10.0,type3,3.0,1
+F,23.0,3,Single,Franklin,Accounting and Finance,Behavioral,4.0,4,69,0,3,5.0,type2,4.0,1
+M,34.0,3,Married,Lebanon,Quality,Behavioral,7.0,1,53,2,4,8.0,type2,3.0,0
+M,29.0,3,Married,Springfield,Production,Conceptual,5.0,3,46,1,3,9.0,type3,2.0,1
+M,55.0,3,Single,Franklin,Accounting and Finance,Directive,32.0,3,63,1,4,6.0,type2,1.0,1
+M,52.0,2,Single,Lebanon,Logistics,Conceptual,28.0,4,31,1,2,3.0,type2,3.0,1
+M,45.0,4,Married,Clinton,IT,Conceptual,7.0,1,65,1,2,5.0,type3,3.0,0
+F,57.0,4,Married,Lebanon,R&D,Analytical,24.0,1,37,0,4,8.0,type3,1.0,1
+M,60.0,3,Married,Lebanon,Sales,Analytical,27.0,3,38,1,3,4.0,type2,1.0,0
+F,54.0,5,Married,Springfield,Operarions,Conceptual,16.0,2,44,0,4,8.0,type2,1.0,1
+F,35.0,3,Married,Springfield,Quality,Behavioral,7.0,1,44,1,2,8.0,type2,4.0,1
+M,64.0,4,Single,Lebanon,Operarions,Conceptual,38.0,2,63,0,2,4.0,type0,2.0,1
+F,35.0,5,Married,Lebanon,Sales,Conceptual,13.0,3,51,0,2,3.0,type1,3.0,1
+F,22.0,3,Single,Franklin,Marketing,Conceptual,3.0,3,58,1,4,5.0,type3,2.0,1
+M,27.0,4,Married,Lebanon,Purchasing,Conceptual,5.0,2,54,1,3,5.0,type3,3.0,1
+F,49.0,3,Single,Springfield,IT,Directive,10.0,1,59,1,2,3.0,type2,4.0,1
+F,65.0,1,Married,Lebanon,Human Resource Management,Analytical,32.0,1,72,0,3,5.0,type3,3.0,0
+F,34.0,4,Single,Franklin,Logistics,Analytical,9.0,2,58,0,4,7.0,type2,2.0,1
+M,21.0,4,Single,Franklin,Operarions,Directive,2.0,2,25,0,2,4.0,type3,1.0,0
+F,37.0,4,Married,Franklin,Security,Analytical,10.0,4,40,1,3,9.0,type2,4.0,1
+F,46.0,3,Single,Springfield,Human Resource Management,Directive,12.0,2,44,0,2,7.0,type2,3.0,1
+F,29.0,2,Single,Lebanon,Accounting and Finance,Analytical,5.0,1,45,2,5,5.0,type2,3.0,0
+F,50.0,3,Married,Washington,Marketing,Conceptual,24.0,3,72,2,2,7.0,type2,2.0,0
+M,50.0,5,Married,Franklin,Operarions,Behavioral,16.0,4,65,1,3,8.0,type2,4.0,0
+F,38.0,1,Single,Springfield,Human Resource Management,Directive,14.0,1,57,1,4,8.0,type2,1.0,1
+F,32.0,3,Married,Franklin,Quality,Conceptual,6.0,3,54,1,3,5.0,type2,2.0,0
+F,24.0,2,Married,Franklin,IT,Behavioral,5.0,3,33,0,3,8.0,type2,3.0,1
+F,47.0,5,Married,Washington,IT,Directive,13.0,3,44,1,2,6.0,type2,1.0,1
+M,52.0,3,Married,Springfield,IT,Analytical,20.0,4,54,1,3,6.0,type3,3.0,0
+F,36.0,1,Single,Springfield,Logistics,Conceptual,13.0,4,70,0,4,5.0,type2,1.0,0
+F,24.0,4,Married,Springfield,Operarions,Analytical,5.0,3,45,1,2,5.0,type2,1.0,1
+M,48.0,4,Single,Lebanon,Purchasing,Behavioral,20.0,1,36,0,2,6.0,type2,3.0,0
+F,43.0,3,Single,Springfield,IT,Directive,4.0,3,61,0,1,4.0,type2,1.0,0
+F,45.0,1,Single,Franklin,IT,Conceptual,20.0,4,72,2,2,7.0,type3,2.0,1
+F,34.0,4,Married,Lebanon,IT,Behavioral,6.0,1,38,0,2,7.0,type2,3.0,0
+F,54.0,4,Single,Lebanon,IT,Analytical,15.0,1,51,0,5,4.0,type2,4.0,0
+F,27.0,4,Single,Springfield,R&D,Behavioral,3.0,3,73,1,3,6.0,type2,4.0,1
+F,24.0,4,Single,Franklin,R&D,Conceptual,5.0,1,62,0,4,5.0,type2,4.0,1
+M,45.0,3,Single,Franklin,Sales,Conceptual,9.0,1,56,1,1,7.0,type2,1.0,1
+M,36.0,3,Single,Franklin,Purchasing,Analytical,12.0,2,38,1,2,4.0,type2,2.0,1
+M,42.0,1,Married,Springfield,Purchasing,Directive,15.0,4,58,1,2,6.0,type3,3.0,1
+F,25.0,3,Single,Lebanon,Operarions,Analytical,6.0,2,20,1,4,6.0,type2,1.0,0
+F,65.0,3,Married,Lebanon,Logistics,Conceptual,31.0,4,23,0,3,7.0,type1,3.0,0
+F,19.0,2,Single,Springfield,R&D,Behavioral,0.0,0,49,0,3,4.0,type2,1.0,0
+M,38.0,1,Single,Lebanon,Production,Conceptual,9.0,1,37,1,3,8.0,type2,3.0,1
+F,27.0,3,Single,Franklin,Logistics,Conceptual,3.0,1,68,0,3,2.0,type2,1.0,0
+M,44.0,3,Single,Washington,R&D,Analytical,11.0,1,57,2,1,9.0,type2,1.0,0
+F,32.0,2,Married,Lebanon,Sales,Analytical,9.0,4,32,1,1,8.0,type2,4.0,0
+F,51.0,2,Married,Franklin,Logistics,Analytical,14.0,1,64,1,5,6.0,type2,2.0,1
+F,60.0,3,Single,Franklin,Logistics,Conceptual,27.0,2,32,2,2,5.0,type3,3.0,1
+M,28.0,1,Single,Franklin,Operarions,Conceptual,5.0,2,28,1,1,8.0,type4,1.0,0
+M,26.0,3,Married,Franklin,Accounting and Finance,Directive,4.0,2,46,1,5,8.0,type2,1.0,1
+M,48.0,1,Single,Lebanon,Production,Directive,18.0,3,26,0,3,2.0,type3,1.0,1
+M,39.0,3,Married,Franklin,IT,Behavioral,11.0,3,48,1,3,9.0,type2,3.0,0
+F,37.0,3,Single,Washington,Human Resource Management,Analytical,8.0,3,55,1,3,9.0,type2,2.0,0
+F,24.0,1,Married,Franklin,Human Resource Management,Analytical,5.0,3,65,0,3,9.0,type2,4.0,0
+M,20.0,3,Married,Springfield,Operarions,Analytical,1.0,1,67,0,3,5.0,type3,3.0,1
+M,23.0,2,Married,Springfield,Logistics,Directive,4.0,4,30,2,2,7.0,type3,3.0,1
+M,49.0,4,Single,Lebanon,Operarions,Conceptual,13.0,1,47,2,1,6.0,type0,5.0,1
+M,48.0,3,Married,Lebanon,Sales,Behavioral,26.0,3,20,0,2,8.0,type3,1.0,1
+F,54.0,3,Married,Clinton,R&D,Behavioral,22.0,1,49,1,1,4.0,type2,1.0,1
+M,28.0,3,Single,Springfield,Logistics,Behavioral,4.0,3,28,2,3,8.0,type3,1.0,0
+M,32.0,2,Married,Springfield,R&D,Behavioral,5.0,4,39,1,1,4.0,type2,1.0,1
+F,61.0,1,Single,Springfield,Sales,Behavioral,28.0,4,55,2,3,10.0,type2,1.0,0
+M,38.0,2,Single,Lebanon,Sales,Behavioral,9.0,4,24,1,4,5.0,type3,1.0,1
+M,43.0,3,Married,Lebanon,R&D,Behavioral,14.0,1,29,1,2,6.0,type3,3.0,1
+M,59.0,4,Single,Washington,IT,Directive,35.0,1,60,2,3,6.0,type3,3.0,0
+F,39.0,3,Married,Springfield,Marketing,Analytical,11.0,1,60,0,3,8.0,type2,4.0,1
+F,42.0,4,Married,Lebanon,R&D,Conceptual,17.0,3,68,0,1,5.0,type3,3.0,0
+M,29.0,3,Married,Springfield,Sales,Behavioral,7.0,2,49,1,3,9.0,type2,4.0,0
+M,45.0,1,Married,Clinton,IT,Conceptual,15.0,2,39,1,2,9.0,type3,3.0,0
+F,26.0,1,Married,Washington,Accounting and Finance,Directive,2.0,2,33,1,2,5.0,type3,4.0,0
+F,26.0,3,Single,Springfield,Human Resource Management,Directive,4.0,1,35,2,3,5.0,type3,4.0,0
+M,32.0,2,Married,Washington,IT,Directive,5.0,3,72,0,3,8.0,type3,3.0,1
+F,50.0,3,Single,Springfield,Sales,Behavioral,15.0,2,41,0,3,5.0,type2,4.0,1
+M,43.0,4,Single,Lebanon,Marketing,Analytical,11.0,1,59,1,2,5.0,type2,4.0,1
+F,54.0,3,Married,Lebanon,Sales,Conceptual,20.0,1,26,1,4,6.0,type2,4.0,0
+F,52.0,4,Married,Franklin,IT,Conceptual,16.0,4,53,0,5,6.0,type2,1.0,1
+F,27.0,4,Married,Lebanon,Logistics,Behavioral,5.0,4,50,0,3,2.0,type2,4.0,1
+F,42.0,3,Single,Franklin,Operarions,Behavioral,15.0,3,63,0,2,8.0,type3,2.0,0
+F,43.0,2,Married,Washington,Human Resource Management,Analytical,14.0,1,55,1,3,6.0,type2,3.0,1
+M,20.0,3,Single,Franklin,Sales,Conceptual,1.0,1,40,0,5,5.0,type2,3.0,1
+F,26.0,4,Married,Springfield,R&D,Analytical,3.0,1,39,0,3,3.0,type2,1.0,1
+M,22.0,1,Single,Springfield,Production,Analytical,3.0,1,31,0,1,3.0,type2,3.0,1
+F,49.0,4,Single,Franklin,Logistics,Conceptual,12.0,2,69,0,2,8.0,type2,3.0,0
+F,60.0,3,Single,Springfield,Operarions,Directive,38.0,2,37,0,3,5.0,type3,4.0,1
+M,49.0,3,Married,Washington,Operarions,Directive,13.0,3,23,1,4,6.0,type2,4.0,1
+M,20.0,3,Married,Clinton,Marketing,Behavioral,1.0,1,62,2,3,2.0,type2,3.0,0
+F,22.0,5,Married,Washington,Logistics,Conceptual,3.0,1,38,1,2,1.0,type3,3.0,0
+F,44.0,3,Married,Springfield,Logistics,Behavioral,22.0,3,30,0,3,4.0,type2,1.0,0
+F,30.0,4,Single,Lebanon,IT,Behavioral,6.0,1,24,1,4,5.0,type4,2.0,0
+F,45.0,4,Married,Franklin,IT,Analytical,9.0,2,49,1,3,9.0,type2,4.0,0
+F,52.0,4,Married,Franklin,Sales,Directive,18.0,1,41,2,3,4.0,type2,3.0,0
+F,54.0,4,Single,Lebanon,IT,Conceptual,31.0,4,26,0,4,6.0,type2,4.0,0
+M,36.0,4,Married,Lebanon,IT,Analytical,11.0,3,22,2,1,9.0,type2,2.0,1
+F,28.0,2,Married,Lebanon,IT,Conceptual,6.0,3,22,1,3,3.0,type2,3.0,1
+F,65.0,4,Married,Washington,IT,Directive,43.0,1,48,1,2,5.0,type2,4.0,0
+M,31.0,3,Married,Washington,Sales,Analytical,7.0,1,30,0,1,7.0,type2,1.0,0
+F,62.0,4,Single,Franklin,Operarions,Behavioral,36.0,4,27,1,4,10.0,type3,1.0,0
+M,30.0,4,Single,Lebanon,Purchasing,Analytical,6.0,2,32,1,3,9.0,type2,1.0,0
+F,35.0,3,Married,Springfield,Logistics,Conceptual,12.0,1,38,1,4,7.0,type2,1.0,1
+F,20.0,3,Single,Clinton,Logistics,Directive,1.0,1,74,1,5,6.0,type2,2.0,1
+M,49.0,4,Married,Springfield,Operarions,Conceptual,12.0,3,74,1,2,8.0,type3,4.0,1
+F,34.0,3,Married,Lebanon,Operarions,Directive,6.0,1,70,1,1,10.0,type2,1.0,0
+F,24.0,3,Single,Franklin,Operarions,Directive,5.0,3,60,1,5,9.0,type3,3.0,1
+M,52.0,4,Married,Springfield,Human Resource Management,Directive,27.0,2,62,0,3,9.0,type2,1.0,1
+M,31.0,4,Married,Franklin,Operarions,Behavioral,7.0,2,28,1,1,1.0,type2,2.0,0
+F,42.0,1,Married,Washington,Logistics,Analytical,10.0,1,42,1,2,4.0,type2,3.0,1
+F,25.0,3,Married,Washington,Human Resource Management,Analytical,6.0,1,48,0,2,4.0,type2,2.0,1
+F,50.0,4,Married,Lebanon,Operarions,Behavioral,27.0,1,49,1,4,8.0,type3,1.0,0
+F,32.0,4,Married,Franklin,R&D,Directive,3.0,3,31,0,3,4.0,type2,1.0,1
+F,24.0,4,Married,Springfield,IT,Analytical,5.0,1,22,1,2,4.0,type2,4.0,0
+F,54.0,1,Single,Lebanon,R&D,Analytical,22.0,4,49,2,2,8.0,type2,3.0,1
+M,39.0,3,Married,Franklin,IT,Behavioral,11.0,3,48,1,3,9.0,type2,3.0,0
+F,33.0,4,Married,Springfield,R&D,Analytical,8.0,2,35,0,2,4.0,type2,2.0,0
+F,28.0,1,Single,Springfield,Sales,Directive,6.0,4,70,1,2,4.0,type3,3.0,1
+M,25.0,4,Married,Lebanon,Sales,Directive,6.0,4,52,0,3,6.0,type2,2.0,0
+F,25.0,3,Married,Franklin,Human Resource Management,Directive,6.0,1,23,0,3,8.0,type3,1.0,0
+M,29.0,3,Single,Franklin,Sales,Conceptual,6.0,4,45,0,3,7.0,type3,4.0,1
+M,36.0,3,Married,Lebanon,Logistics,Analytical,14.0,3,24,1,4,4.0,type3,3.0,0
+M,22.0,2,Single,Lebanon,Sales,Analytical,3.0,3,45,1,3,1.0,type2,2.0,1
+F,19.0,3,Single,Lebanon,R&D,Directive,0.0,0,59,1,3,6.0,type2,2.0,0
+F,31.0,4,Married,Springfield,Production,Analytical,6.0,4,38,1,2,6.0,type2,3.0,1
+M,41.0,4,Married,Lebanon,IT,Analytical,4.0,1,50,2,3,4.0,type2,1.0,0
+M,45.0,3,Married,Lebanon,IT,Directive,21.0,4,34,0,2,5.0,type3,4.0,0
+F,47.0,3,Married,Lebanon,Operarions,Directive,20.0,2,29,2,5,6.0,type2,3.0,0
+M,45.0,5,Married,Clinton,Operarions,Behavioral,11.0,4,33,0,3,8.0,type2,3.0,1
+F,41.0,4,Married,Franklin,IT,Conceptual,2.0,2,29,0,4,6.0,type3,4.0,0
+M,46.0,3,Married,Washington,Logistics,Analytical,20.0,2,66,0,1,8.0,type2,3.0,0
+F,49.0,5,Married,Springfield,Operarions,Analytical,10.0,4,24,1,3,8.0,type3,1.0,1
+F,37.0,4,Married,Clinton,Sales,Directive,10.0,2,44,2,4,1.0,type0,1.0,1
+M,36.0,4,Single,Lebanon,Quality,Conceptual,10.0,2,23,1,5,10.0,type3,1.0,1
+M,33.0,2,Married,Franklin,Accounting and Finance,Directive,10.0,4,61,0,2,5.0,type2,3.0,1
+M,38.0,4,Single,Springfield,Production,Analytical,9.0,3,28,0,5,6.0,type3,5.0,1
+M,54.0,3,Married,Lebanon,Operarions,Directive,26.0,4,58,1,1,4.0,type2,2.0,0
+F,47.0,4,Single,Lebanon,Logistics,Behavioral,15.0,1,65,1,3,6.0,type2,2.0,0
+M,58.0,3,Single,Springfield,Logistics,Directive,28.0,1,64,0,3,7.0,type2,4.0,1
+F,25.0,4,Single,Clinton,Marketing,Behavioral,6.0,3,31,2,2,7.0,type3,2.0,0
+F,55.0,5,Married,Franklin,Operarions,Conceptual,32.0,1,43,1,4,6.0,type0,1.0,1
+F,25.0,2,Single,Washington,Logistics,Conceptual,6.0,4,63,0,5,9.0,type3,4.0,1
+F,29.0,3,Single,Lebanon,IT,Behavioral,7.0,4,68,0,3,8.0,type2,4.0,1
+M,27.0,3,Married,Franklin,Logistics,Directive,3.0,1,42,1,2,8.0,type2,4.0,0
+F,37.0,5,Single,Springfield,Logistics,Behavioral,10.0,1,64,2,4,9.0,type2,4.0,0
+M,28.0,4,Single,Lebanon,Logistics,Conceptual,6.0,2,33,1,1,7.0,type2,2.0,0
+M,50.0,3,Single,Springfield,Security,Conceptual,22.0,1,41,1,2,9.0,type3,3.0,1
+F,19.0,1,Single,Washington,Logistics,Analytical,0.0,0,49,1,1,8.0,type2,4.0,1
+M,53.0,4,Married,Washington,Quality,Analytical,25.0,4,55,1,2,5.0,type3,2.0,0
+F,40.0,3,Married,Washington,Sales,Analytical,12.0,3,39,0,2,7.0,type2,3.0,1
+M,37.0,2,Married,Clinton,IT,Analytical,12.0,1,57,2,1,8.0,type3,2.0,1
+F,35.0,1,Married,Springfield,Production,Analytical,7.0,2,39,1,4,2.0,type3,5.0,1
+F,53.0,4,Married,Lebanon,IT,Behavioral,20.0,3,28,2,1,4.0,type2,3.0,1
+F,23.0,4,Married,Springfield,IT,Directive,4.0,4,30,0,2,9.0,type2,2.0,1
+M,42.0,4,Married,Washington,IT,Behavioral,12.0,4,71,1,3,5.0,type2,4.0,0
+F,35.0,4,Married,Lebanon,Purchasing,Analytical,7.0,1,50,0,1,4.0,type3,3.0,0
+F,41.0,2,Married,Franklin,Logistics,Behavioral,3.0,1,44,0,3,8.0,type2,1.0,0
+F,38.0,5,Married,Lebanon,R&D,Directive,10.0,1,39,1,3,9.0,type3,1.0,0
+F,51.0,2,Married,Franklin,Logistics,Analytical,14.0,1,64,1,5,6.0,type2,2.0,1
+M,52.0,2,Married,Lebanon,IT,Conceptual,20.0,3,26,2,2,5.0,type2,2.0,0
+M,53.0,3,Married,Clinton,R&D,Behavioral,20.0,2,27,2,2,7.0,type3,1.0,1
+F,54.0,3,Married,Clinton,R&D,Behavioral,22.0,1,49,1,1,4.0,type2,1.0,1
+M,48.0,4,Married,Springfield,Logistics,Directive,14.0,3,23,1,2,4.0,type2,4.0,1
+F,65.0,1,Single,Washington,IT,Directive,29.0,4,41,0,3,7.0,type2,1.0,1
+M,43.0,4,Married,Washington,Quality,Directive,7.0,1,30,0,4,7.0,type3,1.0,1
+F,41.0,3,Married,Lebanon,Logistics,Behavioral,13.0,4,41,1,5,4.0,type2,3.0,1
+F,23.0,3,Married,Franklin,Human Resource Management,Conceptual,4.0,4,56,1,3,4.0,type3,1.0,0
+M,27.0,3,Married,Franklin,Logistics,Directive,3.0,1,42,1,2,8.0,type2,4.0,0
+M,32.0,1,Married,Lebanon,R&D,Analytical,5.0,4,24,1,3,5.0,type2,3.0,1
+F,26.0,3,Single,Lebanon,Logistics,Directive,4.0,3,23,1,4,4.0,type2,4.0,1
+F,33.0,3,Married,Lebanon,Operarions,Directive,10.0,4,52,1,1,8.0,type2,1.0,0
+M,54.0,3,Married,Clinton,Accounting and Finance,Conceptual,30.0,3,56,0,4,5.0,type1,3.0,1
+M,27.0,1,Married,Lebanon,Sales,Analytical,4.0,3,59,2,1,2.0,type2,2.0,1
+F,54.0,3,Single,Clinton,R&D,Conceptual,21.0,4,68,0,2,2.0,type2,2.0,1
+F,35.0,3,Single,Springfield,Quality,Directive,10.0,4,27,1,4,8.0,type2,3.0,0
+F,51.0,2,Single,Springfield,Operarions,Analytical,12.0,1,60,1,4,8.0,type2,3.0,1
+M,25.0,3,Married,Washington,IT,Behavioral,6.0,4,58,0,2,2.0,type2,1.0,0
+M,30.0,4,Married,Clinton,R&D,Behavioral,8.0,2,27,1,3,2.0,type2,2.0,1
+M,32.0,3,Married,Springfield,Logistics,Directive,7.0,3,47,2,2,6.0,type2,4.0,1
+F,26.0,3,Married,Springfield,Purchasing,Behavioral,2.0,1,24,1,5,9.0,type3,1.0,1
+F,60.0,3,Single,Springfield,Sales,Analytical,25.0,3,43,1,5,8.0,type2,3.0,1
+F,44.0,5,Single,Springfield,Logistics,Analytical,17.0,1,33,0,1,2.0,type2,1.0,0
+F,58.0,1,Single,Springfield,Logistics,Behavioral,33.0,1,36,1,1,7.0,type2,3.0,1
+F,31.0,4,Married,Lebanon,Purchasing,Analytical,8.0,1,53,1,5,4.0,type2,3.0,0
+M,22.0,2,Married,Washington,Security,Analytical,3.0,3,20,1,4,3.0,type2,1.0,1
+F,35.0,1,Single,Franklin,Logistics,Analytical,6.0,1,47,1,3,6.0,type2,3.0,1
+F,52.0,3,Married,Lebanon,IT,Directive,21.0,3,36,1,2,8.0,type3,3.0,0
+F,38.0,3,Married,Lebanon,IT,Directive,12.0,1,64,0,4,4.0,type2,1.0,0
+F,58.0,3,Married,Clinton,Logistics,Conceptual,21.0,3,47,1,5,4.0,type3,1.0,0
+F,26.0,3,Married,Clinton,Human Resource Management,Behavioral,4.0,3,30,1,3,4.0,type2,2.0,0
+M,60.0,4,Married,Washington,IT,Directive,26.0,2,43,1,3,4.0,type2,1.0,0
+M,65.0,3,Single,Springfield,Logistics,Conceptual,30.0,4,69,0,5,7.0,type3,1.0,1
+M,52.0,4,Married,Franklin,Accounting and Finance,Analytical,28.0,4,30,0,4,6.0,type2,4.0,1
+F,34.0,3,Single,Lebanon,Sales,Directive,10.0,3,38,2,2,6.0,type2,1.0,0
+F,38.0,5,Married,Washington,Operarions,Conceptual,11.0,3,54,1,2,1.0,type3,3.0,0
+M,52.0,4,Married,Franklin,Logistics,Directive,22.0,4,45,1,3,7.0,type2,1.0,0
+F,61.0,4,Single,Washington,Sales,Conceptual,25.0,4,53,1,3,4.0,type4,4.0,0
+F,60.0,3,Married,Springfield,IT,Directive,27.0,3,45,2,3,6.0,type2,1.0,1
+F,22.0,4,Single,Franklin,Sales,Behavioral,3.0,2,36,0,1,6.0,type2,4.0,1
+M,46.0,2,Married,Springfield,Sales,Directive,21.0,1,55,0,5,6.0,type3,2.0,1
+F,31.0,3,Married,Lebanon,Sales,Behavioral,3.0,1,63,2,4,6.0,type3,4.0,1
+F,34.0,3,Married,Springfield,IT,Conceptual,8.0,4,32,1,3,9.0,type3,3.0,0
+F,65.0,1,Single,Lebanon,Operarions,Behavioral,39.0,4,55,0,1,4.0,type3,4.0,1
+F,60.0,4,Married,Lebanon,Logistics,Analytical,38.0,1,34,1,3,4.0,type2,2.0,0
+M,23.0,3,Single,Springfield,Operarions,Conceptual,4.0,3,45,1,2,10.0,type2,3.0,1
+M,42.0,4,Married,Lebanon,IT,Directive,14.0,1,65,1,2,6.0,type3,4.0,1
+F,47.0,3,Married,Franklin,Marketing,Directive,15.0,3,42,1,3,5.0,type2,3.0,0
+M,31.0,4,Married,Springfield,Sales,Analytical,5.0,3,33,1,3,1.0,type2,1.0,0
+F,58.0,4,Married,Lebanon,Purchasing,Conceptual,27.0,1,53,2,3,10.0,type2,1.0,0
+F,31.0,2,Married,Lebanon,Production,Behavioral,5.0,4,42,0,2,6.0,type4,2.0,1
+M,38.0,3,Married,Lebanon,Human Resource Management,Analytical,14.0,3,66,1,2,4.0,type2,3.0,1
+M,36.0,4,Married,Springfield,IT,Analytical,13.0,1,28,0,4,6.0,type2,1.0,0
+F,24.0,4,Single,Washington,R&D,Analytical,5.0,1,30,0,3,8.0,type2,1.0,0
+F,32.0,4,Married,Franklin,Purchasing,Conceptual,7.0,4,59,2,1,5.0,type3,3.0,1
+M,23.0,5,Married,Lebanon,R&D,Behavioral,4.0,3,48,1,3,4.0,type2,3.0,1
+M,47.0,1,Single,Washington,IT,Directive,20.0,1,39,0,4,2.0,type3,3.0,1
+F,46.0,2,Married,Lebanon,Sales,Behavioral,11.0,3,74,0,1,4.0,type2,3.0,1
+M,38.0,3,Married,Franklin,Purchasing,Analytical,11.0,1,46,1,1,9.0,type2,5.0,1
+F,65.0,1,Single,Washington,Marketing,Behavioral,34.0,4,40,1,3,4.0,type2,1.0,1
+M,34.0,3,Married,Clinton,Operarions,Directive,7.0,2,45,0,1,5.0,type2,2.0,0
+F,47.0,1,Single,Washington,Sales,Directive,8.0,4,54,1,3,4.0,type3,1.0,1
+F,19.0,3,Single,Springfield,Security,Analytical,0.0,0,40,1,3,5.0,type3,2.0,1
+M,52.0,3,Married,Lebanon,Logistics,Conceptual,14.0,4,30,1,3,9.0,type2,1.0,1
+F,19.0,4,Single,Washington,Logistics,Analytical,0.0,0,53,0,3,9.0,type2,1.0,1
+M,43.0,4,Married,Washington,Human Resource Management,Behavioral,16.0,1,48,1,2,9.0,type3,1.0,0
+F,23.0,1,Married,Lebanon,Marketing,Analytical,4.0,1,53,1,2,5.0,type3,3.0,1
+F,60.0,5,Single,Franklin,IT,Directive,32.0,4,24,0,1,8.0,type3,2.0,0
+M,31.0,3,Single,Springfield,Operarions,Directive,8.0,3,33,0,4,10.0,type2,3.0,1
+F,65.0,5,Single,Washington,Accounting and Finance,Directive,38.0,3,62,0,4,6.0,type3,2.0,0
+F,35.0,4,Married,Clinton,Purchasing,Behavioral,7.0,4,67,0,2,7.0,type2,3.0,1
+F,35.0,1,Married,Springfield,Production,Analytical,7.0,2,39,1,4,2.0,type3,5.0,1
+M,56.0,3,Married,Springfield,Operarions,Behavioral,23.0,4,55,1,3,5.0,type2,1.0,0
+F,39.0,4,Single,Clinton,R&D,Directive,14.0,3,69,1,4,6.0,type3,1.0,0
+M,33.0,5,Married,Clinton,Logistics,Directive,8.0,4,65,1,4,5.0,type2,1.0,0
+F,47.0,4,Single,Lebanon,Logistics,Behavioral,15.0,1,65,1,3,6.0,type2,2.0,0
+M,22.0,4,Married,Springfield,Operarions,Conceptual,3.0,2,59,2,3,9.0,type3,2.0,1
+M,52.0,3,Single,Springfield,Purchasing,Directive,21.0,2,49,1,3,6.0,type2,4.0,0
+F,22.0,3,Married,Clinton,IT,Directive,3.0,2,21,0,4,6.0,type3,1.0,0
+F,24.0,3,Married,Lebanon,Sales,Analytical,5.0,2,67,0,3,2.0,type1,1.0,1
+F,42.0,5,Married,Lebanon,Operarions,Behavioral,7.0,3,60,1,5,6.0,type3,1.0,0
+M,22.0,3,Single,Washington,Quality,Directive,3.0,3,42,1,3,8.0,type2,1.0,0
+M,38.0,4,Married,Lebanon,IT,Behavioral,15.0,4,62,1,5,7.0,type2,3.0,1
+M,28.0,3,Married,Springfield,R&D,Directive,5.0,3,23,0,3,4.0,type3,1.0,0
+M,48.0,4,Married,Washington,Logistics,Analytical,15.0,3,73,0,3,8.0,type0,1.0,0
+F,23.0,5,Married,Franklin,Operarions,Behavioral,4.0,1,20,1,2,6.0,type3,3.0,1
+F,54.0,2,Single,Clinton,IT,Conceptual,18.0,4,55,1,2,9.0,type2,4.0,0
+M,36.0,4,Single,Springfield,Logistics,Conceptual,11.0,3,66,2,4,7.0,type2,3.0,1
+F,20.0,4,Married,Lebanon,Sales,Conceptual,1.0,1,37,1,4,10.0,type2,3.0,0
+F,34.0,5,Married,Washington,Operarions,Conceptual,12.0,3,66,1,5,3.0,type2,1.0,1
+F,40.0,3,Married,Springfield,Human Resource Management,Directive,16.0,4,29,1,3,8.0,type2,4.0,0
+M,41.0,1,Single,Franklin,Sales,Conceptual,8.0,4,65,1,3,4.0,type2,2.0,1
+M,37.0,4,Married,Franklin,IT,Behavioral,13.0,3,66,1,2,5.0,type2,1.0,0
+F,30.0,5,Single,Springfield,IT,Conceptual,7.0,4,33,0,3,7.0,type1,3.0,1
+F,32.0,3,Married,Springfield,R&D,Directive,4.0,4,38,1,5,7.0,type2,4.0,0
+F,55.0,3,Married,Washington,Sales,Behavioral,24.0,3,38,1,3,7.0,type3,2.0,0
+M,52.0,3,Married,Franklin,Purchasing,Directive,24.0,2,73,0,3,5.0,type3,2.0,1
+F,21.0,1,Single,Clinton,Quality,Analytical,2.0,2,70,1,2,4.0,type4,1.0,0
+M,65.0,3,Single,Lebanon,Accounting and Finance,Directive,31.0,2,48,1,2,8.0,type3,2.0,0
+F,35.0,4,Married,Franklin,Accounting and Finance,Behavioral,11.0,4,26,1,2,7.0,type2,3.0,0
+M,45.0,4,Married,Lebanon,Purchasing,Directive,19.0,3,23,0,3,8.0,type2,3.0,0
+F,54.0,3,Single,Clinton,R&D,Conceptual,21.0,4,68,0,2,2.0,type2,2.0,1
+F,22.0,2,Married,Lebanon,Production,Behavioral,3.0,2,27,1,4,6.0,type2,2.0,0
+F,51.0,4,Married,Springfield,Sales,Behavioral,27.0,4,41,0,1,6.0,type3,3.0,0
+F,27.0,4,Single,Springfield,R&D,Behavioral,3.0,3,73,1,3,6.0,type2,4.0,1
+M,47.0,1,Single,Washington,R&D,Behavioral,22.0,4,57,0,3,8.0,type3,4.0,0
+F,54.0,3,Married,Springfield,Purchasing,Behavioral,25.0,4,62,0,2,7.0,type3,3.0,0
+M,35.0,5,Single,Washington,IT,Conceptual,12.0,4,26,1,4,7.0,type2,3.0,0
+F,37.0,3,Single,Clinton,Sales,Conceptual,12.0,3,43,1,3,6.0,type3,2.0,1
+M,48.0,3,Married,Lebanon,Sales,Behavioral,26.0,3,20,0,2,8.0,type3,1.0,1
+M,30.0,1,Married,Springfield,IT,Behavioral,6.0,2,30,2,3,6.0,type1,2.0,1
+F,24.0,4,Married,Franklin,Sales,Analytical,5.0,1,54,1,3,7.0,type2,3.0,0
+M,21.0,3,Married,Washington,R&D,Conceptual,2.0,2,53,1,1,6.0,type2,1.0,0
+F,37.0,4,Single,Springfield,Operarions,Conceptual,14.0,2,42,1,3,9.0,type2,2.0,1
+F,33.0,2,Married,Clinton,Logistics,Directive,5.0,3,49,2,3,4.0,type2,3.0,1
+M,46.0,2,Married,Springfield,Sales,Directive,21.0,1,55,0,5,6.0,type3,2.0,1
+F,32.0,4,Married,Franklin,Purchasing,Conceptual,7.0,4,59,2,1,5.0,type3,3.0,1
+M,54.0,3,Married,Clinton,Sales,Directive,29.0,1,31,2,3,3.0,type2,2.0,1
+F,26.0,3,Married,Springfield,Operarions,Conceptual,2.0,2,58,1,3,9.0,type2,3.0,1
+F,42.0,1,Married,Washington,Logistics,Analytical,10.0,1,42,1,2,4.0,type2,3.0,1
+F,54.0,4,Married,Washington,Accounting and Finance,Analytical,24.0,3,62,1,2,7.0,type0,2.0,0
+F,27.0,4,Married,Franklin,Sales,Behavioral,5.0,4,64,1,3,6.0,type3,3.0,1
+F,22.0,3,Single,Springfield,Purchasing,Directive,3.0,3,71,1,2,4.0,type2,3.0,0
+M,63.0,3,Married,Clinton,IT,Analytical,38.0,2,28,2,5,7.0,type3,1.0,1
+F,55.0,4,Married,Washington,Quality,Conceptual,29.0,1,66,1,3,4.0,type3,2.0,0
+F,20.0,3,Single,Washington,IT,Conceptual,1.0,1,63,1,2,8.0,type2,4.0,0
+M,55.0,3,Single,Franklin,Accounting and Finance,Directive,32.0,3,63,1,4,6.0,type2,1.0,1
+F,56.0,1,Single,Lebanon,Human Resource Management,Directive,32.0,2,26,0,3,9.0,type3,3.0,1
+F,34.0,4,Single,Clinton,Production,Behavioral,9.0,2,47,1,4,4.0,type3,1.0,1
+F,26.0,3,Married,Springfield,R&D,Conceptual,4.0,1,56,2,1,10.0,type3,4.0,1
+F,43.0,4,Single,Franklin,Human Resource Management,Analytical,10.0,4,48,2,2,7.0,type2,2.0,0
+M,60.0,3,Single,Lebanon,R&D,Directive,31.0,1,62,1,5,4.0,type2,4.0,0
+F,27.0,2,Married,Springfield,Sales,Directive,5.0,1,49,0,2,5.0,type3,3.0,1
+F,51.0,3,Single,Lebanon,IT,Analytical,22.0,4,32,1,2,8.0,type2,1.0,1
+F,60.0,3,Married,Springfield,Accounting and Finance,Analytical,27.0,2,46,1,3,8.0,type2,1.0,1
+M,44.0,4,Single,Lebanon,Quality,Behavioral,14.0,2,48,1,3,6.0,type0,3.0,1
+F,31.0,3,Married,Lebanon,Sales,Behavioral,3.0,2,73,0,4,9.0,type4,1.0,1
+F,32.0,3,Married,Washington,IT,Directive,7.0,4,67,1,4,8.0,type3,4.0,1
+F,54.0,5,Married,Springfield,Sales,Analytical,19.0,1,36,1,3,4.0,type3,3.0,0
+F,47.0,3,Single,Franklin,Production,Behavioral,14.0,1,45,1,2,4.0,type2,1.0,0
+F,23.0,5,Married,Franklin,Operarions,Behavioral,4.0,1,20,1,2,6.0,type3,3.0,1
+M,40.0,1,Married,Lebanon,Logistics,Analytical,11.0,3,46,0,2,8.0,type3,1.0,0
+M,35.0,4,Married,Springfield,Sales,Behavioral,12.0,1,23,2,3,5.0,type3,3.0,1
+F,42.0,5,Married,Lebanon,Operarions,Behavioral,7.0,3,60,1,5,6.0,type3,1.0,0
+M,43.0,3,Married,Washington,R&D,Directive,4.0,3,45,1,3,4.0,type3,2.0,0
+M,59.0,3,Married,Lebanon,Operarions,Analytical,22.0,3,30,0,2,8.0,type3,1.0,0
+M,35.0,4,Married,Springfield,Sales,Behavioral,12.0,1,23,2,3,5.0,type3,3.0,1
+F,58.0,4,Single,Lebanon,IT,Conceptual,26.0,2,66,2,3,5.0,type2,1.0,0
+F,58.0,1,Single,Franklin,Logistics,Conceptual,30.0,4,72,1,3,6.0,type3,4.0,1
+M,52.0,4,Married,Springfield,Human Resource Management,Directive,16.0,1,32,1,2,3.0,type3,2.0,0
+F,29.0,3,Married,Washington,Purchasing,Behavioral,5.0,1,32,1,3,5.0,type2,3.0,1
+M,49.0,4,Married,Lebanon,Sales,Analytical,13.0,1,73,1,4,5.0,type2,1.0,1
+M,22.0,4,Married,Springfield,Operarions,Conceptual,3.0,2,59,2,3,9.0,type3,2.0,1
+F,23.0,4,Single,Washington,Logistics,Conceptual,4.0,2,70,1,3,8.0,type2,3.0,0
+F,23.0,1,Married,Washington,Quality,Behavioral,4.0,3,38,1,3,4.0,type3,3.0,0
+F,60.0,2,Married,Clinton,Production,Analytical,38.0,1,26,1,2,8.0,type2,3.0,0
+F,47.0,4,Single,Lebanon,Security,Directive,18.0,2,68,0,3,7.0,type2,2.0,0
+M,59.0,5,Married,Franklin,Purchasing,Analytical,31.0,2,50,0,1,8.0,type2,3.0,1
+F,22.0,3,Married,Springfield,IT,Analytical,3.0,1,57,0,1,5.0,type3,4.0,1
+F,20.0,2,Single,Clinton,Purchasing,Conceptual,1.0,1,49,1,3,5.0,type3,3.0,0
+F,32.0,4,Married,Washington,R&D,Directive,8.0,3,61,1,2,7.0,type3,1.0,0
+F,20.0,1,Single,Franklin,Sales,Directive,1.0,1,73,1,1,6.0,type3,3.0,1
+F,38.0,1,Single,Lebanon,Quality,Behavioral,11.0,4,27,1,2,8.0,type4,3.0,1
+F,35.0,5,Married,Lebanon,Sales,Conceptual,13.0,3,51,0,2,3.0,type1,3.0,1
+M,20.0,3,Married,Franklin,Operarions,Analytical,1.0,1,46,1,3,5.0,type3,1.0,0
+M,35.0,3,Married,Clinton,R&D,Directive,11.0,1,31,1,3,7.0,type3,4.0,0
+F,31.0,2,Married,Clinton,Operarions,Analytical,9.0,3,51,1,3,7.0,type2,4.0,0
+M,24.0,5,Married,Washington,Sales,Directive,5.0,3,22,1,4,9.0,type3,1.0,1
+M,24.0,4,Married,Franklin,Logistics,Conceptual,5.0,2,41,0,2,5.0,type2,1.0,0
+F,31.0,3,Married,Springfield,IT,Conceptual,8.0,3,62,0,3,8.0,type2,1.0,1
+M,58.0,1,Single,Springfield,IT,Behavioral,31.0,2,74,1,4,5.0,type3,3.0,0
+F,62.0,2,Single,Springfield,Logistics,Conceptual,31.0,4,28,1,3,4.0,type3,1.0,0
+M,41.0,3,Married,Clinton,IT,Conceptual,13.0,3,49,2,4,5.0,type3,1.0,0
+M,39.0,4,Married,Franklin,Human Resource Management,Directive,17.0,4,73,0,4,5.0,type3,1.0,0
+F,28.0,4,Single,Springfield,Purchasing,Behavioral,6.0,2,36,2,2,2.0,type2,4.0,1
+M,56.0,3,Married,Lebanon,Operarions,Directive,22.0,1,46,0,2,9.0,type2,1.0,0
+M,37.0,3,Married,Franklin,Accounting and Finance,Conceptual,12.0,3,54,1,5,7.0,type3,1.0,0
+F,42.0,3,Married,Washington,Security,Directive,9.0,3,50,0,3,5.0,type2,2.0,1
+M,31.0,3,Single,Franklin,Operarions,Analytical,3.0,2,50,1,1,9.0,type3,4.0,0
+F,51.0,2,Single,Springfield,Operarions,Analytical,12.0,1,60,1,4,8.0,type2,3.0,1
+F,56.0,2,Married,Springfield,R&D,Analytical,17.0,4,60,2,4,9.0,type2,4.0,0
+M,35.0,3,Single,Franklin,Purchasing,Directive,8.0,3,67,1,2,4.0,type0,3.0,1
+F,65.0,1,Married,Lebanon,IT,Conceptual,39.0,3,57,0,2,8.0,type2,2.0,1
+F,54.0,3,Married,Springfield,Sales,Analytical,17.0,2,33,1,3,2.0,type2,3.0,1
+M,36.0,3,Single,Lebanon,Logistics,Analytical,13.0,3,34,1,4,6.0,type2,4.0,0
+M,46.0,4,Married,Washington,Operarions,Conceptual,15.0,2,64,1,2,4.0,type2,3.0,0
+M,65.0,4,Married,Lebanon,Sales,Directive,42.0,3,43,1,3,6.0,type3,1.0,1
+M,38.0,2,Single,Franklin,Human Resource Management,Conceptual,10.0,4,41,2,5,4.0,type2,3.0,1
+M,28.0,2,Married,Washington,Logistics,Conceptual,5.0,4,37,1,3,5.0,type3,2.0,1
+F,35.0,4,Married,Lebanon,Logistics,Analytical,7.0,3,35,0,4,9.0,type2,2.0,0
+F,41.0,4,Single,Lebanon,Purchasing,Behavioral,19.0,2,22,0,2,4.0,type2,1.0,1
+F,47.0,3,Married,Springfield,Purchasing,Directive,15.0,2,45,1,3,10.0,type3,1.0,0
+F,30.0,3,Single,Springfield,Sales,Directive,7.0,2,69,2,4,7.0,type2,4.0,0
+F,25.0,4,Single,Clinton,Accounting and Finance,Analytical,6.0,4,25,1,3,4.0,type3,3.0,0
+M,28.0,1,Married,Franklin,Accounting and Finance,Analytical,4.0,3,41,1,3,6.0,type4,1.0,0
+M,58.0,2,Single,Lebanon,Sales,Conceptual,22.0,3,64,1,3,6.0,type3,3.0,0
+M,29.0,2,Single,Franklin,Logistics,Behavioral,7.0,2,33,0,3,7.0,type2,3.0,1
+F,58.0,2,Married,Lebanon,Sales,Behavioral,34.0,4,55,1,5,2.0,type3,3.0,0
+F,22.0,4,Single,Springfield,Accounting and Finance,Conceptual,3.0,1,44,2,4,1.0,type3,2.0,0
+F,21.0,2,Married,Washington,Logistics,Conceptual,2.0,2,53,0,2,5.0,type2,1.0,0
+F,45.0,2,Married,Clinton,Quality,Directive,14.0,1,49,2,2,5.0,type2,1.0,0
+M,50.0,3,Married,Washington,Operarions,Directive,16.0,4,29,1,2,5.0,type2,2.0,1
+F,42.0,4,Married,Franklin,Accounting and Finance,Directive,20.0,4,69,1,2,8.0,type2,3.0,0
+F,44.0,3,Single,Springfield,IT,Conceptual,17.0,2,45,2,3,5.0,type2,1.0,1
+M,25.0,3,Married,Franklin,Purchasing,Directive,6.0,3,58,0,5,8.0,type3,4.0,1
+F,59.0,3,Married,Lebanon,Operarions,Directive,31.0,3,41,0,1,4.0,type1,1.0,1
+M,65.0,1,Single,Franklin,Purchasing,Conceptual,43.0,3,51,1,3,8.0,type3,3.0,0
+F,32.0,3,Single,Springfield,Sales,Analytical,9.0,1,67,0,3,9.0,type2,3.0,1
+M,45.0,4,Married,Lebanon,Purchasing,Directive,19.0,3,23,0,3,8.0,type2,3.0,0
+F,35.0,1,Married,Springfield,Production,Analytical,7.0,2,39,1,4,2.0,type3,5.0,1
+F,24.0,3,Married,Springfield,Operarions,Conceptual,5.0,3,46,0,4,7.0,type2,1.0,1
+F,21.0,4,Married,Franklin,IT,Behavioral,2.0,2,22,0,3,8.0,type3,1.0,1
+F,64.0,3,Married,Springfield,Accounting and Finance,Conceptual,40.0,1,39,2,2,8.0,type2,1.0,0
+M,58.0,3,Married,Clinton,IT,Behavioral,29.0,4,52,1,4,5.0,type2,1.0,0
+M,48.0,3,Single,Lebanon,Security,Directive,19.0,4,26,1,4,2.0,type4,1.0,1
+F,22.0,3,Single,Franklin,Marketing,Conceptual,3.0,3,58,1,4,5.0,type3,2.0,1
+F,60.0,1,Married,Clinton,IT,Conceptual,27.0,3,25,0,1,6.0,type2,2.0,1
+M,30.0,3,Single,Franklin,Sales,Directive,6.0,3,43,0,2,7.0,type3,3.0,1
+F,30.0,3,Married,Springfield,Human Resource Management,Analytical,7.0,4,51,0,1,6.0,type3,4.0,1
+M,59.0,3,Married,Washington,Purchasing,Conceptual,28.0,2,58,0,5,8.0,type3,4.0,0
+M,30.0,1,Married,Washington,Purchasing,Conceptual,7.0,2,35,1,3,3.0,type2,2.0,1
+M,24.0,4,Married,Franklin,IT,Behavioral,5.0,2,54,0,3,8.0,type3,2.0,0
+M,64.0,5,Married,Washington,Sales,Directive,39.0,1,69,1,3,4.0,type2,1.0,1
+F,42.0,3,Married,Lebanon,Sales,Conceptual,13.0,3,25,0,4,8.0,type1,3.0,0
+F,31.0,4,Married,Washington,Accounting and Finance,Analytical,6.0,4,39,1,3,8.0,type3,1.0,0
+M,23.0,4,Single,Springfield,Quality,Conceptual,4.0,3,55,2,2,7.0,type3,2.0,0
+F,35.0,4,Married,Lebanon,Operarions,Behavioral,7.0,1,45,1,4,3.0,type2,3.0,0
+M,60.0,2,Married,Franklin,Accounting and Finance,Conceptual,34.0,1,66,1,3,5.0,type2,1.0,1
+F,46.0,2,Married,Washington,Logistics,Conceptual,23.0,4,28,1,1,8.0,type2,3.0,0
+M,24.0,4,Single,Springfield,Logistics,Analytical,5.0,4,57,1,3,6.0,type3,3.0,0
+M,21.0,4,Single,Springfield,Purchasing,Analytical,2.0,2,60,1,2,8.0,type2,3.0,1
+M,44.0,3,Married,Washington,Purchasing,Behavioral,14.0,4,69,1,5,3.0,type3,4.0,0
+F,34.0,4,Married,Lebanon,Marketing,Behavioral,9.0,4,42,0,2,7.0,type2,3.0,0
+F,20.0,1,Single,Franklin,Sales,Directive,1.0,1,73,1,1,6.0,type3,3.0,1
+M,42.0,2,Married,Lebanon,Logistics,Analytical,14.0,3,73,1,2,9.0,type2,1.0,0
+F,35.0,4,Married,Lebanon,IT,Conceptual,9.0,1,43,1,1,8.0,type2,3.0,0
+F,23.0,3,Married,Washington,Logistics,Behavioral,4.0,1,65,1,3,4.0,type2,2.0,0
+F,29.0,3,Single,Lebanon,IT,Directive,6.0,3,68,0,2,9.0,type3,2.0,0
+F,50.0,4,Single,Clinton,Accounting and Finance,Conceptual,24.0,3,32,2,1,7.0,type2,1.0,1
+F,26.0,3,Single,Franklin,Logistics,Conceptual,2.0,2,33,1,3,6.0,type2,3.0,0
+F,58.0,3,Single,Franklin,Operarions,Behavioral,31.0,1,62,0,1,3.0,type3,2.0,1
+F,25.0,3,Married,Clinton,Operarions,Conceptual,6.0,4,51,1,1,6.0,type2,4.0,1
+M,39.0,3,Married,Lebanon,R&D,Conceptual,16.0,4,43,0,3,9.0,type2,1.0,0
+M,23.0,1,Married,Springfield,IT,Analytical,4.0,3,35,2,3,5.0,type3,3.0,0
+F,49.0,5,Single,Franklin,Operarions,Analytical,24.0,3,22,0,1,5.0,type2,1.0,1
+F,59.0,3,Married,Franklin,Operarions,Analytical,30.0,3,68,0,3,5.0,type2,3.0,1
+M,20.0,4,Married,Springfield,IT,Conceptual,1.0,1,57,0,3,7.0,type2,4.0,1
+M,24.0,1,Married,Springfield,IT,Analytical,5.0,3,62,1,3,8.0,type3,3.0,0
+M,60.0,3,Single,Clinton,Logistics,Conceptual,30.0,4,70,1,2,8.0,type2,3.0,1
+F,60.0,1,Married,Clinton,IT,Conceptual,27.0,3,25,0,1,6.0,type2,2.0,1
+M,49.0,3,Married,Washington,Operarions,Directive,13.0,3,23,1,4,6.0,type2,4.0,1
+M,28.0,3,Single,Springfield,Logistics,Behavioral,4.0,3,28,2,3,8.0,type3,1.0,0
+M,50.0,1,Married,Springfield,R&D,Behavioral,11.0,2,43,1,3,4.0,type3,1.0,0
+F,51.0,3,Married,Springfield,Sales,Conceptual,24.0,1,49,2,3,1.0,type2,5.0,1
+F,59.0,3,Married,Washington,Sales,Directive,22.0,4,41,1,5,9.0,type2,3.0,1
+F,45.0,1,Married,Franklin,IT,Behavioral,23.0,4,57,1,3,10.0,type2,3.0,0
+M,54.0,3,Married,Clinton,Sales,Directive,29.0,1,31,2,3,3.0,type2,2.0,1
+M,22.0,5,Single,Franklin,Operarions,Conceptual,3.0,3,62,1,1,9.0,type3,3.0,1
+F,61.0,3,Married,Clinton,Marketing,Analytical,26.0,3,60,1,3,8.0,type3,1.0,0
+F,32.0,5,Single,Clinton,Purchasing,Analytical,10.0,3,37,1,4,7.0,type3,4.0,0
+F,37.0,3,Single,Springfield,Accounting and Finance,Directive,10.0,1,47,2,1,5.0,type2,3.0,1
+F,23.0,3,Single,Springfield,IT,Analytical,4.0,3,69,2,2,4.0,type4,1.0,0
+F,52.0,2,Single,Lebanon,Human Resource Management,Behavioral,18.0,1,51,1,1,8.0,type3,3.0,1
+F,19.0,1,Single,Washington,Logistics,Analytical,0.0,0,49,1,1,8.0,type2,4.0,1
+F,19.0,3,Single,Springfield,Security,Analytical,0.0,0,40,1,3,5.0,type3,2.0,1
+F,41.0,3,Married,Springfield,Logistics,Directive,19.0,4,39,1,5,10.0,type2,1.0,0
+M,65.0,1,Single,Springfield,Sales,Conceptual,27.0,2,50,0,5,6.0,type3,4.0,0
+F,35.0,3,Married,Washington,IT,Analytical,9.0,2,25,1,1,9.0,type2,1.0,1
+M,29.0,2,Single,Franklin,Logistics,Behavioral,7.0,2,33,0,3,7.0,type2,3.0,1
+F,52.0,2,Single,Franklin,Security,Directive,13.0,1,71,2,3,8.0,type2,4.0,1
+F,22.0,4,Married,Springfield,Sales,Behavioral,3.0,3,39,0,3,4.0,type2,3.0,1
+F,56.0,3,Married,Lebanon,R&D,Analytical,20.0,1,26,1,1,7.0,type2,1.0,1
+F,23.0,4,Single,Springfield,IT,Analytical,4.0,4,46,0,4,8.0,type2,3.0,1
+M,45.0,4,Married,Lebanon,Operarions,Directive,14.0,1,55,2,3,2.0,type3,2.0,0
+M,38.0,4,Married,Lebanon,IT,Behavioral,15.0,4,62,1,5,7.0,type2,3.0,1
+M,26.0,4,Married,Lebanon,Logistics,Analytical,3.0,3,28,0,5,5.0,type3,1.0,1
+M,47.0,4,Single,Franklin,R&D,Analytical,25.0,2,33,1,5,9.0,type4,4.0,1
+M,28.0,1,Married,Lebanon,R&D,Directive,6.0,2,54,1,5,7.0,type2,2.0,0
+F,56.0,4,Single,Lebanon,Logistics,Analytical,33.0,3,41,2,3,6.0,type3,3.0,1
+F,52.0,3,Married,Springfield,IT,Conceptual,20.0,1,68,1,3,6.0,type2,3.0,0
+M,32.0,5,Married,Lebanon,R&D,Conceptual,9.0,1,61,1,2,5.0,type2,4.0,1
+M,24.0,4,Single,Clinton,R&D,Directive,5.0,1,42,1,5,5.0,type2,1.0,1
+F,45.0,1,Single,Washington,Logistics,Directive,19.0,2,29,2,2,5.0,type3,1.0,0
+F,60.0,3,Married,Lebanon,Purchasing,Conceptual,24.0,2,27,0,5,7.0,type3,1.0,0
+F,28.0,3,Single,Franklin,R&D,Analytical,4.0,2,46,0,4,7.0,type2,3.0,1
+F,54.0,3,Single,Franklin,Production,Analytical,31.0,1,66,1,3,4.0,type2,2.0,0
+M,31.0,3,Married,Springfield,Quality,Directive,2.0,2,56,1,2,1.0,type3,3.0,1
+F,25.0,3,Married,Lebanon,Sales,Analytical,6.0,4,52,1,4,5.0,type3,1.0,0
+M,38.0,4,Married,Clinton,IT,Conceptual,15.0,3,68,0,5,10.0,type3,2.0,0
+M,25.0,4,Married,Franklin,Operarions,Directive,6.0,2,39,2,5,5.0,type2,3.0,1
+M,32.0,3,Married,Washington,IT,Analytical,7.0,4,72,0,2,8.0,type0,4.0,0
+F,47.0,3,Single,Washington,IT,Behavioral,18.0,4,71,1,1,6.0,type2,3.0,0
+M,47.0,4,Single,Springfield,R&D,Analytical,11.0,2,32,0,3,5.0,type3,3.0,1
+M,46.0,1,Married,Lebanon,Sales,Directive,16.0,1,44,0,4,9.0,type2,5.0,1
+F,43.0,5,Married,Springfield,IT,Directive,9.0,1,51,0,2,8.0,type3,1.0,0
+F,49.0,4,Married,Lebanon,Purchasing,Conceptual,13.0,2,53,1,2,4.0,type3,3.0,1
+M,34.0,3,Married,Lebanon,R&D,Analytical,5.0,1,54,1,5,4.0,type3,2.0,1
+M,30.0,4,Single,Lebanon,R&D,Behavioral,7.0,3,46,0,2,5.0,type2,4.0,1
+F,19.0,3,Single,Washington,IT,Analytical,0.0,0,60,1,4,4.0,type3,1.0,0
+M,29.0,5,Single,Franklin,Logistics,Analytical,5.0,1,48,2,3,7.0,type2,2.0,0
+F,60.0,4,Married,Lebanon,Sales,Analytical,37.0,1,64,2,2,6.0,type2,3.0,0
+M,59.0,5,Married,Franklin,Operarions,Analytical,27.0,2,29,1,3,3.0,type2,1.0,1
+F,42.0,4,Single,Franklin,Purchasing,Analytical,7.0,4,71,1,1,8.0,type3,1.0,1
+M,54.0,1,Single,Lebanon,Sales,Behavioral,20.0,3,49,1,1,10.0,type3,1.0,1
+F,54.0,4,Married,Clinton,Purchasing,Analytical,26.0,1,54,0,5,4.0,type3,4.0,1
+F,35.0,1,Single,Franklin,Logistics,Analytical,6.0,1,47,1,3,6.0,type2,3.0,1
+M,29.0,4,Married,Lebanon,Human Resource Management,Directive,5.0,2,35,0,2,4.0,type3,1.0,0
+F,23.0,3,Married,Lebanon,R&D,Analytical,4.0,4,54,0,4,7.0,type3,3.0,1
+F,36.0,5,Married,Washington,Sales,Analytical,11.0,4,21,0,3,6.0,type2,1.0,1
+M,31.0,3,Married,Springfield,Quality,Directive,2.0,2,56,1,2,1.0,type3,3.0,1
+M,32.0,5,Single,Franklin,Production,Directive,8.0,4,38,1,5,7.0,type2,3.0,0
+M,37.0,3,Single,Washington,Human Resource Management,Behavioral,10.0,2,22,1,2,8.0,type2,2.0,1
+F,36.0,4,Single,Springfield,R&D,Conceptual,9.0,3,66,0,3,8.0,type2,3.0,1
+F,26.0,3,Married,Clinton,Purchasing,Conceptual,3.0,1,48,2,2,10.0,type2,4.0,0
+F,26.0,3,Married,Springfield,Purchasing,Behavioral,2.0,1,24,1,5,9.0,type3,1.0,1
+F,47.0,1,Single,Springfield,Logistics,Directive,10.0,3,42,1,2,7.0,type2,1.0,1
+F,32.0,3,Married,Lebanon,Logistics,Behavioral,5.0,1,35,1,1,9.0,type3,4.0,0
+F,53.0,4,Single,Springfield,Production,Behavioral,25.0,1,24,1,1,6.0,type2,2.0,0
+F,24.0,3,Single,Franklin,Operarions,Directive,5.0,3,60,1,5,9.0,type3,3.0,1
+M,20.0,3,Married,Clinton,IT,Behavioral,1.0,1,40,1,3,7.0,type2,1.0,0
+F,38.0,3,Single,Springfield,IT,Conceptual,11.0,2,62,1,1,8.0,type3,2.0,0
+M,27.0,3,Single,Washington,IT,Analytical,5.0,2,38,1,1,5.0,type4,3.0,0
+F,49.0,3,Single,Springfield,IT,Directive,10.0,1,59,1,2,3.0,type2,4.0,1
+F,23.0,2,Married,Clinton,Logistics,Directive,4.0,1,29,0,3,8.0,type2,3.0,0
+M,50.0,3,Married,Washington,Operarions,Directive,16.0,4,29,1,2,5.0,type2,2.0,1
+M,25.0,4,Single,Lebanon,Operarions,Directive,6.0,4,67,0,3,10.0,type2,3.0,1
+M,44.0,5,Married,Washington,IT,Analytical,13.0,4,57,0,2,4.0,type2,3.0,1
+F,27.0,2,Single,Clinton,Sales,Analytical,4.0,4,36,1,2,5.0,type3,3.0,1
+M,65.0,5,Single,Lebanon,IT,Directive,28.0,4,51,1,2,6.0,type3,1.0,1
+F,50.0,2,Single,Lebanon,Sales,Behavioral,23.0,4,21,1,5,5.0,type3,4.0,0
+F,58.0,1,Single,Springfield,Logistics,Behavioral,33.0,1,36,1,1,7.0,type2,3.0,1
+F,21.0,4,Married,Franklin,R&D,Directive,2.0,1,71,1,3,8.0,type3,1.0,1
+M,24.0,5,Married,Washington,Sales,Directive,5.0,3,22,1,4,9.0,type3,1.0,1
+F,25.0,4,Single,Franklin,Sales,Directive,6.0,2,64,1,3,8.0,type2,4.0,0
+F,42.0,5,Married,Lebanon,Sales,Analytical,4.0,1,54,0,2,8.0,type3,2.0,0
+F,42.0,1,Single,Washington,Purchasing,Analytical,8.0,4,63,0,4,7.0,type3,3.0,1
+F,44.0,3,Married,Lebanon,Operarions,Conceptual,5.0,2,36,1,3,6.0,type2,1.0,0
+F,27.0,5,Married,Lebanon,Purchasing,Behavioral,3.0,1,70,1,2,5.0,type2,4.0,1
+F,54.0,5,Single,Lebanon,Sales,Directive,17.0,2,29,0,1,5.0,type2,1.0,1
+M,38.0,4,Married,Franklin,Logistics,Analytical,10.0,3,20,1,2,6.0,type4,4.0,1
+F,42.0,5,Married,Lebanon,Operarions,Behavioral,7.0,3,60,1,5,6.0,type3,1.0,0
+F,47.0,3,Single,Clinton,Logistics,Conceptual,24.0,3,40,1,4,8.0,type2,2.0,1
+F,24.0,3,Married,Clinton,Operarions,Directive,5.0,1,51,1,3,5.0,type3,4.0,1
+F,27.0,4,Married,Franklin,Sales,Behavioral,5.0,4,64,1,3,6.0,type3,3.0,1
+M,46.0,1,Married,Washington,Accounting and Finance,Conceptual,19.0,2,67,1,1,7.0,type3,1.0,1
+M,35.0,2,Single,Clinton,Human Resource Management,Analytical,11.0,1,66,1,5,4.0,type2,1.0,0
+F,65.0,3,Married,Franklin,Operarions,Behavioral,27.0,3,71,2,2,7.0,type2,3.0,0
+M,35.0,3,Single,Clinton,IT,Directive,13.0,3,38,1,2,8.0,type3,2.0,0
+F,28.0,4,Single,Lebanon,R&D,Analytical,4.0,2,74,1,5,6.0,type4,1.0,0
+M,21.0,2,Single,Springfield,IT,Analytical,2.0,2,65,2,2,8.0,type2,1.0,1
+F,31.0,3,Married,Franklin,R&D,Behavioral,6.0,1,27,1,1,4.0,type0,2.0,0
+M,53.0,4,Single,Springfield,Accounting and Finance,Behavioral,26.0,4,31,1,1,5.0,type1,2.0,1
+M,63.0,3,Married,Springfield,Operarions,Directive,31.0,2,24,1,4,9.0,type3,4.0,1
+M,37.0,3,Single,Lebanon,R&D,Conceptual,11.0,1,59,0,3,5.0,type2,3.0,1
+M,34.0,3,Single,Washington,Human Resource Management,Analytical,5.0,2,62,1,4,9.0,type2,1.0,0
